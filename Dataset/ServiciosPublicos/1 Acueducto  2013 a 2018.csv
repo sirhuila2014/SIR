@@ -1,0 +1,775 @@
+vigencia,CODIGO DANE,MUNICIPIO,ENTIDAD ADMINISTRADORA,COBERTURA %,HORAS DE SERVICIO AL DIA,tipo,suscriptores
+2018,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,2060
+2018,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,35
+2018,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24,suscriptores Otros,154
+2018,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,"23,2",S U S C R I P T O R E S  Residencial,3040
+2018,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,"23,2", S U S C R I P T O R E S  Comercial,193
+2018,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,"23,2",suscriptores Otros,39
+2018,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,100,18,S U S C R I P T O R E S  Residencial,1156
+2018,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,100,18, S U S C R I P T O R E S  Comercial,24
+2018,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,100,18, S U S C R I P T O R E S  Industrial,1
+2018,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,100,18,suscriptores Otros,29
+2018,41078,Baraya,EMPUBARAYA,100,23,S U S C R I P T O R E S  Residencial,1239
+2018,41078,Baraya,EMPUBARAYA,100,23, S U S C R I P T O R E S  Comercial,21
+2018,41078,Baraya,EMPUBARAYA,100,23,suscriptores Otros,37
+2018,41298,Garzón,EMPUGAR E.S.P.,100,24,S U S C R I P T O R E S  Residencial,12594
+2018,41298,Garzón,EMPUGAR E.S.P.,100,24, S U S C R I P T O R E S  Comercial,856
+2018,41298,Garzón,EMPUGAR E.S.P.,100,24,suscriptores Otros,55
+2018,41319,Guadalupe,"Empresa de acued., alcant. y aseo de Guadalupe",100,12,S U S C R I P T O R E S  Residencial,1702
+2018,41319,Guadalupe,"Empresa de acued., alcant. y aseo de Guadalupe",100,12, S U S C R I P T O R E S  Comercial,59
+2018,41319,Guadalupe,"Empresa de acued., alcant. y aseo de Guadalupe",100,12,suscriptores Otros,19
+2018,41349,Hobo,Empresas Públicas de Hobo S.A. E.S.P.,100,4,S U S C R I P T O R E S  Residencial,1976
+2018,41349,Hobo,Empresas Públicas de Hobo S.A. E.S.P.,100,4, S U S C R I P T O R E S  Comercial,12
+2018,41349,Hobo,Empresas Públicas de Hobo S.A. E.S.P.,100,4, S U S C R I P T O R E S  Industrial,2
+2018,41349,Hobo,Empresas Públicas de Hobo S.A. E.S.P.,100,4,suscriptores Otros,35
+2018,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24,S U S C R I P T O R E S  Residencial,542
+2018,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24, S U S C R I P T O R E S  Comercial,66
+2018,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24, S U S C R I P T O R E S  Industrial,1
+2018,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24,suscriptores Otros,30
+2018,41551,Pitalito,EMPITALITO ESP,100,"23,6",S U S C R I P T O R E S  Residencial,23430
+2018,41551,Pitalito,EMPITALITO ESP,100,"23,6", S U S C R I P T O R E S  Comercial,2308
+2018,41551,Pitalito,EMPITALITO ESP,100,"23,6", S U S C R I P T O R E S  Industrial,11
+2018,41551,Pitalito,EMPITALITO ESP,100,"23,6",suscriptores Otros,132
+2018,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,"23,5",S U S C R I P T O R E S  Residencial,3872
+2018,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,"23,5", S U S C R I P T O R E S  Comercial,44
+2018,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,"23,5", S U S C R I P T O R E S  Industrial,14
+2018,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,"23,5",suscriptores Otros,40
+2018,41660,Saladoblanco,EMSEPUSA S.A.S. ESP,100,24,S U S C R I P T O R E S  Residencial,940
+2018,41660,Saladoblanco,EMSEPUSA S.A.S. ESP,100,24, S U S C R I P T O R E S  Comercial,4
+2018,41660,Saladoblanco,EMSEPUSA S.A.S. ESP,100,24,suscriptores Otros,13
+2018,41807,Timaná,EMTIMANA,100,"23,7",S U S C R I P T O R E S  Residencial,2755
+2018,41807,Timaná,EMTIMANA,100,"23,7", S U S C R I P T O R E S  Comercial,88
+2018,41807,Timaná,EMTIMANA,100,"23,7",suscriptores Otros,19
+2018,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,1545
+2018,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,31
+2018,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24, S U S C R I P T O R E S  Industrial,5
+2018,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24,suscriptores Otros,18
+2018,41885,Yaguará,Empresas Públicas de Yaguará S.A. ESP,100,24,S U S C R I P T O R E S  Residencial,2093
+2018,41885,Yaguará,Empresas Públicas de Yaguará S.A. ESP,100,24, S U S C R I P T O R E S  Comercial,5
+2018,41885,Yaguará,Empresas Públicas de Yaguará S.A. ESP,100,24,suscriptores Otros,46
+2017,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,2136
+2017,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,37
+2017,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24,suscriptores Otros,21
+2017,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,"23,3",S U S C R I P T O R E S  Residencial,2899
+2017,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,"23,3", S U S C R I P T O R E S  Comercial,120
+2017,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,"23,3",suscriptores Otros,33
+2017,41078,Baraya,EMPUBARAYA,100,24,S U S C R I P T O R E S  Residencial,1224
+2017,41078,Baraya,EMPUBARAYA,100,24, S U S C R I P T O R E S  Comercial,23
+2017,41078,Baraya,EMPUBARAYA,100,24, S U S C R I P T O R E S  Industrial,36
+2017,41548,El Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,S U S C R I P T O R E S  Residencial,1410
+2017,41548,El Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Comercial,85
+2017,41548,El Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Industrial,0
+2017,41548,El Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,suscriptores Otros,52
+2017,41306,Gigante,EMPUGIGANTE S.A. ESP,100,24,S U S C R I P T O R E S  Residencial,3248
+2017,41306,Gigante,EMPUGIGANTE S.A. ESP,100,24, S U S C R I P T O R E S  Comercial,192
+2017,41306,Gigante,EMPUGIGANTE S.A. ESP,100,24,suscriptores Otros,29
+2017,41349,Hobo,Empresas Públicas de Hobo,100,18,S U S C R I P T O R E S  Residencial,1952
+2017,41349,Hobo,Empresas Públicas de Hobo,100,18, S U S C R I P T O R E S  Comercial,21
+2017,41349,Hobo,Empresas Públicas de Hobo,100,18, S U S C R I P T O R E S  Industrial,5
+2017,41349,Hobo,Empresas Públicas de Hobo,100,18,suscriptores Otros,27
+2017,41503,Oporapa,Alcaldía Municipal,100,"22,5",S U S C R I P T O R E S  Residencial,665
+2017,41503,Oporapa,Alcaldía Municipal,100,"22,5", S U S C R I P T O R E S  Comercial,101
+2017,41503,Oporapa,Alcaldía Municipal,100,"22,5",suscriptores Otros,15
+2017,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24,S U S C R I P T O R E S  Residencial,525
+2017,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24, S U S C R I P T O R E S  Comercial,69
+2017,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24, S U S C R I P T O R E S  Industrial,1
+2017,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24,suscriptores Otros,28
+2017,41799,Tello,Empresas Públicas de Tello,100,"23,8",S U S C R I P T O R E S  Residencial,1779
+2017,41799,Tello,Empresas Públicas de Tello,100,"23,8", S U S C R I P T O R E S  Comercial,8
+2017,41799,Tello,Empresas Públicas de Tello,100,"23,8", S U S C R I P T O R E S  Industrial,4
+2017,41799,Tello,Empresas Públicas de Tello,100,"23,8",suscriptores Otros,26
+2017,41797,Tesalia,Empresas Públicas de Tesalia,100,"23,2",S U S C R I P T O R E S  Residencial,2432
+2017,41797,Tesalia,Empresas Públicas de Tesalia,100,"23,2", S U S C R I P T O R E S  Comercial,32
+2017,41797,Tesalia,Empresas Públicas de Tesalia,100,"23,2", S U S C R I P T O R E S  Industrial,2
+2017,41797,Tesalia,Empresas Públicas de Tesalia,100,"23,2",suscriptores Otros,32
+2017,41807,Timaná,EMTIMANA,100,"23,5",S U S C R I P T O R E S  Residencial,2728
+2017,41807,Timaná,EMTIMANA,100,"23,5", S U S C R I P T O R E S  Comercial,88
+2017,41807,Timaná,EMTIMANA,100,"23,5",suscriptores Otros,19
+2017,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,812
+2017,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,14
+2017,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24, S U S C R I P T O R E S  Industrial,1
+2017,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24,suscriptores Otros,14
+2017,41885,Yaguará,Empresas Públicas de Yaguará S.A. ESP,100,24,S U S C R I P T O R E S  Residencial,2076
+2017,41885,Yaguará,Empresas Públicas de Yaguará S.A. ESP,100,24, S U S C R I P T O R E S  Comercial,5
+2017,41885,Yaguará,Empresas Públicas de Yaguará S.A. ESP,100,24,suscriptores Otros,44
+2016,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23,S U S C R I P T O R E S  Residencial,1902
+2016,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23, S U S C R I P T O R E S  Comercial,36
+2016,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23, S U S C R I P T O R E S  Industrial,0
+2016,41013,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23,suscriptores Otros,19
+2016,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,23,S U S C R I P T O R E S  Residencial,2856
+2016,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,23, S U S C R I P T O R E S  Comercial,40
+2016,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,23, S U S C R I P T O R E S  Industrial,0
+2016,41020,Algeciras,Empresa de Servicios Públicos EMSERAL S.A. E.S.P.,100,23,suscriptores Otros,32
+2016,41244,Elías,Alcaldía Municipal,100,24,S U S C R I P T O R E S  Residencial,594
+2016,41244,Elías,Alcaldía Municipal,100,24, S U S C R I P T O R E S  Comercial,5
+2016,41244,Elías,Alcaldía Municipal,100,24, S U S C R I P T O R E S  Industrial,0
+2016,41244,Elías,Alcaldía Municipal,100,24,suscriptores Otros,17
+2016,41298,Garzón,EMPUGAR E.S.P.,100,"23,9",S U S C R I P T O R E S  Residencial,11437
+2016,41298,Garzón,EMPUGAR E.S.P.,100,"23,9", S U S C R I P T O R E S  Comercial,771
+2016,41298,Garzón,EMPUGAR E.S.P.,100,"23,9", S U S C R I P T O R E S  Industrial,0
+2016,41298,Garzón,EMPUGAR E.S.P.,100,"23,9",suscriptores Otros,55
+2016,41319,Guadalupe,EMPUG S.A ESP,100,24,S U S C R I P T O R E S  Residencial,1619
+2016,41319,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Comercial,59
+2016,41319,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Industrial,0
+2016,41319,Guadalupe,EMPUG S.A ESP,100,24,suscriptores Otros,0
+2016,41349,Hobo,Empresas Públicas de Hobo,100,18,S U S C R I P T O R E S  Residencial,1920
+2016,41349,Hobo,Empresas Públicas de Hobo,100,18, S U S C R I P T O R E S  Comercial,20
+2016,41349,Hobo,Empresas Públicas de Hobo,100,18, S U S C R I P T O R E S  Industrial,4
+2016,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24,S U S C R I P T O R E S  Residencial,525
+2016,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24, S U S C R I P T O R E S  Comercial,69
+2016,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24, S U S C R I P T O R E S  Industrial,1
+2016,41530,Palestina,Junta Administradora del Acueducto Regional de Palestina,100,24,suscriptores Otros,28
+2016,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,S U S C R I P T O R E S  Residencial,1410
+2016,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Comercial,85
+2016,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Industrial,0
+2016,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,suscriptores Otros,52
+2016,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,22,S U S C R I P T O R E S  Residencial,3623
+2016,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,22, S U S C R I P T O R E S  Comercial,27
+2016,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,22, S U S C R I P T O R E S  Industrial,0
+2016,41615,Rivera,Empresas de Servicios Públicos de Rivera,100,22,suscriptores Otros,35
+2016,41799,Tello,Empresas Públicas de Tello,100,"23,8",S U S C R I P T O R E S  Residencial,1780
+2016,41799,Tello,Empresas Públicas de Tello,100,"23,8", S U S C R I P T O R E S  Comercial,8
+2016,41799,Tello,Empresas Públicas de Tello,100,"23,8", S U S C R I P T O R E S  Industrial,4
+2016,41799,Tello,Empresas Públicas de Tello,100,"23,8",suscriptores Otros,28
+2016,41797,Tesalia,Empresas Públicas de Tesalia,100,22,S U S C R I P T O R E S  Residencial,2373
+2016,41797,Tesalia,Empresas Públicas de Tesalia,100,22, S U S C R I P T O R E S  Comercial,32
+2016,41797,Tesalia,Empresas Públicas de Tesalia,100,22, S U S C R I P T O R E S  Industrial,1
+2016,41797,Tesalia,Empresas Públicas de Tesalia,100,22,suscriptores Otros,29
+2016,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,813
+2016,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,2
+2016,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24, S U S C R I P T O R E S  Industrial,1
+2016,41872,Villavieja,Empresas Públicas de Villavieja S.A.S. E.S.P.,100,24,suscriptores Otros,12
+2015,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23,S U S C R I P T O R E S  Residencial,1866
+2015,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23, S U S C R I P T O R E S  Comercial,37
+2015,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23, S U S C R I P T O R E S  Industrial,0
+2015,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,23,suscriptores Otros,18
+2015,41298,Elías,Alcaldía Municipal,100,23,S U S C R I P T O R E S  Residencial,610
+2015,41298,Elías,Alcaldía Municipal,100,23, S U S C R I P T O R E S  Comercial,0
+2015,41298,Elías,Alcaldía Municipal,100,23, S U S C R I P T O R E S  Industrial,0
+2015,41298,Elías,Alcaldía Municipal,100,23,suscriptores Otros,0
+2015,41306,Garzón,EMPUGAR E.S.P.,100,"23,8",S U S C R I P T O R E S  Residencial,11110
+2015,41306,Garzón,EMPUGAR E.S.P.,100,"23,8", S U S C R I P T O R E S  Comercial,781
+2015,41306,Garzón,EMPUGAR E.S.P.,100,"23,8", S U S C R I P T O R E S  Industrial,0
+2015,41306,Garzón,EMPUGAR E.S.P.,100,"23,8",suscriptores Otros,52
+2015,41349,Guadalupe,EMPUG S.A ESP,100,24,S U S C R I P T O R E S  Residencial,1696
+2015,41349,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Comercial,59
+2015,41349,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Industrial,0
+2015,41349,Guadalupe,EMPUG S.A ESP,100,24,suscriptores Otros,0
+2015,41001,Nátaga,A.A.S.S E.S.P.,100,24,S U S C R I P T O R E S  Residencial,731
+2015,41001,Nátaga,A.A.S.S E.S.P.,100,24, S U S C R I P T O R E S  Comercial,17
+2015,41001,Nátaga,A.A.S.S E.S.P.,100,24, S U S C R I P T O R E S  Industrial,0
+2015,41001,Nátaga,A.A.S.S E.S.P.,100,24,suscriptores Otros,33
+2015,41503,Oporapa,Alcaldía Municipal,100,7,S U S C R I P T O R E S  Residencial,0
+2015,41503,Oporapa,Alcaldía Municipal,100,7, S U S C R I P T O R E S  Comercial,0
+2015,41503,Oporapa,Alcaldía Municipal,100,7, S U S C R I P T O R E S  Industrial,0
+2015,41503,Oporapa,Alcaldía Municipal,100,7,suscriptores Otros,0
+2015,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,S U S C R I P T O R E S  Residencial,1349
+2015,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Comercial,84
+2015,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Industrial,0
+2015,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,suscriptores Otros,33
+2015,41615,Rivera,Empresas Públicas de Rivera,100,24,S U S C R I P T O R E S  Residencial,3320
+2015,41615,Rivera,Empresas Públicas de Rivera,100,24, S U S C R I P T O R E S  Comercial,32
+2015,41615,Rivera,Empresas Públicas de Rivera,100,24, S U S C R I P T O R E S  Industrial,0
+2015,41615,Rivera,Empresas Públicas de Rivera,100,24,suscriptores Otros,37
+2015,41799,Tello,Empresas Públicas de Tello SAS E.S.P,100,24,S U S C R I P T O R E S  Residencial,1632
+2015,41799,Tello,Empresas Públicas de Tello SAS E.S.P,100,24, S U S C R I P T O R E S  Comercial,9
+2015,41799,Tello,Empresas Públicas de Tello SAS E.S.P,100,24, S U S C R I P T O R E S  Industrial,2
+2015,41799,Tello,Empresas Públicas de Tello SAS E.S.P,100,24,suscriptores Otros,26
+2015,41807,Timaná,EMPTIMANA,100,"23,9",S U S C R I P T O R E S  Residencial,2580
+2015,41807,Timaná,EMPTIMANA,100,"23,9", S U S C R I P T O R E S  Comercial,70
+2015,41807,Timaná,EMPTIMANA,100,"23,9", S U S C R I P T O R E S  Industrial,0
+2015,41807,Timaná,EMPTIMANA,100,"23,9",suscriptores Otros,20
+2014,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,1730
+2014,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,55
+2014,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,100,24,suscriptores Otros,20
+2014,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23,S U S C R I P T O R E S  Residencial,958
+2014,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23, S U S C R I P T O R E S  Comercial,12
+2014,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23, S U S C R I P T O R E S  Industrial,0
+2014,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23,suscriptores Otros,23
+2014,41298,Elías,Alcaldía Municipal,100,23,S U S C R I P T O R E S  Residencial,521
+2014,41298,Elías,Alcaldía Municipal,100,23, S U S C R I P T O R E S  Comercial,16
+2014,41298,Elías,Alcaldía Municipal,100,23, S U S C R I P T O R E S  Industrial,0
+2014,41298,Elías,Alcaldía Municipal,100,23,suscriptores Otros,9
+2014,41306,Garzón,EMPUGAR E.S.P.,100,24,S U S C R I P T O R E S  Residencial,10613
+2014,41306,Garzón,EMPUGAR E.S.P.,100,24, S U S C R I P T O R E S  Comercial,756
+2014,41306,Garzón,EMPUGAR E.S.P.,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41306,Garzón,EMPUGAR E.S.P.,100,24,suscriptores Otros,53
+2014,41349,Guadalupe,EMPUG S.A ESP,100,24,S U S C R I P T O R E S  Residencial,1565
+2014,41349,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Comercial,60
+2014,41349,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41349,Guadalupe,EMPUG S.A ESP,100,24,suscriptores Otros,18
+2014,41396,La Argentina,Empuarg S.A,100,24,S U S C R I P T O R E S  Residencial,1977
+2014,41396,La Argentina,Empuarg S.A,100,24, S U S C R I P T O R E S  Comercial,1
+2014,41396,La Argentina,Empuarg S.A,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41396,La Argentina,Empuarg S.A,100,24,suscriptores Otros,20
+2014,41001,Nátaga,A.A.S.S E.S.P.,100,24,S U S C R I P T O R E S  Residencial,648
+2014,41001,Nátaga,A.A.S.S E.S.P.,100,24, S U S C R I P T O R E S  Comercial,17
+2014,41001,Nátaga,A.A.S.S E.S.P.,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41001,Nátaga,A.A.S.S E.S.P.,100,24,suscriptores Otros,33
+2014,41530,Palestina,Junta Administradora del Acueducto Palestina,100,24,S U S C R I P T O R E S  Residencial,503
+2014,41530,Palestina,Junta Administradora del Acueducto Palestina,100,24, S U S C R I P T O R E S  Comercial,7
+2014,41530,Palestina,Junta Administradora del Acueducto Palestina,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41530,Palestina,Junta Administradora del Acueducto Palestina,100,24,suscriptores Otros,33
+2014,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,S U S C R I P T O R E S  Residencial,1371
+2014,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Comercial,31
+2014,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,suscriptores Otros,85
+2014,41799,Tello,Empresas Públicas de Tello,100,24,S U S C R I P T O R E S  Residencial,1576
+2014,41799,Tello,Empresas Públicas de Tello,100,24, S U S C R I P T O R E S  Comercial,9
+2014,41799,Tello,Empresas Públicas de Tello,100,24, S U S C R I P T O R E S  Industrial,1
+2014,41799,Tello,Empresas Públicas de Tello,100,24,suscriptores Otros,6
+2014,41807,Timaná,EMPTIMANA,100,"23,9",S U S C R I P T O R E S  Residencial,2128
+2014,41807,Timaná,EMPTIMANA,100,"23,9", S U S C R I P T O R E S  Comercial,47
+2014,41807,Timaná,EMPTIMANA,100,"23,9", S U S C R I P T O R E S  Industrial,0
+2014,41807,Timaná,EMPTIMANA,100,"23,9",suscriptores Otros,0
+2014,41872,Villavieja,Empresas Públicas de Villavieja,100,24,S U S C R I P T O R E S  Residencial,766
+2014,41872,Villavieja,Empresas Públicas de Villavieja,100,24, S U S C R I P T O R E S  Comercial,2
+2014,41872,Villavieja,Empresas Públicas de Villavieja,100,24, S U S C R I P T O R E S  Industrial,1
+2014,41872,Villavieja,Empresas Públicas de Villavieja,100,24,suscriptores Otros,12
+2014,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,2047
+2014,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,63
+2014,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24, S U S C R I P T O R E S  Industrial,0
+2014,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24,suscriptores Otros,7
+2013,41026,Algeciras,EMSERAL S.A.  E.S.P.,100,22,S U S C R I P T O R E S  Residencial,2493
+2013,41026,Algeciras,EMSERAL S.A.  E.S.P.,100,22, S U S C R I P T O R E S  Comercial,41
+2013,41026,Algeciras,EMSERAL S.A.  E.S.P.,100,22, S U S C R I P T O R E S  Industrial,0
+2013,41026,Algeciras,EMSERAL S.A.  E.S.P.,100,22,suscriptores Otros,21
+2013,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23,S U S C R I P T O R E S  Residencial,936
+2013,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23, S U S C R I P T O R E S  Comercial,12
+2013,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23, S U S C R I P T O R E S  Industrial,0
+2013,41078,Altamira,EMSER ALTAMIRA S.A. E.S.P.,100,23,suscriptores Otros,23
+2013,41319,Gigante,EMPUGIGANTE S.A. E.S.P,100,"23,4",S U S C R I P T O R E S  Residencial,2784
+2013,41319,Gigante,EMPUGIGANTE S.A. E.S.P,100,"23,4", S U S C R I P T O R E S  Comercial,161
+2013,41319,Gigante,EMPUGIGANTE S.A. E.S.P,100,"23,4", S U S C R I P T O R E S  Industrial,0
+2013,41319,Gigante,EMPUGIGANTE S.A. E.S.P,100,"23,4",suscriptores Otros,24
+2013,41349,Guadalupe,EMPUG S.A ESP,100,24,S U S C R I P T O R E S  Residencial,1528
+2013,41349,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Comercial,59
+2013,41349,Guadalupe,EMPUG S.A ESP,100,24, S U S C R I P T O R E S  Industrial,0
+2013,41349,Guadalupe,EMPUG S.A ESP,100,24,suscriptores Otros,17
+2013,41396,La Argentina,Empuarg S.A,100,24,S U S C R I P T O R E S  Residencial,1464
+2013,41396,La Argentina,Empuarg S.A,100,24, S U S C R I P T O R E S  Comercial,1
+2013,41396,La Argentina,Empuarg S.A,100,24, S U S C R I P T O R E S  Industrial,0
+2013,41396,La Argentina,Empuarg S.A,100,24,suscriptores Otros,20
+2013,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,S U S C R I P T O R E S  Residencial,1341
+2013,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Comercial,91
+2013,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24, S U S C R I P T O R E S  Industrial,0
+2013,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,100,24,suscriptores Otros,31
+2013,41799,Tello,Empresas Públicas de Tello,100,"23,9",S U S C R I P T O R E S  Residencial,1547
+2013,41799,Tello,Empresas Públicas de Tello,100,"23,9", S U S C R I P T O R E S  Comercial,8
+2013,41799,Tello,Empresas Públicas de Tello,100,"23,9", S U S C R I P T O R E S  Industrial,2
+2013,41799,Tello,Empresas Públicas de Tello,100,"23,9",suscriptores Otros,30
+2013,41872,Villavieja,Empresas Públicas de Villavieja,100,24,S U S C R I P T O R E S  Residencial,755
+2013,41872,Villavieja,Empresas Públicas de Villavieja,100,24, S U S C R I P T O R E S  Comercial,1
+2013,41872,Villavieja,Empresas Públicas de Villavieja,100,24, S U S C R I P T O R E S  Industrial,1
+2013,41872,Villavieja,Empresas Públicas de Villavieja,100,24,suscriptores Otros,12
+2013,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24,S U S C R I P T O R E S  Residencial,2018
+2013,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24, S U S C R I P T O R E S  Comercial,45
+2013,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24, S U S C R I P T O R E S  Industrial,0
+2013,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,100,24,suscriptores Otros,7
+2018,41016,Aipe,Empresas Públicas de Aipe,98,24,S U S C R I P T O R E S  Residencial,2950
+2018,41016,Aipe,Empresas Públicas de Aipe,98,24, S U S C R I P T O R E S  Comercial,40
+2018,41016,Aipe,Empresas Públicas de Aipe,98,24, S U S C R I P T O R E S  Industrial,4
+2018,41016,Aipe,Empresas Públicas de Aipe,98,24,suscriptores Otros,32
+2018,41206,Colombia,EMPCOLOMBIA HUILA S.A.S,98,"23,4",S U S C R I P T O R E S  Residencial,780
+2018,41206,Colombia,EMPCOLOMBIA HUILA S.A.S,98,"23,4", S U S C R I P T O R E S  Comercial,20
+2018,41206,Colombia,EMPCOLOMBIA HUILA S.A.S,98,"23,4",suscriptores Otros,29
+2018,41378,La Argentina,Empuarg S.A,98,"23,5",S U S C R I P T O R E S  Residencial,1577
+2018,41378,La Argentina,Empuarg S.A,98,"23,5", S U S C R I P T O R E S  Comercial,1
+2018,41378,La Argentina,Empuarg S.A,98,"23,5",suscriptores Otros,18
+2018,41483,Nátaga,AGUAS DEL HUILA E.S.P.,98,"23,1",S U S C R I P T O R E S  Residencial,783
+2018,41483,Nátaga,AGUAS DEL HUILA E.S.P.,98,"23,1", S U S C R I P T O R E S  Comercial,14
+2018,41483,Nátaga,AGUAS DEL HUILA E.S.P.,98,"23,1",suscriptores Otros,30
+2018,41518,Paicol,Aguas del Huila S.A.  E.S.P.,98,"23,2",S U S C R I P T O R E S  Residencial,900
+2018,41518,Paicol,Aguas del Huila S.A.  E.S.P.,98,"23,2", S U S C R I P T O R E S  Comercial,51
+2018,41518,Paicol,Aguas del Huila S.A.  E.S.P.,98,"23,2",suscriptores Otros,18
+2018,41524,Palermo,Empresas Públicas de Palermo E.S.P.,98,24,S U S C R I P T O R E S  Residencial,5883
+2018,41524,Palermo,Empresas Públicas de Palermo E.S.P.,98,24, S U S C R I P T O R E S  Comercial,74
+2018,41524,Palermo,Empresas Públicas de Palermo E.S.P.,98,24,suscriptores Otros,99
+2018,41676,Santa María,Aguas del Huila S.A.  E.S.P.,98,"22,5",S U S C R I P T O R E S  Residencial,969
+2018,41676,Santa María,Aguas del Huila S.A.  E.S.P.,98,"22,5", S U S C R I P T O R E S  Comercial,13
+2018,41676,Santa María,Aguas del Huila S.A.  E.S.P.,98,"22,5",suscriptores Otros,32
+2018,41770,Suaza,EMPUSUAZA,98,"23,5",S U S C R I P T O R E S  Residencial,1407
+2018,41770,Suaza,EMPUSUAZA,98,"23,5", S U S C R I P T O R E S  Comercial,80
+2018,41770,Suaza,EMPUSUAZA,98,"23,5",suscriptores Otros,21
+2017,41006,Acevedo,EMPACEVEDO S.A.S.,98,24,S U S C R I P T O R E S  Residencial,1789
+2017,41006,Acevedo,EMPACEVEDO S.A.S.,98,24, S U S C R I P T O R E S  Comercial,182
+2017,41006,Acevedo,EMPACEVEDO S.A.S.,98,24,suscriptores Otros,967
+2017,41016,Aipe,Empresas Públicas de Aipe,98,"23,5",S U S C R I P T O R E S  Residencial,3058
+2017,41016,Aipe,Empresas Públicas de Aipe,98,"23,5", S U S C R I P T O R E S  Comercial,32
+2017,41016,Aipe,Empresas Públicas de Aipe,98,"23,5", S U S C R I P T O R E S  Industrial,3
+2017,41016,Aipe,Empresas Públicas de Aipe,98,"23,5",suscriptores Otros,33
+2017,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,98,18,S U S C R I P T O R E S  Residencial,1013
+2017,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,98,18, S U S C R I P T O R E S  Comercial,9
+2017,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,98,18,suscriptores Otros,23
+2017,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,98,24,S U S C R I P T O R E S  Residencial,1521
+2017,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,98,24, S U S C R I P T O R E S  Comercial,192
+2017,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,98,24,suscriptores Otros,30
+2017,41378,La Argentina,Empuarg S.A,98,"23,5",S U S C R I P T O R E S  Residencial,1577
+2017,41378,La Argentina,Empuarg S.A,98,"23,5", S U S C R I P T O R E S  Comercial,1
+2017,41378,La Argentina,Empuarg S.A,98,"23,5",suscriptores Otros,18
+2017,41524,Palermo,Empresas Públicas de Palermo E.S.P.,98,22,S U S C R I P T O R E S  Residencial,5756
+2017,41524,Palermo,Empresas Públicas de Palermo E.S.P.,98,22, S U S C R I P T O R E S  Comercial,75
+2017,41524,Palermo,Empresas Públicas de Palermo E.S.P.,98,22,suscriptores Otros,96
+2017,41660,Saladoblanco,EMSEPUSA S.A.S. ESP,98,24,S U S C R I P T O R E S  Residencial,924
+2017,41660,Saladoblanco,EMSEPUSA S.A.S. ESP,98,24, S U S C R I P T O R E S  Comercial,6
+2017,41660,Saladoblanco,EMSEPUSA S.A.S. ESP,98,24,suscriptores Otros,13
+2017,41770,Suaza,EMPUSUAZA,98,24,S U S C R I P T O R E S  Residencial,1349
+2017,41770,Suaza,EMPUSUAZA,98,24, S U S C R I P T O R E S  Comercial,84
+2017,41770,Suaza,EMPUSUAZA,98,24,suscriptores Otros,18
+2016,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,98,24,S U S C R I P T O R E S  Residencial,1443
+2016,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,98,24, S U S C R I P T O R E S  Comercial,224
+2016,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,98,24,suscriptores Otros,28
+2016,41378,La Argentina,Empuarg S.A,98,"23,5",S U S C R I P T O R E S  Residencial,1542
+2016,41378,La Argentina,Empuarg S.A,98,"23,5", S U S C R I P T O R E S  Comercial,1
+2016,41378,La Argentina,Empuarg S.A,98,"23,5",suscriptores Otros,18
+2016,41660,Saladoblanco,EMSEPUSA,98,24,S U S C R I P T O R E S  Residencial,892
+2016,41660,Saladoblanco,EMSEPUSA,98,24,suscriptores Otros,14
+2016,41668,San Agustín,San Agustín E.S.P.,98,"23,5",S U S C R I P T O R E S  Residencial,2455
+2016,41668,San Agustín,San Agustín E.S.P.,98,"23,5", S U S C R I P T O R E S  Comercial,339
+2016,41668,San Agustín,San Agustín E.S.P.,98,"23,5", S U S C R I P T O R E S  Industrial,2
+2016,41668,San Agustín,San Agustín E.S.P.,98,"23,5",suscriptores Otros,25
+2015,41668,San Agustín,San Agustín E.S.P.,98,23,S U S C R I P T O R E S  Residencial,2357
+2015,41668,San Agustín,San Agustín E.S.P.,98,23, S U S C R I P T O R E S  Comercial,337
+2015,41668,San Agustín,San Agustín E.S.P.,98,23, S U S C R I P T O R E S  Industrial,2
+2015,41668,San Agustín,San Agustín E.S.P.,98,23,suscriptores Otros,25
+2015,41770,Suaza,EMPUSUAZA,98,24,S U S C R I P T O R E S  Residencial,1316
+2015,41770,Suaza,EMPUSUAZA,98,24, S U S C R I P T O R E S  Comercial,8
+2015,41770,Suaza,EMPUSUAZA,98,24,suscriptores Otros,17
+2015,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5",S U S C R I P T O R E S  Residencial,1475
+2015,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5", S U S C R I P T O R E S  Comercial,59
+2015,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5", S U S C R I P T O R E S  Industrial,3
+2015,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5",suscriptores Otros,27
+2015,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,98,"23,5",S U S C R I P T O R E S  Residencial,1342
+2015,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,98,"23,5",suscriptores Otros,23
+2015,41797,Tesalia,Emptesalia S.A.E.S.P,98,20,S U S C R I P T O R E S  Residencial,2363
+2015,41797,Tesalia,Emptesalia S.A.E.S.P,98,20, S U S C R I P T O R E S  Comercial,34
+2015,41797,Tesalia,Emptesalia S.A.E.S.P,98,20, S U S C R I P T O R E S  Industrial,2
+2015,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,98,"23,5",S U S C R I P T O R E S  Residencial,2033
+2015,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,98,"23,5", S U S C R I P T O R E S  Comercial,5
+2015,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,98,"23,5",suscriptores Otros,43
+2014,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,98,"22,5",S U S C R I P T O R E S  Residencial,91556
+2014,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,98,"22,5", S U S C R I P T O R E S  Comercial,7068
+2014,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,98,"22,5", S U S C R I P T O R E S  Industrial,55
+2014,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,98,"22,5",suscriptores Otros,258
+2014,41797,Tesalia,Emptesalia S.A.E.S.P,98,22,S U S C R I P T O R E S  Residencial,2129
+2014,41797,Tesalia,Emptesalia S.A.E.S.P,98,22, S U S C R I P T O R E S  Comercial,8
+2013,41132,Baraya,EMPUBARAYA,98,12,S U S C R I P T O R E S  Residencial,1127
+2013,41132,Baraya,EMPUBARAYA,98,12, S U S C R I P T O R E S  Comercial,26
+2013,41132,Baraya,EMPUBARAYA,98,12,suscriptores Otros,31
+2013,41676,Santa María,Aguas del Huila S.A.  E.S.P.,98,"23,5",S U S C R I P T O R E S  Residencial,861
+2013,41676,Santa María,Aguas del Huila S.A.  E.S.P.,98,"23,5", S U S C R I P T O R E S  Comercial,7
+2013,41676,Santa María,Aguas del Huila S.A.  E.S.P.,98,"23,5",suscriptores Otros,29
+2013,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5",S U S C R I P T O R E S  Residencial,1337
+2013,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5", S U S C R I P T O R E S  Comercial,56
+2013,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5", S U S C R I P T O R E S  Industrial,2
+2013,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,98,"23,5",suscriptores Otros,27
+2013,41797,Tesalia,Emptesalia S.A.E.S.P,98,22,S U S C R I P T O R E S  Residencial,2231
+2013,41797,Tesalia,Emptesalia S.A.E.S.P,98,22, S U S C R I P T O R E S  Comercial,37
+2013,41797,Tesalia,Emptesalia S.A.E.S.P,98,22,suscriptores Otros,6
+2018,41001,Neiva,Empresas Públicas de Neiva,"0,98","23,8",S U S C R I P T O R E S  Residencial,106140
+2018,41001,Neiva,Empresas Públicas de Neiva,"0,98","23,8", S U S C R I P T O R E S  Comercial,9235
+2018,41001,Neiva,Empresas Públicas de Neiva,"0,98","23,8", S U S C R I P T O R E S  Industrial,36
+2018,41001,Neiva,Empresas Públicas de Neiva,"0,98","23,8",suscriptores Otros,349
+2018,41503,Oporapa,Alcaldía Municipal,95,12,S U S C R I P T O R E S  Residencial,668
+2018,41503,Oporapa,Alcaldía Municipal,95,12, S U S C R I P T O R E S  Comercial,94
+2018,41503,Oporapa,Alcaldía Municipal,95,12,suscriptores Otros,14
+2018,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,99,23,S U S C R I P T O R E S  Residencial,1614
+2018,41548,Pital,Aguas y Aseo de El Pital y Agrado S.A.,99,23, S U S C R I P T O R E S  Comercial,87
+2018,41668,San Agustín,San Agustín E.S.P.,,"22,7",S U S C R I P T O R E S  Residencial,2578
+2018,41668,San Agustín,San Agustín E.S.P.,,"22,7", S U S C R I P T O R E S  Comercial,332
+2018,41668,San Agustín,San Agustín E.S.P.,,"22,7", S U S C R I P T O R E S  Industrial,2
+2018,41668,San Agustín,San Agustín E.S.P.,,"22,7",suscriptores Otros,28
+2018,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23,S U S C R I P T O R E S  Residencial,1688
+2018,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23, S U S C R I P T O R E S  Comercial,64
+2018,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23, S U S C R I P T O R E S  Industrial,3
+2018,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23,suscriptores Otros,31
+2018,41799,Tello,Empresas Públicas de Tello,"99,8",23,S U S C R I P T O R E S  Residencial,1853
+2018,41799,Tello,Empresas Públicas de Tello,"99,8",23, S U S C R I P T O R E S  Comercial,8
+2018,41799,Tello,Empresas Públicas de Tello,"99,8",23, S U S C R I P T O R E S  Industrial,4
+2018,41799,Tello,Empresas Públicas de Tello,"99,8",23,suscriptores Otros,9
+2018,41797,Tesalia,Empresas Públicas de Tesalia,"99,7","23,5",S U S C R I P T O R E S  Residencial,2449
+2018,41797,Tesalia,Empresas Públicas de Tesalia,"99,7","23,5", S U S C R I P T O R E S  Comercial,32
+2018,41797,Tesalia,Empresas Públicas de Tesalia,"99,7","23,5", S U S C R I P T O R E S  Industrial,1
+2018,41797,Tesalia,Empresas Públicas de Tesalia,"99,7","23,5",suscriptores Otros,30
+2017,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,93,23,S U S C R I P T O R E S  Residencial,1019
+2017,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,93,23, S U S C R I P T O R E S  Comercial,10
+2017,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,93,23,suscriptores Otros,22
+2017,41396,La Plata,Emserpla E.S.P.,"92,08",23,S U S C R I P T O R E S  Residencial,7244
+2017,41396,La Plata,Emserpla E.S.P.,"92,08",23, S U S C R I P T O R E S  Comercial,541
+2017,41396,La Plata,Emserpla E.S.P.,"92,08",23,suscriptores Otros,82
+2017,41001,Neiva,Empresas Públicas de Neiva,97,"23,9",S U S C R I P T O R E S  Residencial,104139
+2017,41001,Neiva,Empresas Públicas de Neiva,97,"23,9", S U S C R I P T O R E S  Comercial,7842
+2017,41001,Neiva,Empresas Públicas de Neiva,97,"23,9", S U S C R I P T O R E S  Industrial,58
+2017,41001,Neiva,Empresas Públicas de Neiva,97,"23,9",suscriptores Otros,325
+2017,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"99,5","24,4",S U S C R I P T O R E S  Residencial,880
+2017,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"99,5","24,4", S U S C R I P T O R E S  Comercial,49
+2017,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"99,5","24,4",suscriptores Otros,20
+2017,41551,Pitalito,EMPITALITO ESP,"99,92","23,7",S U S C R I P T O R E S  Residencial,22457
+2017,41551,Pitalito,EMPITALITO ESP,"99,92","23,7", S U S C R I P T O R E S  Comercial,2227
+2017,41551,Pitalito,EMPITALITO ESP,"99,92","23,7", S U S C R I P T O R E S  Industrial,13
+2017,41551,Pitalito,EMPITALITO ESP,"99,92","23,7",suscriptores Otros,127
+2017,41615,Rivera,Empresas de Servicios Públicos de Rivera,97,"23,5",S U S C R I P T O R E S  Residencial,4196
+2017,41615,Rivera,Empresas de Servicios Públicos de Rivera,97,"23,5", S U S C R I P T O R E S  Comercial,37
+2017,41615,Rivera,Empresas de Servicios Públicos de Rivera,97,"23,5", S U S C R I P T O R E S  Industrial,1
+2017,41615,Rivera,Empresas de Servicios Públicos de Rivera,97,"23,5",suscriptores Otros,41
+2017,41668,San Agustín,San Agustín E.S.P.,,,S U S C R I P T O R E S  Residencial,2523
+2017,41668,San Agustín,San Agustín E.S.P.,,, S U S C R I P T O R E S  Comercial,335
+2017,41668,San Agustín,San Agustín E.S.P.,,, S U S C R I P T O R E S  Industrial,2
+2017,41668,San Agustín,San Agustín E.S.P.,,,suscriptores Otros,26
+2017,41676,Santa María,Aguas del Huila S.A.  E.S.P.,"98,7","22,5",S U S C R I P T O R E S  Residencial,942
+2017,41676,Santa María,Aguas del Huila S.A.  E.S.P.,"98,7","22,5", S U S C R I P T O R E S  Comercial,9
+2017,41676,Santa María,Aguas del Huila S.A.  E.S.P.,"98,7","22,5",suscriptores Otros,32
+2017,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23,S U S C R I P T O R E S  Residencial,1688
+2017,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23, S U S C R I P T O R E S  Comercial,64
+2017,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23, S U S C R I P T O R E S  Industrial,3
+2017,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23,suscriptores Otros,31
+2017,41801,Teruel,EMPTERUEL,99,"23,5",S U S C R I P T O R E S  Residencial,1352
+2017,41801,Teruel,EMPTERUEL,99,"23,5",suscriptores Otros,23
+2016,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,97,19,S U S C R I P T O R E S  Residencial,988
+2016,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,97,19, S U S C R I P T O R E S  Comercial,9
+2016,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,97,19,suscriptores Otros,23
+2016,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,90,22,S U S C R I P T O R E S  Residencial,981
+2016,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,90,22, S U S C R I P T O R E S  Comercial,59
+2016,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,90,22,suscriptores Otros,14
+2016,41396,La Plata,Emserpla E.S.P.,"96,15",23,S U S C R I P T O R E S  Residencial,6711
+2016,41396,La Plata,Emserpla E.S.P.,"96,15",23, S U S C R I P T O R E S  Comercial,526
+2016,41396,La Plata,Emserpla E.S.P.,"96,15",23,suscriptores Otros,82
+2016,41503,Oporapa,Alcaldía Municipal,90,10,S U S C R I P T O R E S  Residencial,790
+2016,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"99,5",23,S U S C R I P T O R E S  Residencial,871
+2016,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"99,5",23, S U S C R I P T O R E S  Comercial,48
+2016,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"99,5",23,suscriptores Otros,17
+2016,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"93,64",22,S U S C R I P T O R E S  Residencial,5170
+2016,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"93,64",22, S U S C R I P T O R E S  Comercial,79
+2016,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"93,64",22, S U S C R I P T O R E S  Industrial,20
+2016,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"93,64",22,suscriptores Otros,68
+2016,41551,Pitalito,EMPITALITO ESP,"99,91","23,7",S U S C R I P T O R E S  Residencial,21562
+2016,41551,Pitalito,EMPITALITO ESP,"99,91","23,7", S U S C R I P T O R E S  Comercial,2166
+2016,41551,Pitalito,EMPITALITO ESP,"99,91","23,7", S U S C R I P T O R E S  Industrial,12
+2016,41551,Pitalito,EMPITALITO ESP,"99,91","23,7",suscriptores Otros,126
+2016,41770,Suaza,EMPUSUAZA,86,23,S U S C R I P T O R E S  Residencial,2062
+2016,41770,Suaza,EMPUSUAZA,86,23, S U S C R I P T O R E S  Comercial,19
+2016,41770,Suaza,EMPUSUAZA,86,23,suscriptores Otros,19
+2016,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23,S U S C R I P T O R E S  Residencial,1537
+2016,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23, S U S C R I P T O R E S  Comercial,59
+2016,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23, S U S C R I P T O R E S  Industrial,3
+2016,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,"98,5",23,suscriptores Otros,28
+2016,41801,Teruel,EMPTERUEL,99,"23,5",S U S C R I P T O R E S  Residencial,1439
+2016,41801,Teruel,EMPTERUEL,99,"23,5",suscriptores Otros,25
+2015,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,97,"23,9",S U S C R I P T O R E S  Residencial,96877
+2015,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,97,"23,9", S U S C R I P T O R E S  Comercial,7368
+2015,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,97,"23,9", S U S C R I P T O R E S  Industrial,54
+2015,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,97,"23,9",suscriptores Otros,262
+2015,41013,Acevedo,EMPACEVEDO,96,23,S U S C R I P T O R E S  Residencial,1329
+2015,41013,Acevedo,EMPACEVEDO,96,23, S U S C R I P T O R E S  Comercial,158
+2015,41013,Acevedo,EMPACEVEDO,96,23,suscriptores Otros,21
+2015,41244,Colombia,Aguas del Huila S.A.  E.S.P.,99,23,S U S C R I P T O R E S  Residencial,726
+2015,41244,Colombia,Aguas del Huila S.A.  E.S.P.,99,23, S U S C R I P T O R E S  Comercial,25
+2015,41244,Colombia,Aguas del Huila S.A.  E.S.P.,99,23,suscriptores Otros,33
+2015,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",97,"23,5",S U S C R I P T O R E S  Residencial,1871
+2015,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",97,"23,5", S U S C R I P T O R E S  Comercial,13
+2015,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",97,"23,5", S U S C R I P T O R E S  Industrial,2
+2015,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",97,"23,5",suscriptores Otros,36
+2015,41483,La Plata,Emserpla E.S.P.,96,23,S U S C R I P T O R E S  Residencial,6374
+2015,41483,La Plata,Emserpla E.S.P.,96,23, S U S C R I P T O R E S  Comercial,522
+2015,41483,La Plata,Emserpla E.S.P.,96,23,suscriptores Otros,69
+2015,41676,Santa María,Aguas del Huila S.A.  E.S.P.,99,"23,2",S U S C R I P T O R E S  Residencial,902
+2015,41676,Santa María,Aguas del Huila S.A.  E.S.P.,99,"23,2", S U S C R I P T O R E S  Comercial,7
+2015,41676,Santa María,Aguas del Huila S.A.  E.S.P.,99,"23,2", S U S C R I P T O R E S  Industrial,30
+2014,41013,Acevedo,EMPACEVEDO,95,23,S U S C R I P T O R E S  Residencial,1281
+2014,41013,Acevedo,EMPACEVEDO,95,23, S U S C R I P T O R E S  Comercial,167
+2014,41013,Acevedo,EMPACEVEDO,95,23,suscriptores Otros,19
+2014,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",88,"23,5",S U S C R I P T O R E S  Residencial,1690
+2014,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",88,"23,5", S U S C R I P T O R E S  Comercial,22
+2014,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",88,"23,5", S U S C R I P T O R E S  Industrial,5
+2014,41357,Hobo,"""EMUSERHOBO"" S.A. E.S.P.",88,"23,5",suscriptores Otros,9
+2014,41503,Oporapa,Alcaldía Municipal,95,6,S U S C R I P T O R E S  Residencial,671
+2014,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"98,99","23,5",S U S C R I P T O R E S  Residencial,824
+2014,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"98,99","23,5", S U S C R I P T O R E S  Comercial,62
+2014,41660,Saladoblanco,EMSEPUSA,80,22,S U S C R I P T O R E S  Residencial,794
+2014,41660,Saladoblanco,EMSEPUSA,80,22,suscriptores Otros,13
+2014,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,96,"23,5",S U S C R I P T O R E S  Residencial,1384
+2014,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,96,"23,5", S U S C R I P T O R E S  Comercial,53
+2014,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,96,"23,5", S U S C R I P T O R E S  Industrial,3
+2014,41791,Tarqui,Aguas del Huila S.A.  E.S.P.,96,"23,5",suscriptores Otros,27
+2013,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,95,"22,5",S U S C R I P T O R E S  Residencial,87741
+2013,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,95,"22,5", S U S C R I P T O R E S  Comercial,6890
+2013,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,95,"22,5", S U S C R I P T O R E S  Industrial,48
+2013,41006,Neiva,Empresas Públicas de Neiva  E.S.P.,95,"22,5",suscriptores Otros,257
+2013,41483,La Plata,EMSERPLA ESP,"95,73",22,S U S C R I P T O R E S  Residencial,6373
+2013,41483,La Plata,EMSERPLA ESP,"95,73",22, S U S C R I P T O R E S  Comercial,473
+2013,41483,La Plata,EMSERPLA ESP,"95,73",22,suscriptores Otros,69
+2013,41503,Oporapa,Alcaldía Municipal,95,4,S U S C R I P T O R E S  Residencial,687
+2013,41518,Paicol              1/,Aguas del Huila S.A.  E.S.P.,"98,5",21,S U S C R I P T O R E S  Residencial,774
+2013,41518,Paicol              1/,Aguas del Huila S.A.  E.S.P.,"98,5",21, S U S C R I P T O R E S  Comercial,53
+2013,41518,Paicol              1/,Aguas del Huila S.A.  E.S.P.,"98,5",21,suscriptores Otros,18
+2013,41770,Suaza,EMPUSUAZA,97,18,S U S C R I P T O R E S  Residencial,1131
+2013,41770,Suaza,EMPUSUAZA,97,18, S U S C R I P T O R E S  Comercial,8
+2013,41770,Suaza,EMPUSUAZA,97,18, S U S C R I P T O R E S  Industrial,2
+2013,41770,Suaza,EMPUSUAZA,97,18,suscriptores Otros,15
+2013,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,"23,5",S U S C R I P T O R E S  Residencial,1181
+2013,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,"23,5",suscriptores Otros,23
+2018,41006,Acevedo,EMPACEVEDO S.A.S.,"98,28",24,S U S C R I P T O R E S  Residencial,1702
+2018,41006,Acevedo,EMPACEVEDO S.A.S.,"98,28",24, S U S C R I P T O R E S  Comercial,197
+2018,41006,Acevedo,EMPACEVEDO S.A.S.,"98,28",24,suscriptores Otros,46
+2018,41306,Gigante,EMPUGIGANTE S.A. ESP,"98,94",24,S U S C R I P T O R E S  Residencial,3283
+2018,41306,Gigante,EMPUGIGANTE S.A. ESP,"98,94",24, S U S C R I P T O R E S  Comercial,204
+2018,41306,Gigante,EMPUGIGANTE S.A. ESP,"98,94",24,suscriptores Otros,28
+2018,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,"96,7",24,S U S C R I P T O R E S  Residencial,1025
+2018,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,"96,7",24, S U S C R I P T O R E S  Comercial,14
+2018,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,"96,7",24,suscriptores Otros,21
+2018,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,95,24,S U S C R I P T O R E S  Residencial,1575
+2018,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,95,24, S U S C R I P T O R E S  Comercial,191
+2018,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,95,24,suscriptores Otros,31
+2018,41801,Teruel,EMPTERUEL,96,24,S U S C R I P T O R E S  Residencial,1634
+2018,41801,Teruel,EMPTERUEL,96,24, S U S C R I P T O R E S  Comercial,27
+2017,41244,Elías,Unidad de Servicios Públicos de Elías,"96,2",24,S U S C R I P T O R E S  Residencial,610
+2017,41244,Elías,Unidad de Servicios Públicos de Elías,"96,2",24, S U S C R I P T O R E S  Comercial,12
+2017,41244,Elías,Unidad de Servicios Públicos de Elías,"96,2",24,suscriptores Otros,12
+2016,41006,Acevedo,EMPACEVEDO,96,24,S U S C R I P T O R E S  Residencial,1359
+2016,41006,Acevedo,EMPACEVEDO,96,24, S U S C R I P T O R E S  Comercial,151
+2016,41006,Acevedo,EMPACEVEDO,96,24,suscriptores Otros,20
+2016,41885,Yaguará,Empresas Públicas de Yaguará,89,24,S U S C R I P T O R E S  Residencial,2054
+2016,41885,Yaguará,Empresas Públicas de Yaguará,89,24, S U S C R I P T O R E S  Comercial,5
+2016,41885,Yaguará,Empresas Públicas de Yaguará,89,24,suscriptores Otros,43
+2015,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"98,65",24,S U S C R I P T O R E S  Residencial,3142
+2015,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"98,65",24, S U S C R I P T O R E S  Comercial,182
+2015,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"98,65",24,suscriptores Otros,26
+2015,41359,Iquira,Iquira S.A E.S.P,"88,8",24,S U S C R I P T O R E S  Residencial,967
+2015,41359,Iquira,Iquira S.A E.S.P,"88,8",24, S U S C R I P T O R E S  Comercial,59
+2015,41359,Iquira,Iquira S.A E.S.P,"88,8",24,suscriptores Otros,13
+2015,41396,La Argentina,Empuarg S.A,97,24,S U S C R I P T O R E S  Residencial,1555
+2015,41396,La Argentina,Empuarg S.A,97,24, S U S C R I P T O R E S  Comercial,1
+2015,41396,La Argentina,Empuarg S.A,97,24,suscriptores Otros,18
+2015,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"98,49",24,S U S C R I P T O R E S  Residencial,4571
+2015,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"98,49",24, S U S C R I P T O R E S  Comercial,66
+2015,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"98,49",24,suscriptores Otros,102
+2014,41206,Campoalegre,EMAC S.A. E.S.P.,97,24,S U S C R I P T O R E S  Residencial,6418
+2014,41206,Campoalegre,EMAC S.A. E.S.P.,97,24, S U S C R I P T O R E S  Comercial,118
+2014,41206,Campoalegre,EMAC S.A. E.S.P.,97,24, S U S C R I P T O R E S  Industrial,5
+2014,41206,Campoalegre,EMAC S.A. E.S.P.,97,24,suscriptores Otros,41
+2014,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"84,4",24,S U S C R I P T O R E S  Residencial,3046
+2014,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"84,4",24, S U S C R I P T O R E S  Comercial,178
+2014,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"84,4",24,suscriptores Otros,25
+2014,41359,Iquira,Iquira S.A E.S.P,"87,3",24,S U S C R I P T O R E S  Residencial,947
+2014,41359,Iquira,Iquira S.A E.S.P,"87,3",24, S U S C R I P T O R E S  Comercial,62
+2014,41359,Iquira,Iquira S.A E.S.P,"87,3",24,suscriptores Otros,12
+2014,41378,Isnos,Acueducto Regional de Isnos,97,24,S U S C R I P T O R E S  Residencial,1566
+2014,41378,Isnos,Acueducto Regional de Isnos,97,24, S U S C R I P T O R E S  Comercial,262
+2014,41378,Isnos,Acueducto Regional de Isnos,97,24,suscriptores Otros,23
+2014,41524,Palermo,EPP E.S.P.,0,24,S U S C R I P T O R E S  Residencial,3323
+2014,41524,Palermo,EPP E.S.P.,0,24, S U S C R I P T O R E S  Comercial,40
+2014,41524,Palermo,EPP E.S.P.,0,24,suscriptores Otros,91
+2014,41615,Rivera,ESP DE RIVERA,"99,19",24,S U S C R I P T O R E S  Residencial,3369
+2014,41615,Rivera,ESP DE RIVERA,"99,19",24, S U S C R I P T O R E S  Comercial,46
+2014,41615,Rivera,ESP DE RIVERA,"99,19",24,suscriptores Otros,29
+2014,41668,San Agustín,San Agustín E.S.P.,95,24,S U S C R I P T O R E S  Residencial,2268
+2014,41668,San Agustín,San Agustín E.S.P.,95,24, S U S C R I P T O R E S  Comercial,326
+2014,41668,San Agustín,San Agustín E.S.P.,95,24, S U S C R I P T O R E S  Industrial,2
+2014,41668,San Agustín,San Agustín E.S.P.,95,24,suscriptores Otros,25
+2014,41770,Suaza,EMPUSUAZA,"99,77",24,S U S C R I P T O R E S  Residencial,1257
+2014,41770,Suaza,EMPUSUAZA,"99,77",24, S U S C R I P T O R E S  Comercial,9
+2014,41770,Suaza,EMPUSUAZA,"99,77",24,suscriptores Otros,17
+2014,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,24,S U S C R I P T O R E S  Residencial,1264
+2014,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,24,suscriptores Otros,22
+2013,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,"96,48",24,S U S C R I P T O R E S  Residencial,1675
+2013,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,"96,48",24, S U S C R I P T O R E S  Comercial,46
+2013,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,"96,48",24,suscriptores Otros,20
+2013,41020,Aipe,Empresas Públicas de Aipe  S.A. E.S.P.,"97,3",24,S U S C R I P T O R E S  Residencial,2529
+2013,41020,Aipe,Empresas Públicas de Aipe  S.A. E.S.P.,"97,3",24, S U S C R I P T O R E S  Comercial,12
+2013,41020,Aipe,Empresas Públicas de Aipe  S.A. E.S.P.,"97,3",24, S U S C R I P T O R E S  Industrial,3
+2013,41020,Aipe,Empresas Públicas de Aipe  S.A. E.S.P.,"97,3",24,suscriptores Otros,42
+2013,41206,Campoalegre,EMAC S.A. E.S.P.,"98,5",24,S U S C R I P T O R E S  Residencial,6290
+2013,41206,Campoalegre,EMAC S.A. E.S.P.,"98,5",24, S U S C R I P T O R E S  Comercial,116
+2013,41206,Campoalegre,EMAC S.A. E.S.P.,"98,5",24, S U S C R I P T O R E S  Industrial,5
+2013,41206,Campoalegre,EMAC S.A. E.S.P.,"98,5",24,suscriptores Otros,40
+2013,41306,Garzón,EMPUGAR E.S.P.,"99,05",24,S U S C R I P T O R E S  Residencial,9699
+2013,41306,Garzón,EMPUGAR E.S.P.,"99,05",24, S U S C R I P T O R E S  Comercial,724
+2013,41306,Garzón,EMPUGAR E.S.P.,"99,05",24,suscriptores Otros,53
+2013,41359,Iquira,Iquira S.A E.S.P,88,24,S U S C R I P T O R E S  Residencial,882
+2013,41359,Iquira,Iquira S.A E.S.P,88,24, S U S C R I P T O R E S  Comercial,55
+2013,41359,Iquira,Iquira S.A E.S.P,88,24,suscriptores Otros,12
+2013,41378,Isnos,Acueducto Regional de Isnos,"84,56",24,S U S C R I P T O R E S  Residencial,1566
+2013,41378,Isnos,Acueducto Regional de Isnos,"84,56",24, S U S C R I P T O R E S  Comercial,262
+2013,41378,Isnos,Acueducto Regional de Isnos,"84,56",24,suscriptores Otros,23
+2013,41615,Rivera,ESP DE RIVERA,"98,19",24,S U S C R I P T O R E S  Residencial,3093
+2013,41615,Rivera,ESP DE RIVERA,"98,19",24, S U S C R I P T O R E S  Comercial,143
+2013,41615,Rivera,ESP DE RIVERA,"98,19",24, S U S C R I P T O R E S  Industrial,2
+2013,41615,Rivera,ESP DE RIVERA,"98,19",24,suscriptores Otros,26
+2013,41660,Saladoblanco,EMSEPUSA,96,24,S U S C R I P T O R E S  Residencial,765
+2013,41660,Saladoblanco,EMSEPUSA,96,24,suscriptores Otros,13
+2013,41668,San Agustín,San Agustín E.S.P.,99,24,S U S C R I P T O R E S  Residencial,2189
+2013,41668,San Agustín,San Agustín E.S.P.,99,24, S U S C R I P T O R E S  Comercial,348
+2013,41668,San Agustín,San Agustín E.S.P.,99,24, S U S C R I P T O R E S  Industrial,2
+2013,41668,San Agustín,San Agustín E.S.P.,99,24,suscriptores Otros,24
+2016,41006,Acevedo,EMPACEVEDO,96,24, S U S C R I P T O R E S  Industrial,0
+2016,41026,Altamira,EMSERALTAMIRA S.A. E.S.P.,97,19, S U S C R I P T O R E S  Industrial,0
+2016,41357,Iquira,Empresas Públicas de Iquira S.A E.S.P,90,22, S U S C R I P T O R E S  Industrial,0
+2016,41359,Isnos,Junta Administradora del Acueducto Regional Isnos,98,24, S U S C R I P T O R E S  Industrial,0
+2016,41378,La Argentina,Empuarg S.A,98,"23,5", S U S C R I P T O R E S  Industrial,0
+2016,41396,La Plata,Emserpla E.S.P.,"96,15",23, S U S C R I P T O R E S  Industrial,0
+2016,41503,Oporapa,Alcaldía Municipal,90,10, S U S C R I P T O R E S  Comercial,0
+2016,41503,Oporapa,Alcaldía Municipal,90,10, S U S C R I P T O R E S  Industrial,0
+2016,41503,Oporapa,Alcaldía Municipal,90,10,suscriptores Otros,0
+2016,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"99,5",23, S U S C R I P T O R E S  Industrial,0
+2016,41660,Saladoblanco,EMSEPUSA,98,24, S U S C R I P T O R E S  Comercial,0
+2016,41660,Saladoblanco,EMSEPUSA,98,24, S U S C R I P T O R E S  Industrial,0
+2016,41770,Suaza,EMPUSUAZA,86,23, S U S C R I P T O R E S  Industrial,0
+2016,41801,Teruel,EMPTERUEL,99,"23,5", S U S C R I P T O R E S  Comercial,0
+2016,41801,Teruel,EMPTERUEL,99,"23,5", S U S C R I P T O R E S  Industrial,0
+2016,41885,Yaguará,Empresas Públicas de Yaguará,89,24, S U S C R I P T O R E S  Industrial,0
+2015,41013,Acevedo,EMPACEVEDO,96,23, S U S C R I P T O R E S  Industrial,0
+2015,41244,Colombia,Aguas del Huila S.A.  E.S.P.,99,23, S U S C R I P T O R E S  Industrial,0
+2015,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"98,65",24, S U S C R I P T O R E S  Industrial,0
+2015,41359,Iquira,Iquira S.A E.S.P,"88,8",24, S U S C R I P T O R E S  Industrial,0
+2015,41396,La Argentina,Empuarg S.A,97,24, S U S C R I P T O R E S  Industrial,0
+2015,41483,La Plata,Emserpla E.S.P.,96,23, S U S C R I P T O R E S  Industrial,0
+2015,41524,Palermo,Empresas Públicas de Palermo E.S.P.,"98,49",24, S U S C R I P T O R E S  Industrial,0
+2015,41676,Santa María,Aguas del Huila S.A.  E.S.P.,99,"23,2",suscriptores Otros,0
+2015,41770,Suaza,EMPUSUAZA,98,24, S U S C R I P T O R E S  Industrial,0
+2015,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,98,"23,5", S U S C R I P T O R E S  Comercial,0
+2015,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,98,"23,5", S U S C R I P T O R E S  Industrial,0
+2015,41797,Tesalia,Emptesalia S.A.E.S.P,98,20,suscriptores Otros,0
+2015,41885,Yaguará,Empresas Públicas de Yaguará S.A. E.S.P.,98,"23,5", S U S C R I P T O R E S  Industrial,0
+2014,41013,Acevedo,EMPACEVEDO,95,23, S U S C R I P T O R E S  Industrial,0
+2014,41319,Gigante,EMPUGIGANTE S.A. E.S.P,"84,4",24, S U S C R I P T O R E S  Industrial,0
+2014,41359,Iquira,Iquira S.A E.S.P,"87,3",24, S U S C R I P T O R E S  Industrial,0
+2014,41378,Isnos,Acueducto Regional de Isnos,97,24, S U S C R I P T O R E S  Industrial,0
+2014,41503,Oporapa,Alcaldía Municipal,95,6, S U S C R I P T O R E S  Comercial,0
+2014,41503,Oporapa,Alcaldía Municipal,95,6, S U S C R I P T O R E S  Industrial,0
+2014,41503,Oporapa,Alcaldía Municipal,95,6,suscriptores Otros,0
+2014,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"98,99","23,5", S U S C R I P T O R E S  Industrial,0
+2014,41518,Paicol,Aguas del Huila S.A.  E.S.P.,"98,99","23,5",suscriptores Otros,0
+2014,41615,Rivera,ESP DE RIVERA,"99,19",24, S U S C R I P T O R E S  Industrial,0
+2014,41660,Saladoblanco,EMSEPUSA,80,22, S U S C R I P T O R E S  Comercial,0
+2014,41660,Saladoblanco,EMSEPUSA,80,22, S U S C R I P T O R E S  Industrial,0
+2014,41770,Suaza,EMPUSUAZA,"99,77",24, S U S C R I P T O R E S  Industrial,0
+2014,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,24, S U S C R I P T O R E S  Comercial,0
+2014,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,24, S U S C R I P T O R E S  Industrial,0
+2014,41797,Tesalia,Emptesalia S.A.E.S.P,98,22, S U S C R I P T O R E S  Industrial,0
+2014,41797,Tesalia,Emptesalia S.A.E.S.P,98,22,suscriptores Otros,0
+2013,41016,Agrado,Aguas y Aseo de El Pital y Agrado S.A. E.S.P.,"96,48",24, S U S C R I P T O R E S  Industrial,0
+2013,41132,Baraya,EMPUBARAYA,98,12, S U S C R I P T O R E S  Industrial,0
+2013,41306,Garzón,EMPUGAR E.S.P.,"99,05",24, S U S C R I P T O R E S  Industrial,0
+2013,41359,Iquira,Iquira S.A E.S.P,88,24, S U S C R I P T O R E S  Industrial,0
+2013,41378,Isnos,Acueducto Regional de Isnos,"84,56",24, S U S C R I P T O R E S  Industrial,0
+2013,41483,La Plata,EMSERPLA ESP,"95,73",22, S U S C R I P T O R E S  Industrial,0
+2013,41503,Oporapa,Alcaldía Municipal,95,4, S U S C R I P T O R E S  Comercial,0
+2013,41503,Oporapa,Alcaldía Municipal,95,4, S U S C R I P T O R E S  Industrial,0
+2013,41503,Oporapa,Alcaldía Municipal,95,4,suscriptores Otros,0
+2013,41518,Paicol              1/,Aguas del Huila S.A.  E.S.P.,"98,5",21, S U S C R I P T O R E S  Industrial,0
+2013,41660,Saladoblanco,EMSEPUSA,96,24, S U S C R I P T O R E S  Comercial,0
+2013,41660,Saladoblanco,EMSEPUSA,96,24, S U S C R I P T O R E S  Industrial,0
+2013,41676,Santa María,Aguas del Huila S.A.  E.S.P.,98,"23,5", S U S C R I P T O R E S  Industrial,0
+2013,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,"23,5", S U S C R I P T O R E S  Comercial,0
+2013,41801,Teruel,Empresas Públicas de Teruel S.A. E.S.P.,96,"23,5", S U S C R I P T O R E S  Industrial,0
+2013,41797,Tesalia,Emptesalia S.A.E.S.P,98,22, S U S C R I P T O R E S  Industrial,0
+2014,41524,Palermo,EPP E.S.P.,0,24, S U S C R I P T O R E S  Industrial,0
+2015,41020,Aipe,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41020,Aipe,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41020,Aipe,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41020,Aipe,,0,0,suscriptores Otros,0
+2015,41026,Algeciras,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41026,Algeciras,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41026,Algeciras,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41026,Algeciras,,0,0,suscriptores Otros,0
+2015,41078,Altamira,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41078,Altamira,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41078,Altamira,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41078,Altamira,,0,0,suscriptores Otros,0
+2015,41132,Baraya,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41132,Baraya,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41132,Baraya,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41132,Baraya,,0,0,suscriptores Otros,0
+2015,41206,Campoalegre,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41206,Campoalegre,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41206,Campoalegre,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41206,Campoalegre,,0,0,suscriptores Otros,0
+2015,41378,Isnos,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41378,Isnos,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41378,Isnos,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41378,Isnos,,0,0,suscriptores Otros,0
+2015,41518,Paicol,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41518,Paicol,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41518,Paicol,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41518,Paicol,,0,0,suscriptores Otros,0
+2015,41530,Palestina,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41530,Palestina,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41530,Palestina,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41530,Palestina,,0,0,suscriptores Otros,0
+2015,41551,Pitalito,0,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41551,Pitalito,0,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41551,Pitalito,0,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41551,Pitalito,0,0,0,suscriptores Otros,0
+2015,41660,Saladoblanco,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41660,Saladoblanco,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41660,Saladoblanco,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41660,Saladoblanco,,0,0,suscriptores Otros,0
+2015,41872,Villavieja,,0,0,S U S C R I P T O R E S  Residencial,0
+2015,41872,Villavieja,,0,0, S U S C R I P T O R E S  Comercial,0
+2015,41872,Villavieja,,0,0, S U S C R I P T O R E S  Industrial,0
+2015,41872,Villavieja,,0,0,suscriptores Otros,0
+2014,41020,Aipe    1/,,0,0,S U S C R I P T O R E S  Residencial,0
+2014,41020,Aipe    1/,,0,0, S U S C R I P T O R E S  Comercial,0
+2014,41020,Aipe    1/,,0,0, S U S C R I P T O R E S  Industrial,0
+2014,41020,Aipe    1/,,0,0,suscriptores Otros,0
+2014,41026,Algeciras     1/,,0,0,S U S C R I P T O R E S  Residencial,0
+2014,41026,Algeciras     1/,,0,0, S U S C R I P T O R E S  Comercial,0
+2014,41026,Algeciras     1/,,0,0, S U S C R I P T O R E S  Industrial,0
+2014,41026,Algeciras     1/,,0,0,suscriptores Otros,0
+2014,41132,Baraya   1/,,0,0,S U S C R I P T O R E S  Residencial,0
+2014,41132,Baraya   1/,,0,0, S U S C R I P T O R E S  Comercial,0
+2014,41132,Baraya   1/,,0,0, S U S C R I P T O R E S  Industrial,0
+2014,41132,Baraya   1/,,0,0,suscriptores Otros,0
+2014,41244,Colombia      1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2014,41244,Colombia      1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2014,41244,Colombia      1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2014,41244,Colombia      1/,0,0,0,suscriptores Otros,0
+2014,41483,La Plata   1/,,0,0,S U S C R I P T O R E S  Residencial,0
+2014,41483,La Plata   1/,,0,0, S U S C R I P T O R E S  Comercial,0
+2014,41483,La Plata   1/,,0,0, S U S C R I P T O R E S  Industrial,0
+2014,41483,La Plata   1/,,0,0,suscriptores Otros,0
+2014,41551,Pitalito      1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2014,41551,Pitalito      1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2014,41551,Pitalito      1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2014,41551,Pitalito      1/,0,0,0,suscriptores Otros,0
+2014,41676,Santa María  1/,,0,0,S U S C R I P T O R E S  Residencial,0
+2014,41676,Santa María  1/,,0,0, S U S C R I P T O R E S  Comercial,0
+2014,41676,Santa María  1/,,0,0, S U S C R I P T O R E S  Industrial,0
+2014,41676,Santa María  1/,,0,0,suscriptores Otros,0
+2013,41013,Acevedo          1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41013,Acevedo          1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41013,Acevedo          1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41013,Acevedo          1/,0,0,0,suscriptores Otros,0
+2013,41244,Colombia         1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41244,Colombia         1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41244,Colombia         1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41244,Colombia         1/,0,0,0,suscriptores Otros,0
+2013,41298,Elías               1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41298,Elías               1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41298,Elías               1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41298,Elías               1/,0,0,0,suscriptores Otros,0
+2013,41357,Hobo              1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41357,Hobo              1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41357,Hobo              1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41357,Hobo              1/,0,0,0,suscriptores Otros,0
+2013,41001,Nátaga            1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41001,Nátaga            1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41001,Nátaga            1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41001,Nátaga            1/,0,0,0,suscriptores Otros,0
+2013,41524,Palermo           1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41524,Palermo           1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41524,Palermo           1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41524,Palermo           1/,0,0,0,suscriptores Otros,0
+2013,41530,Palestina         1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41530,Palestina         1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41530,Palestina         1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41530,Palestina         1/,0,0,0,suscriptores Otros,0
+2013,41551,Pitalito            1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41551,Pitalito            1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41551,Pitalito            1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41551,Pitalito            1/,0,0,0,suscriptores Otros,0
+2013,41807,Timaná            1/,0,0,0,S U S C R I P T O R E S  Residencial,0
+2013,41807,Timaná            1/,0,0,0, S U S C R I P T O R E S  Comercial,0
+2013,41807,Timaná            1/,0,0,0, S U S C R I P T O R E S  Industrial,0
+2013,41807,Timaná            1/,0,0,0,suscriptores Otros,0
