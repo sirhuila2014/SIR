@@ -1,1333 +1,1111 @@
 VIGENCIA,CODIGO DANE,MUNICIPIOS,Sectores,Valor
-2018,41001,Neiva,Zona Residencial Urbano,116048
-2018,41001,Neiva,Zona Residencial Rural,7294
-2018,41001,Neiva,Zona Comercial Urbano,10650
-2018,41001,Neiva,Zona Comercial Rural,153
-2018,41001,Neiva,Zona Oficial Urbano,320
-2018,41001,Neiva,Zona Oficial Rural,136
-2018,41006,Acevedo,Zona Residencial Urbano,1564
-2018,41006,Acevedo,Zona Residencial Rural,6300
-2018,41006,Acevedo,Zona Comercial Urbano,237
-2018,41006,Acevedo,Zona Comercial Rural,66
-2018,41006,Acevedo,Zona Oficial Urbano,13
-2018,41006,Acevedo,Zona Oficial Rural,102
-2018,41013,Agrado,Zona Residencial Urbano,2047
-2018,41013,Agrado,Zona Residencial Rural,1045
-2018,41013,Agrado,Zona Comercial Urbano,92
-2018,41013,Agrado,Zona Comercial Rural,17
-2018,41013,Agrado,Zona Oficial Urbano,50
-2018,41013,Agrado,Zona Oficial Rural,24
-2018,41016,Aipe,Zona Residencial Urbano,3350
-2018,41016,Aipe,Zona Residencial Rural,2384
-2018,41016,Aipe,Zona Comercial Urbano,179
-2018,41016,Aipe,Zona Comercial Rural,30
-2018,41016,Aipe,Zona Oficial Urbano,33
-2018,41016,Aipe,Zona Oficial Rural,54
-2018,41020,Algeciras,Zona Residencial Urbano,3339
-2018,41020,Algeciras,Zona Residencial Rural,3216
-2018,41020,Algeciras,Zona Comercial Urbano,269
-2018,41020,Algeciras,Zona Comercial Rural,15
-2018,41020,Algeciras,Zona Oficial Urbano,29
-2018,41020,Algeciras,Zona Oficial Rural,71
-2018,41026,Altamira,Zona Residencial Urbano,1028
-2018,41026,Altamira,Zona Residencial Rural,474
-2018,41026,Altamira,Zona Comercial Urbano,81
-2018,41026,Altamira,Zona Comercial Rural,16
-2018,41026,Altamira,Zona Oficial Urbano,22
-2018,41026,Altamira,Zona Oficial Rural,6
-2018,41078,Baraya,Zona Residencial Urbano,1143
-2018,41078,Baraya,Zona Residencial Rural,1096
-2018,41078,Baraya,Zona Comercial Urbano,71
-2018,41078,Baraya,Zona Comercial Rural,5
-2018,41078,Baraya,Zona Oficial Urbano,18
-2018,41078,Baraya,Zona Oficial Rural,46
-2018,41132,Campoalegre,Zona Residencial Urbano,7559
-2018,41132,Campoalegre,Zona Residencial Rural,2398
-2018,41132,Campoalegre,Zona Comercial Urbano,487
-2018,41132,Campoalegre,Zona Comercial Rural,47
-2018,41132,Campoalegre,Zona Oficial Urbano,47
-2018,41132,Campoalegre,Zona Oficial Rural,38
-2018,41206,Colombia,Zona Residencial Urbano,817
-2018,41206,Colombia,Zona Residencial Rural,1992
-2018,41206,Colombia,Zona Comercial Urbano,35
-2018,41206,Colombia,Zona Comercial Rural,9
-2018,41206,Colombia,Zona Oficial Urbano,17
-2018,41206,Colombia,Zona Oficial Rural,63
-2018,41244,Elias,Zona Residencial Urbano,486
-2018,41244,Elias,Zona Residencial Rural,890
-2018,41244,Elias,Zona Comercial Urbano,18
-2018,41244,Elias,Zona Comercial Rural,9
-2018,41244,Elias,Zona Oficial Urbano,10
-2018,41244,Elias,Zona Oficial Rural,21
-2018,41298,Garzón,Zona Residencial Urbano,13946
-2018,41298,Garzón,Zona Residencial Rural,9233
-2018,41298,Garzón,Zona Comercial Urbano,1412
-2018,41298,Garzón,Zona Comercial Rural,100
-2018,41298,Garzón,Zona Oficial Urbano,58
-2018,41298,Garzón,Zona Oficial Rural,113
-2018,41306,Gigante,Zona Residencial Urbano,3734
-2018,41306,Gigante,Zona Residencial Rural,4347
-2018,41306,Gigante,Zona Comercial Urbano,341
-2018,41306,Gigante,Zona Comercial Rural,65
-2018,41306,Gigante,Zona Oficial Urbano,34
-2018,41306,Gigante,Zona Oficial Rural,69
-2018,41319,Guadalupe,Zona Residencial Urbano,1803
-2018,41319,Guadalupe,Zona Residencial Rural,3879
-2018,41319,Guadalupe,Zona Comercial Urbano,194
-2018,41319,Guadalupe,Zona Comercial Rural,26
-2018,41319,Guadalupe,Zona Oficial Urbano,24
-2018,41319,Guadalupe,Zona Oficial Rural,60
-2018,41349,Hobo,Zona Residencial Urbano,2002
-2018,41349,Hobo,Zona Residencial Rural,612
-2018,41349,Hobo,Zona Comercial Urbano,79
-2018,41349,Hobo,Zona Comercial Rural,15
-2018,41349,Hobo,Zona Oficial Urbano,12
-2018,41349,Hobo,Zona Oficial Rural,8
-2018,41357,Iquira,Zona Residencial Urbano,1463
-2018,41357,Iquira,Zona Residencial Rural,2074
-2018,41357,Iquira,Zona Comercial Urbano,65
-2018,41357,Iquira,Zona Comercial Rural,17
-2018,41357,Iquira,Zona Oficial Urbano,17
-2018,41357,Iquira,Zona Oficial Rural,49
-2018,41359,Isnos,Zona Residencial Urbano,1830
-2018,41359,Isnos,Zona Residencial Rural,5129
-2018,41359,Isnos,Zona Comercial Urbano,238
-2018,41359,Isnos,Zona Comercial Rural,31
-2018,41359,Isnos,Zona Oficial Urbano,13
-2018,41359,Isnos,Zona Oficial Rural,72
-2018,41378,La Argentina,Zona Residencial Urbano,1894
-2018,41378,La Argentina,Zona Residencial Rural,2084
-2018,41378,La Argentina,Zona Comercial Urbano,46
-2018,41378,La Argentina,Zona Comercial Rural,6
-2018,41378,La Argentina,Zona Oficial Urbano,22
-2018,41378,La Argentina,Zona Oficial Rural,32
-2018,41396,La Plata,Zona Residencial Urbano,9502
-2018,41396,La Plata,Zona Residencial Rural,7607
-2018,41396,La Plata,Zona Comercial Urbano,795
-2018,41396,La Plata,Zona Comercial Rural,18
-2018,41396,La Plata,Zona Oficial Urbano,89
-2018,41396,La Plata,Zona Oficial Rural,164
-2018,41483,Nataga,Zona Residencial Urbano,856
-2018,41483,Nataga,Zona Residencial Rural,1085
-2018,41483,Nataga,Zona Comercial Urbano,37
-2018,41483,Nataga,Zona Comercial Rural,2
-2018,41483,Nataga,Zona Oficial Urbano,50
-2018,41483,Nataga,Zona Oficial Rural,28
-2018,41503,Oporapa,Zona Residencial Urbano,723
-2018,41503,Oporapa,Zona Residencial Rural,2539
-2018,41503,Oporapa,Zona Comercial Urbano,49
-2018,41503,Oporapa,Zona Comercial Rural,5
-2018,41503,Oporapa,Zona Oficial Urbano,17
-2018,41503,Oporapa,Zona Oficial Rural,37
-2018,41518,Paicol,Zona Residencial Urbano,1018
-2018,41518,Paicol,Zona Residencial Rural,1243
-2018,41518,Paicol,Zona Comercial Urbano,36
-2018,41518,Paicol,Zona Comercial Rural,2
-2018,41518,Paicol,Zona Oficial Urbano,23
-2018,41518,Paicol,Zona Oficial Rural,34
-2018,41524,Palermo,Zona Residencial Urbano,5601
-2018,41524,Palermo,Zona Residencial Rural,3120
-2018,41524,Palermo,Zona Comercial Urbano,378
-2018,41524,Palermo,Zona Comercial Rural,196
-2018,41524,Palermo,Zona Oficial Urbano,44
-2018,41524,Palermo,Zona Oficial Rural,76
-2018,41530,Palestina,Zona Residencial Urbano,527
-2018,41530,Palestina,Zona Residencial Rural,2556
-2018,41530,Palestina,Zona Comercial Urbano,77
-2018,41530,Palestina,Zona Comercial Rural,7
-2018,41530,Palestina,Zona Oficial Urbano,17
-2018,41530,Palestina,Zona Oficial Rural,41
-2018,41548,El Pital,Zona Residencial Urbano,1772
-2018,41548,El Pital,Zona Residencial Rural,2833
-2018,41548,El Pital,Zona Comercial Urbano,132
-2018,41548,El Pital,Zona Comercial Rural,10
-2018,41548,El Pital,Zona Oficial Urbano,22
-2018,41548,El Pital,Zona Oficial Rural,53
-2018,41551,Pitalito,Zona Residencial Urbano,24934
-2018,41551,Pitalito,Zona Residencial Rural,14669
-2018,41551,Pitalito,Zona Comercial Urbano,3224
-2018,41551,Pitalito,Zona Comercial Rural,296
-2018,41551,Pitalito,Zona Oficial Urbano,80
-2018,41551,Pitalito,Zona Oficial Rural,177
-2018,41615,Rivera,Zona Residencial Urbano,3888
-2018,41615,Rivera,Zona Residencial Rural,3844
-2018,41615,Rivera,Zona Comercial Urbano,227
-2018,41615,Rivera,Zona Comercial Rural,118
-2018,41615,Rivera,Zona Oficial Urbano,18
-2018,41615,Rivera,Zona Oficial Rural,38
-2018,41660,Saladoblanco,Zona Residencial Urbano,687
-2018,41660,Saladoblanco,Zona Residencial Rural,2540
-2018,41660,Saladoblanco,Zona Comercial Urbano,105
-2018,41660,Saladoblanco,Zona Comercial Rural,6
-2018,41660,Saladoblanco,Zona Oficial Urbano,19
-2018,41660,Saladoblanco,Zona Oficial Rural,47
-2018,41668,San Agustin,Zona Residencial Urbano,3236
-2018,41668,San Agustin,Zona Residencial Rural,6124
-2018,41668,San Agustin,Zona Comercial Urbano,390
-2018,41668,San Agustin,Zona Comercial Rural,58
-2018,41668,San Agustin,Zona Oficial Urbano,27
-2018,41668,San Agustin,Zona Oficial Rural,100
-2018,41676,Santa Maria,Zona Residencial Urbano,1119
-2018,41676,Santa Maria,Zona Residencial Rural,2129
-2018,41676,Santa Maria,Zona Comercial Urbano,109
-2018,41676,Santa Maria,Zona Comercial Rural,14
-2018,41676,Santa Maria,Zona Oficial Urbano,22
-2018,41676,Santa Maria,Zona Oficial Rural,45
-2018,41770,Suaza,Zona Residencial Urbano,1442
-2018,41770,Suaza,Zona Residencial Rural,4407
-2018,41770,Suaza,Zona Comercial Urbano,117
-2018,41770,Suaza,Zona Comercial Rural,66
-2018,41770,Suaza,Zona Oficial Urbano,17
-2018,41770,Suaza,Zona Oficial Rural,76
-2018,41791,Tarqui,Zona Residencial Urbano,1674
-2018,41791,Tarqui,Zona Residencial Rural,3672
-2018,41791,Tarqui,Zona Comercial Urbano,121
-2018,41791,Tarqui,Zona Comercial Rural,23
-2018,41791,Tarqui,Zona Oficial Urbano,16
-2018,41791,Tarqui,Zona Oficial Rural,65
-2018,41799,Tello,Zona Residencial Urbano,1645
-2018,41799,Tello,Zona Residencial Rural,2302
-2018,41799,Tello,Zona Comercial Urbano,49
-2018,41799,Tello,Zona Comercial Rural,14
-2018,41799,Tello,Zona Oficial Urbano,19
-2018,41799,Tello,Zona Oficial Rural,57
-2018,41801,Teruel,Zona Residencial Urbano,1448
-2018,41801,Teruel,Zona Residencial Rural,1215
-2018,41801,Teruel,Zona Comercial Urbano,103
-2018,41801,Teruel,Zona Comercial Rural,6
-2018,41801,Teruel,Zona Oficial Urbano,25
-2018,41801,Teruel,Zona Oficial Rural,24
-2018,41797,Tesalia,Zona Residencial Urbano,2487
-2018,41797,Tesalia,Zona Residencial Rural,1105
-2018,41797,Tesalia,Zona Comercial Urbano,94
-2018,41797,Tesalia,Zona Comercial Rural,4
-2018,41797,Tesalia,Zona Oficial Urbano,33
-2018,41797,Tesalia,Zona Oficial Rural,26
-2018,41807,Timana,Zona Residencial Urbano,2357
-2018,41807,Timana,Zona Residencial Rural,4231
-2018,41807,Timana,Zona Comercial Urbano,230
-2018,41807,Timana,Zona Comercial Rural,26
-2018,41807,Timana,Zona Oficial Urbano,23
-2018,41807,Timana,Zona Oficial Rural,43
-2018,41872,Villavieja,Zona Residencial Urbano,890
-2018,41872,Villavieja,Zona Residencial Rural,1510
-2018,41872,Villavieja,Zona Comercial Urbano,28
-2018,41872,Villavieja,Zona Comercial Rural,16
-2018,41872,Villavieja,Zona Oficial Urbano,11
-2018,41872,Villavieja,Zona Oficial Rural,35
-2018,41885,Yaguara,Zona Residencial Urbano,2073
-2018,41885,Yaguara,Zona Residencial Rural,729
-2018,41885,Yaguara,Zona Comercial Urbano,103
-2018,41885,Yaguara,Zona Comercial Rural,23
-2018,41885,Yaguara,Zona Oficial Urbano,38
-2018,41885,Yaguara,Zona Oficial Rural,7
-2017,41001,Neiva,Zona Residencial Urbano,112571
-2017,41001,Neiva,Zona Residencial Rural,7121
-2017,41001,Neiva,Zona Comercial Urbano,10369
-2017,41001,Neiva,Zona Comercial Rural,141
-2017,41001,Neiva,Zona Oficial Urbano,468
-2017,41001,Neiva,Zona Oficial Rural,162
-2017,41006,Acevedo,Zona Residencial Urbano,1525
-2017,41006,Acevedo,Zona Residencial Rural,6150
-2017,41006,Acevedo,Zona Comercial Urbano,224
-2017,41006,Acevedo,Zona Comercial Rural,59
-2017,41006,Acevedo,Zona Oficial Urbano,20
-2017,41006,Acevedo,Zona Oficial Rural,129
-2017,41013,Agrado,Zona Residencial Urbano,1979
-2017,41013,Agrado,Zona Residencial Rural,1020
-2017,41013,Agrado,Zona Comercial Urbano,92
-2017,41013,Agrado,Zona Comercial Rural,17
-2017,41013,Agrado,Zona Oficial Urbano,55
-2017,41013,Agrado,Zona Oficial Rural,29
-2017,41016,Aipe,Zona Residencial Urbano,3203
-2017,41016,Aipe,Zona Residencial Rural,2378
-2017,41016,Aipe,Zona Comercial Urbano,173
-2017,41016,Aipe,Zona Comercial Rural,34
-2017,41016,Aipe,Zona Oficial Urbano,35
-2017,41016,Aipe,Zona Oficial Rural,60
-2017,41020,Algeciras,Zona Residencial Urbano,3190
-2017,41020,Algeciras,Zona Residencial Rural,3192
-2017,41020,Algeciras,Zona Comercial Urbano,260
-2017,41020,Algeciras,Zona Comercial Rural,13
-2017,41020,Algeciras,Zona Oficial Urbano,29
-2017,41020,Algeciras,Zona Oficial Rural,75
-2017,41026,Altamira,Zona Residencial Urbano,1011
-2017,41026,Altamira,Zona Residencial Rural,461
-2017,41026,Altamira,Zona Comercial Urbano,83
-2017,41026,Altamira,Zona Comercial Rural,16
-2017,41026,Altamira,Zona Oficial Urbano,23
-2017,41026,Altamira,Zona Oficial Rural,6
-2017,41078,Baraya,Zona Residencial Urbano,1131
-2017,41078,Baraya,Zona Residencial Rural,1102
-2017,41078,Baraya,Zona Comercial Urbano,71
-2017,41078,Baraya,Zona Comercial Rural,4
-2017,41078,Baraya,Zona Oficial Urbano,18
-2017,41078,Baraya,Zona Oficial Rural,47
-2017,41132,Campoalegre,Zona Residencial Urbano,7442
-2017,41132,Campoalegre,Zona Residencial Rural,2279
-2017,41132,Campoalegre,Zona Comercial Urbano,474
-2017,41132,Campoalegre,Zona Comercial Rural,46
-2017,41132,Campoalegre,Zona Oficial Urbano,56
-2017,41132,Campoalegre,Zona Oficial Rural,41
-2017,41206,Colombia,Zona Residencial Urbano,808
-2017,41206,Colombia,Zona Residencial Rural,1970
-2017,41206,Colombia,Zona Comercial Urbano,33
-2017,41206,Colombia,Zona Comercial Rural,10
-2017,41206,Colombia,Zona Oficial Urbano,16
-2017,41206,Colombia,Zona Oficial Rural,65
-2017,41548,El Pital,Zona Residencial Urbano,1724
-2017,41548,El Pital,Zona Residencial Rural,2784
-2017,41548,El Pital,Zona Comercial Urbano,138
-2017,41548,El Pital,Zona Comercial Rural,13
-2017,41548,El Pital,Zona Oficial Urbano,26
-2017,41548,El Pital,Zona Oficial Rural,56
-2017,41244,Elias,Zona Residencial Urbano,474
-2017,41244,Elias,Zona Residencial Rural,791
-2017,41244,Elias,Zona Comercial Urbano,16
-2017,41244,Elias,Zona Comercial Rural,10
-2017,41244,Elias,Zona Oficial Urbano,12
-2017,41244,Elias,Zona Oficial Rural,23
-2017,41298,Garzón,Zona Residencial Urbano,13594
-2017,41298,Garzón,Zona Residencial Rural,9143
-2017,41298,Garzón,Zona Comercial Urbano,1406
-2017,41298,Garzón,Zona Comercial Rural,96
-2017,41298,Garzón,Zona Oficial Urbano,91
-2017,41298,Garzón,Zona Oficial Rural,128
-2017,41306,Gigante,Zona Residencial Urbano,3694
-2017,41306,Gigante,Zona Residencial Rural,4308
-2017,41306,Gigante,Zona Comercial Urbano,349
-2017,41306,Gigante,Zona Comercial Rural,62
-2017,41306,Gigante,Zona Oficial Urbano,40
-2017,41306,Gigante,Zona Oficial Rural,75
-2017,41319,Guadalupe,Zona Residencial Urbano,1741
-2017,41319,Guadalupe,Zona Residencial Rural,3823
-2017,41319,Guadalupe,Zona Comercial Urbano,186
-2017,41319,Guadalupe,Zona Comercial Rural,23
-2017,41319,Guadalupe,Zona Oficial Urbano,24
-2017,41319,Guadalupe,Zona Oficial Rural,63
-2017,41349,Hobo,Zona Residencial Urbano,1978
-2017,41349,Hobo,Zona Residencial Rural,614
-2017,41349,Hobo,Zona Comercial Urbano,78
-2017,41349,Hobo,Zona Comercial Rural,15
-2017,41349,Hobo,Zona Oficial Urbano,16
-2017,41349,Hobo,Zona Oficial Rural,8
-2017,41357,Iquira,Zona Residencial Urbano,1438
-2017,41357,Iquira,Zona Residencial Rural,2051
-2017,41357,Iquira,Zona Comercial Urbano,66
-2017,41357,Iquira,Zona Comercial Rural,14
-2017,41357,Iquira,Zona Oficial Urbano,22
-2017,41357,Iquira,Zona Oficial Rural,56
-2017,41359,Isnos,Zona Residencial Urbano,1735
-2017,41359,Isnos,Zona Residencial Rural,4936
-2017,41359,Isnos,Zona Comercial Urbano,228
-2017,41359,Isnos,Zona Comercial Rural,29
-2017,41359,Isnos,Zona Oficial Urbano,20
-2017,41359,Isnos,Zona Oficial Rural,102
-2017,41378,La Argentina,Zona Residencial Urbano,1753
-2017,41378,La Argentina,Zona Residencial Rural,2013
-2017,41378,La Argentina,Zona Comercial Urbano,47
-2017,41378,La Argentina,Zona Comercial Rural,7
-2017,41378,La Argentina,Zona Oficial Urbano,22
-2017,41378,La Argentina,Zona Oficial Rural,33
-2017,41396,La Plata,Zona Residencial Urbano,9190
-2017,41396,La Plata,Zona Residencial Rural,7519
-2017,41396,La Plata,Zona Comercial Urbano,809
-2017,41396,La Plata,Zona Comercial Rural,22
-2017,41396,La Plata,Zona Oficial Urbano,108
-2017,41396,La Plata,Zona Oficial Rural,176
-2017,41483,Nataga,Zona Residencial Urbano,836
-2017,41483,Nataga,Zona Residencial Rural,1081
-2017,41483,Nataga,Zona Comercial Urbano,42
-2017,41483,Nataga,Zona Comercial Rural,2
-2017,41483,Nataga,Zona Oficial Urbano,50
-2017,41483,Nataga,Zona Oficial Rural,30
-2017,41503,Oporapa,Zona Residencial Urbano,696
-2017,41503,Oporapa,Zona Residencial Rural,2457
-2017,41503,Oporapa,Zona Comercial Urbano,43
-2017,41503,Oporapa,Zona Comercial Rural,8
-2017,41503,Oporapa,Zona Oficial Urbano,20
-2017,41503,Oporapa,Zona Oficial Rural,44
-2017,41518,Paicol,Zona Residencial Urbano,977
-2017,41518,Paicol,Zona Residencial Rural,1184
-2017,41518,Paicol,Zona Comercial Urbano,35
-2017,41518,Paicol,Zona Comercial Rural,4
-2017,41518,Paicol,Zona Oficial Urbano,19
-2017,41518,Paicol,Zona Oficial Rural,36
-2017,41524,Palermo,Zona Residencial Urbano,5556
-2017,41524,Palermo,Zona Residencial Rural,3081
-2017,41524,Palermo,Zona Comercial Urbano,368
-2017,41524,Palermo,Zona Comercial Rural,175
-2017,41524,Palermo,Zona Oficial Urbano,57
-2017,41524,Palermo,Zona Oficial Rural,81
-2017,41530,Palestina,Zona Residencial Urbano,525
-2017,41530,Palestina,Zona Residencial Rural,2518
-2017,41530,Palestina,Zona Comercial Urbano,81
-2017,41530,Palestina,Zona Comercial Rural,7
-2017,41530,Palestina,Zona Oficial Urbano,19
-2017,41530,Palestina,Zona Oficial Rural,80
-2017,41551,Pitalito,Zona Residencial Urbano,23980
-2017,41551,Pitalito,Zona Residencial Rural,14123
-2017,41551,Pitalito,Zona Comercial Urbano,3050
-2017,41551,Pitalito,Zona Comercial Rural,291
-2017,41551,Pitalito,Zona Oficial Urbano,131
-2017,41551,Pitalito,Zona Oficial Rural,237
-2017,41615,Rivera,Zona Residencial Urbano,3726
-2017,41615,Rivera,Zona Residencial Rural,3694
-2017,41615,Rivera,Zona Comercial Urbano,213
-2017,41615,Rivera,Zona Comercial Rural,110
-2017,41615,Rivera,Zona Oficial Urbano,21
-2017,41615,Rivera,Zona Oficial Rural,47
-2017,41660,Saladoblanco,Zona Residencial Urbano,632
-2017,41660,Saladoblanco,Zona Residencial Rural,2356
-2017,41660,Saladoblanco,Zona Comercial Urbano,98
-2017,41660,Saladoblanco,Zona Comercial Rural,7
-2017,41660,Saladoblanco,Zona Oficial Urbano,24
-2017,41660,Saladoblanco,Zona Oficial Rural,52
-2017,41668,San Agustin,Zona Residencial Urbano,3162
-2017,41668,San Agustin,Zona Residencial Rural,5995
-2017,41668,San Agustin,Zona Comercial Urbano,354
-2017,41668,San Agustin,Zona Comercial Rural,54
-2017,41668,San Agustin,Zona Oficial Urbano,39
-2017,41668,San Agustin,Zona Oficial Rural,149
-2017,41676,Santa Maria,Zona Residencial Urbano,1077
-2017,41676,Santa Maria,Zona Residencial Rural,2067
-2017,41676,Santa Maria,Zona Comercial Urbano,106
-2017,41676,Santa Maria,Zona Comercial Rural,12
-2017,41676,Santa Maria,Zona Oficial Urbano,26
-2017,41676,Santa Maria,Zona Oficial Rural,52
-2017,41770,Suaza,Zona Residencial Urbano,1386
-2017,41770,Suaza,Zona Residencial Rural,3991
-2017,41770,Suaza,Zona Comercial Urbano,113
-2017,41770,Suaza,Zona Comercial Rural,61
-2017,41770,Suaza,Zona Oficial Urbano,15
-2017,41770,Suaza,Zona Oficial Rural,78
-2017,41791,Tarqui,Zona Residencial Urbano,1605
-2017,41791,Tarqui,Zona Residencial Rural,3581
-2017,41791,Tarqui,Zona Comercial Urbano,117
-2017,41791,Tarqui,Zona Comercial Rural,24
-2017,41791,Tarqui,Zona Oficial Urbano,20
-2017,41791,Tarqui,Zona Oficial Rural,70
-2017,41799,Tello,Zona Residencial Urbano,1629
-2017,41799,Tello,Zona Residencial Rural,2306
-2017,41799,Tello,Zona Comercial Urbano,43
-2017,41799,Tello,Zona Comercial Rural,12
-2017,41799,Tello,Zona Oficial Urbano,17
-2017,41799,Tello,Zona Oficial Rural,67
-2017,41801,Teruel,Zona Residencial Urbano,1425
-2017,41801,Teruel,Zona Residencial Rural,1194
-2017,41801,Teruel,Zona Comercial Urbano,78
-2017,41801,Teruel,Zona Comercial Rural,5
-2017,41801,Teruel,Zona Oficial Urbano,24
-2017,41801,Teruel,Zona Oficial Rural,26
-2017,41797,Tesalia,Zona Residencial Urbano,2448
-2017,41797,Tesalia,Zona Residencial Rural,1060
-2017,41797,Tesalia,Zona Comercial Urbano,97
-2017,41797,Tesalia,Zona Comercial Rural,4
-2017,41797,Tesalia,Zona Oficial Urbano,35
-2017,41797,Tesalia,Zona Oficial Rural,26
-2017,41807,Timana,Zona Residencial Urbano,2316
-2017,41807,Timana,Zona Residencial Rural,4104
-2017,41807,Timana,Zona Comercial Urbano,221
-2017,41807,Timana,Zona Comercial Rural,27
-2017,41807,Timana,Zona Oficial Urbano,37
-2017,41807,Timana,Zona Oficial Rural,58
-2017,41872,Villavieja,Zona Residencial Urbano,857
-2017,41872,Villavieja,Zona Residencial Rural,1431
-2017,41872,Villavieja,Zona Comercial Urbano,25
-2017,41872,Villavieja,Zona Comercial Rural,18
-2017,41872,Villavieja,Zona Oficial Urbano,14
-2017,41872,Villavieja,Zona Oficial Rural,39
-2017,41885,Yaguara,Zona Residencial Urbano,32062
-2017,41885,Yaguara,Zona Residencial Rural,719
-2017,41885,Yaguara,Zona Comercial Urbano,102
-2017,41885,Yaguara,Zona Comercial Rural,21
-2017,41885,Yaguara,Zona Oficial Urbano,39
-2017,41885,Yaguara,Zona Oficial Rural,11
-2015,41001,Neiva,Zona Residencial Urbano,106996
-2015,41001,Neiva,Zona Residencial Rural,6892
-2015,41001,Neiva,Zona Comercial Urbano,19226
-2015,41001,Neiva,Zona Comercial Rural,110
-2015,41001,Neiva,Zona Oficial Urbano,474
-2015,41001,Neiva,Zona Oficial Rural,158
-2015,41006,Acevedo,Zona Residencial Urbano,1485
-2015,41006,Acevedo,Zona Residencial Rural,6006
-2015,41006,Acevedo,Zona Comercial Urbano,239
-2015,41006,Acevedo,Zona Comercial Rural,53
-2015,41006,Acevedo,Zona Oficial Urbano,21
-2015,41006,Acevedo,Zona Oficial Rural,119
-2015,41013,Agrado,Zona Residencial Urbano,1890
-2015,41013,Agrado,Zona Residencial Rural,961
-2015,41013,Agrado,Zona Comercial Urbano,80
-2015,41013,Agrado,Zona Comercial Rural,21
-2015,41013,Agrado,Zona Oficial Urbano,18
-2015,41013,Agrado,Zona Oficial Rural,28
-2015,41016,Aipe,Zona Residencial Urbano,3057
-2015,41016,Aipe,Zona Residencial Rural,2425
-2015,41016,Aipe,Zona Comercial Urbano,286
-2015,41016,Aipe,Zona Comercial Rural,34
-2015,41016,Aipe,Zona Oficial Urbano,36
-2015,41016,Aipe,Zona Oficial Rural,64
-2015,41020,Algeciras,Zona Residencial Urbano,3093
-2015,41020,Algeciras,Zona Residencial Rural,3230
-2015,41020,Algeciras,Zona Comercial Urbano,335
-2015,41020,Algeciras,Zona Comercial Rural,9
-2015,41020,Algeciras,Zona Oficial Urbano,28
-2015,41020,Algeciras,Zona Oficial Rural,76
-2015,41026,Altamira,Zona Residencial Urbano,967
-2015,41026,Altamira,Zona Residencial Rural,403
-2015,41026,Altamira,Zona Comercial Urbano,80
-2015,41026,Altamira,Zona Comercial Rural,14
-2015,41026,Altamira,Zona Oficial Urbano,21
-2015,41026,Altamira,Zona Oficial Rural,6
-2015,41078,Baraya,Zona Residencial Urbano,1141
-2015,41078,Baraya,Zona Residencial Rural,1155
-2015,41078,Baraya,Zona Comercial Urbano,125
-2015,41078,Baraya,Zona Comercial Rural,4
-2015,41078,Baraya,Zona Oficial Urbano,27
-2015,41078,Baraya,Zona Oficial Rural,47
-2015,41132,Campoalegre,Zona Residencial Urbano,7241
-2015,41132,Campoalegre,Zona Residencial Rural,2296
-2015,41132,Campoalegre,Zona Comercial Urbano,677
-2015,41132,Campoalegre,Zona Comercial Rural,46
-2015,41132,Campoalegre,Zona Oficial Urbano,68
-2015,41132,Campoalegre,Zona Oficial Rural,44
-2015,41206,Colombia,Zona Residencial Urbano,802
-2015,41206,Colombia,Zona Residencial Rural,1949
-2015,41206,Colombia,Zona Comercial Urbano,75
-2015,41206,Colombia,Zona Comercial Rural,10
-2015,41206,Colombia,Zona Oficial Urbano,18
-2015,41206,Colombia,Zona Oficial Rural,66
-2015,41548,Elias,Zona Residencial Urbano,1632
-2015,41548,Elias,Zona Residencial Rural,2653
-2015,41548,Elias,Zona Comercial Urbano,116
-2015,41548,Elias,Zona Comercial Rural,11
-2015,41548,Elias,Zona Oficial Urbano,24
-2015,41548,Elias,Zona Oficial Rural,52
-2015,41244,Garzón,Zona Residencial Urbano,402
-2015,41244,Garzón,Zona Residencial Rural,728
-2015,41244,Garzón,Zona Comercial Urbano,14
-2015,41244,Garzón,Zona Comercial Rural,7
-2015,41244,Garzón,Zona Oficial Urbano,15
-2015,41244,Garzón,Zona Oficial Rural,23
-2015,41298,Gigante,Zona Residencial Urbano,12605
-2015,41298,Gigante,Zona Residencial Rural,8799
-2015,41298,Gigante,Zona Comercial Urbano,3338
-2015,41298,Gigante,Zona Comercial Rural,82
-2015,41298,Gigante,Zona Oficial Urbano,82
-2015,41298,Gigante,Zona Oficial Rural,127
-2015,41306,Guadalupe,Zona Residencial Urbano,3464
-2015,41306,Guadalupe,Zona Residencial Rural,4079
-2015,41306,Guadalupe,Zona Comercial Urbano,275
-2015,41306,Guadalupe,Zona Comercial Rural,53
-2015,41306,Guadalupe,Zona Oficial Urbano,34
-2015,41306,Guadalupe,Zona Oficial Rural,70
-2015,41319,Hobo,Zona Residencial Urbano,1646
-2015,41319,Hobo,Zona Residencial Rural,3693
-2015,41319,Hobo,Zona Comercial Urbano,148
-2015,41319,Hobo,Zona Comercial Rural,18
-2015,41319,Hobo,Zona Oficial Urbano,21
-2015,41319,Hobo,Zona Oficial Rural,56
-2015,41349,Iquira,Zona Residencial Urbano,1780
-2015,41349,Iquira,Zona Residencial Rural,641
-2015,41349,Iquira,Zona Comercial Urbano,188
-2015,41349,Iquira,Zona Comercial Rural,14
-2015,41349,Iquira,Zona Oficial Urbano,14
-2015,41349,Iquira,Zona Oficial Rural,7
-2015,41357,Isnos,Zona Residencial Urbano,1374
-2015,41357,Isnos,Zona Residencial Rural,2093
-2015,41357,Isnos,Zona Comercial Urbano,109
-2015,41357,Isnos,Zona Comercial Rural,14
-2015,41357,Isnos,Zona Oficial Urbano,20
-2015,41357,Isnos,Zona Oficial Rural,58
-2015,41359,La Argentina,Zona Residencial Urbano,1586
-2015,41359,La Argentina,Zona Residencial Rural,4565
-2015,41359,La Argentina,Zona Comercial Urbano,194
-2015,41359,La Argentina,Zona Comercial Rural,21
-2015,41359,La Argentina,Zona Oficial Urbano,18
-2015,41359,La Argentina,Zona Oficial Rural,103
-2015,41378,La Plata,Zona Residencial Urbano,1686
-2015,41378,La Plata,Zona Residencial Rural,1925
-2015,41378,La Plata,Zona Comercial Urbano,47
-2015,41378,La Plata,Zona Comercial Rural,7
-2015,41378,La Plata,Zona Oficial Urbano,23
-2015,41378,La Plata,Zona Oficial Rural,31
-2015,41396,Nataga,Zona Residencial Urbano,8523
-2015,41396,Nataga,Zona Residencial Rural,6938
-2015,41396,Nataga,Zona Comercial Urbano,1707
-2015,41396,Nataga,Zona Comercial Rural,17
-2015,41396,Nataga,Zona Oficial Urbano,102
-2015,41396,Nataga,Zona Oficial Rural,168
-2015,41483,Oporapa,Zona Residencial Urbano,748
-2015,41483,Oporapa,Zona Residencial Rural,1007
-2015,41483,Oporapa,Zona Comercial Urbano,49
-2015,41483,Oporapa,Zona Comercial Rural,2
-2015,41483,Oporapa,Zona Oficial Urbano,48
-2015,41483,Oporapa,Zona Oficial Rural,29
-2015,41503,Paicol,Zona Residencial Urbano,672
-2015,41503,Paicol,Zona Residencial Rural,2331
-2015,41503,Paicol,Zona Comercial Urbano,38
-2015,41503,Paicol,Zona Comercial Rural,7
-2015,41503,Paicol,Zona Oficial Urbano,18
-2015,41503,Paicol,Zona Oficial Rural,46
-2015,41518,Palermo,Zona Residencial Urbano,921
-2015,41518,Palermo,Zona Residencial Rural,1156
-2015,41518,Palermo,Zona Comercial Urbano,39
-2015,41518,Palermo,Zona Comercial Rural,4
-2015,41518,Palermo,Zona Oficial Urbano,18
-2015,41518,Palermo,Zona Oficial Rural,36
-2015,41524,Palestina,Zona Residencial Urbano,5369
-2015,41524,Palestina,Zona Residencial Rural,3108
-2015,41524,Palestina,Zona Comercial Urbano,338
-2015,41524,Palestina,Zona Comercial Rural,150
-2015,41524,Palestina,Zona Oficial Urbano,54
-2015,41524,Palestina,Zona Oficial Rural,88
-2015,41530,Pital,Zona Residencial Urbano,507
-2015,41530,Pital,Zona Residencial Rural,2402
-2015,41530,Pital,Zona Comercial Urbano,129
-2015,41530,Pital,Zona Comercial Rural,6
-2015,41530,Pital,Zona Oficial Urbano,19
-2015,41530,Pital,Zona Oficial Rural,78
-2015,41551,Pitalito,Zona Residencial Urbano,22114
-2015,41551,Pitalito,Zona Residencial Rural,13236
-2015,41551,Pitalito,Zona Comercial Urbano,8171
-2015,41551,Pitalito,Zona Comercial Rural,237
-2015,41551,Pitalito,Zona Oficial Urbano,129
-2015,41551,Pitalito,Zona Oficial Rural,219
-2015,41615,Rivera,Zona Residencial Urbano,3524
-2015,41615,Rivera,Zona Residencial Rural,3364
-2015,41615,Rivera,Zona Comercial Urbano,422
-2015,41615,Rivera,Zona Comercial Rural,96
-2015,41615,Rivera,Zona Oficial Urbano,25
-2015,41615,Rivera,Zona Oficial Rural,46
-2015,41660,Saladoblanco,Zona Residencial Urbano,575
-2015,41660,Saladoblanco,Zona Residencial Rural,2312
-2015,41660,Saladoblanco,Zona Comercial Urbano,75
-2015,41660,Saladoblanco,Zona Comercial Rural,8
-2015,41660,Saladoblanco,Zona Oficial Urbano,23
-2015,41660,Saladoblanco,Zona Oficial Rural,48
-2015,41668,San Agustin,Zona Residencial Urbano,2995
-2015,41668,San Agustin,Zona Residencial Rural,5769
-2015,41668,San Agustin,Zona Comercial Urbano,370
-2015,41668,San Agustin,Zona Comercial Rural,48
-2015,41668,San Agustin,Zona Oficial Urbano,36
-2015,41668,San Agustin,Zona Oficial Rural,147
-2015,41676,Santa Maria,Zona Residencial Urbano,1054
-2015,41676,Santa Maria,Zona Residencial Rural,2074
-2015,41676,Santa Maria,Zona Comercial Urbano,172
-2015,41676,Santa Maria,Zona Comercial Rural,10
-2015,41676,Santa Maria,Zona Oficial Urbano,24
-2015,41676,Santa Maria,Zona Oficial Rural,52
-2015,41770,Suaza,Zona Residencial Urbano,1258
-2015,41770,Suaza,Zona Residencial Rural,3661
-2015,41770,Suaza,Zona Comercial Urbano,109
-2015,41770,Suaza,Zona Comercial Rural,42
-2015,41770,Suaza,Zona Oficial Urbano,14
-2015,41770,Suaza,Zona Oficial Rural,65
-2015,41791,Tarqui,Zona Residencial Urbano,1504
-2015,41791,Tarqui,Zona Residencial Rural,3494
-2015,41791,Tarqui,Zona Comercial Urbano,106
-2015,41791,Tarqui,Zona Comercial Rural,21
-2015,41791,Tarqui,Zona Oficial Urbano,18
-2015,41791,Tarqui,Zona Oficial Rural,69
-2015,41799,Tello,Zona Residencial Urbano,1624
-2015,41799,Tello,Zona Residencial Rural,2358
-2015,41799,Tello,Zona Comercial Urbano,99
-2015,41799,Tello,Zona Comercial Rural,10
-2015,41799,Tello,Zona Oficial Urbano,18
-2015,41799,Tello,Zona Oficial Rural,70
-2015,41801,Teruel,Zona Residencial Urbano,1365
-2015,41801,Teruel,Zona Residencial Rural,1214
-2015,41801,Teruel,Zona Comercial Urbano,144
-2015,41801,Teruel,Zona Comercial Rural,6
-2015,41801,Teruel,Zona Oficial Urbano,25
-2015,41801,Teruel,Zona Oficial Rural,26
-2015,41797,Tesalia,Zona Residencial Urbano,2360
-2015,41797,Tesalia,Zona Residencial Rural,990
-2015,41797,Tesalia,Zona Comercial Urbano,107
-2015,41797,Tesalia,Zona Comercial Rural,4
-2015,41797,Tesalia,Zona Oficial Urbano,32
-2015,41797,Tesalia,Zona Oficial Rural,25
-2015,41807,Timana,Zona Residencial Urbano,2199
-2015,41807,Timana,Zona Residencial Rural,3897
-2015,41807,Timana,Zona Comercial Urbano,252
-2015,41807,Timana,Zona Comercial Rural,20
-2015,41807,Timana,Zona Oficial Urbano,34
-2015,41807,Timana,Zona Oficial Rural,56
-2015,41872,Villavieja,Zona Residencial Urbano,835
-2015,41872,Villavieja,Zona Residencial Rural,1395
-2015,41872,Villavieja,Zona Comercial Urbano,132
-2015,41872,Villavieja,Zona Comercial Rural,13
-2015,41872,Villavieja,Zona Oficial Urbano,15
-2015,41872,Villavieja,Zona Oficial Rural,43
-2015,41885,Yaguara,Zona Residencial Urbano,2022
-2015,41885,Yaguara,Zona Residencial Rural,748
-2015,41885,Yaguara,Zona Comercial Urbano,198
-2015,41885,Yaguara,Zona Comercial Rural,18
-2015,41885,Yaguara,Zona Oficial Urbano,38
-2015,41885,Yaguara,Zona Oficial Rural,14
-2014,41001, NEIVA,Zona Residencial Urbano,100266
-2014,41001, NEIVA,Zona Residencial Rural,6681
-2014,41001, NEIVA,Zona Comercial Urbano,8905
-2014,41001, NEIVA,Zona Comercial Rural,95
-2014,41001, NEIVA,Zona Oficial Urbano,281
-2014,41001, NEIVA,Zona Oficial Rural,123
-2014,41006, ACEVEDO,Zona Residencial Urbano,1410
-2014,41006, ACEVEDO,Zona Residencial Rural,5689
-2014,41006, ACEVEDO,Zona Comercial Urbano,170
-2014,41006, ACEVEDO,Zona Comercial Rural,43
-2014,41006, ACEVEDO,Zona Oficial Urbano,12
-2014,41006, ACEVEDO,Zona Oficial Rural,91
-2014,41013, AGRADO,Zona Residencial Urbano,1660
-2014,41013, AGRADO,Zona Residencial Rural,1007
-2014,41013, AGRADO,Zona Comercial Urbano,74
-2014,41013, AGRADO,Zona Comercial Rural,18
-2014,41013, AGRADO,Zona Oficial Urbano,13
-2014,41013, AGRADO,Zona Oficial Rural,23
-2014,41016, AIPE,Zona Residencial Urbano,2986
-2014,41016, AIPE,Zona Residencial Rural,2335
-2014,41016, AIPE,Zona Comercial Urbano,145
-2014,41016, AIPE,Zona Comercial Rural,30
-2014,41016, AIPE,Zona Oficial Urbano,30
-2014,41016, AIPE,Zona Oficial Rural,56
-2014,41020, ALGECIRAS,Zona Residencial Urbano,2936
-2014,41020, ALGECIRAS,Zona Residencial Rural,3170
-2014,41020, ALGECIRAS,Zona Comercial Urbano,199
-2014,41020, ALGECIRAS,Zona Comercial Rural,6
-2014,41020, ALGECIRAS,Zona Oficial Urbano,22
-2014,41020, ALGECIRAS,Zona Oficial Rural,71
-2014,41026, ALTAMIRA,Zona Residencial Urbano,885
-2014,41026, ALTAMIRA,Zona Residencial Rural,384
-2014,41026, ALTAMIRA,Zona Comercial Urbano,63
-2014,41026, ALTAMIRA,Zona Comercial Rural,8
-2014,41026, ALTAMIRA,Zona Oficial Urbano,16
-2014,41026, ALTAMIRA,Zona Oficial Rural,6
-2014,41078, BARAYA,Zona Residencial Urbano,1095
-2014,41078, BARAYA,Zona Residencial Rural,1130
-2014,41078, BARAYA,Zona Comercial Urbano,62
-2014,41078, BARAYA,Zona Comercial Rural,4
-2014,41078, BARAYA,Zona Oficial Urbano,14
-2014,41078, BARAYA,Zona Oficial Rural,45
-2014,41132, CAMPOALEGRE,Zona Residencial Urbano,6963
-2014,41132, CAMPOALEGRE,Zona Residencial Rural,2272
-2014,41132, CAMPOALEGRE,Zona Comercial Urbano,412
-2014,41132, CAMPOALEGRE,Zona Comercial Rural,33
-2014,41132, CAMPOALEGRE,Zona Oficial Urbano,46
-2014,41132, CAMPOALEGRE,Zona Oficial Rural,38
-2014,41206, COLOMBIA,Zona Residencial Urbano,777
-2014,41206, COLOMBIA,Zona Residencial Rural,1885
-2014,41206, COLOMBIA,Zona Comercial Urbano,27
-2014,41206, COLOMBIA,Zona Comercial Rural,8
-2014,41206, COLOMBIA,Zona Oficial Urbano,17
-2014,41206, COLOMBIA,Zona Oficial Rural,64
-2014,41548,Elias,Zona Residencial Urbano,395
-2014,41548,Elias,Zona Residencial Rural,710
-2014,41548,Elias,Zona Comercial Urbano,7
-2014,41548,Elias,Zona Comercial Rural,7
-2014,41548,Elias,Zona Oficial Urbano,11
-2014,41548,Elias,Zona Oficial Rural,20
-2014,41244, GARZON,Zona Residencial Urbano,11878
-2014,41244, GARZON,Zona Residencial Rural,8692
-2014,41244, GARZON,Zona Comercial Urbano,1252
-2014,41244, GARZON,Zona Comercial Rural,70
-2014,41244, GARZON,Zona Oficial Urbano,53
-2014,41244, GARZON,Zona Oficial Rural,112
-2014,41298, GIGANTE,Zona Residencial Urbano,3302
-2014,41298, GIGANTE,Zona Residencial Rural,4068
-2014,41298, GIGANTE,Zona Comercial Urbano,242
-2014,41298, GIGANTE,Zona Comercial Rural,45
-2014,41298, GIGANTE,Zona Oficial Urbano,24
-2014,41298, GIGANTE,Zona Oficial Rural,57
-2014,41306, GUADALUPE,Zona Residencial Urbano,1575
-2014,41306, GUADALUPE,Zona Residencial Rural,3602
-2014,41306, GUADALUPE,Zona Comercial Urbano,137
-2014,41306, GUADALUPE,Zona Comercial Rural,13
-2014,41306, GUADALUPE,Zona Oficial Urbano,18
-2014,41306, GUADALUPE,Zona Oficial Rural,54
-2014,41319, HOBO,Zona Residencial Urbano,1615
-2014,41319, HOBO,Zona Residencial Rural,628
-2014,41319, HOBO,Zona Comercial Urbano,70
-2014,41319, HOBO,Zona Comercial Rural,8
-2014,41319, HOBO,Zona Oficial Urbano,11
-2014,41319, HOBO,Zona Oficial Rural,7
-2014,41349, IQUIRA,Zona Residencial Urbano,1354
-2014,41349, IQUIRA,Zona Residencial Rural,2021
-2014,41349, IQUIRA,Zona Comercial Urbano,52
-2014,41349, IQUIRA,Zona Comercial Rural,11
-2014,41349, IQUIRA,Zona Oficial Urbano,15
-2014,41349, IQUIRA,Zona Oficial Rural,49
-2014,41357, ISNOS,Zona Residencial Urbano,1556
-2014,41357, ISNOS,Zona Residencial Rural,4430
-2014,41357, ISNOS,Zona Comercial Urbano,161
-2014,41357, ISNOS,Zona Comercial Rural,14
-2014,41357, ISNOS,Zona Oficial Urbano,13
-2014,41357, ISNOS,Zona Oficial Rural,72
-2014,41359, LA ARGENTINA,Zona Residencial Urbano,1577
-2014,41359, LA ARGENTINA,Zona Residencial Rural,1815
-2014,41359, LA ARGENTINA,Zona Comercial Urbano,40
-2014,41359, LA ARGENTINA,Zona Comercial Rural,5
-2014,41359, LA ARGENTINA,Zona Oficial Urbano,19
-2014,41359, LA ARGENTINA,Zona Oficial Rural,29
-2014,41378, LA PLATA,Zona Residencial Urbano,8041
-2014,41378, LA PLATA,Zona Residencial Rural,6694
-2014,41378, LA PLATA,Zona Comercial Urbano,721
-2014,41378, LA PLATA,Zona Comercial Rural,11
-2014,41378, LA PLATA,Zona Oficial Urbano,84
-2014,41378, LA PLATA,Zona Oficial Rural,152
-2014,41396,Nataga,Zona Residencial Urbano,709
-2014,41396,Nataga,Zona Residencial Rural,967
-2014,41396,Nataga,Zona Comercial Urbano,35
-2014,41396,Nataga,Zona Comercial Rural,2
-2014,41396,Nataga,Zona Oficial Urbano,47
-2014,41396,Nataga,Zona Oficial Rural,27
-2014,41483, OPORAPA,Zona Residencial Urbano,635
-2014,41483, OPORAPA,Zona Residencial Rural,2184
-2014,41483, OPORAPA,Zona Comercial Urbano,36
-2014,41483, OPORAPA,Zona Comercial Rural,3
-2014,41483, OPORAPA,Zona Oficial Urbano,14
-2014,41483, OPORAPA,Zona Oficial Rural,33
-2014,41503, PAICOL,Zona Residencial Urbano,869
-2014,41503, PAICOL,Zona Residencial Rural,1119
-2014,41503, PAICOL,Zona Comercial Urbano,28
-2014,41503, PAICOL,Zona Comercial Rural,2
-2014,41503, PAICOL,Zona Oficial Urbano,17
-2014,41503, PAICOL,Zona Oficial Rural,34
-2014,41518, PALERMO,Zona Residencial Urbano,5166
-2014,41518, PALERMO,Zona Residencial Rural,3032
-2014,41518, PALERMO,Zona Comercial Urbano,312
-2014,41518, PALERMO,Zona Comercial Rural,129
-2014,41518, PALERMO,Zona Oficial Urbano,39
-2014,41518, PALERMO,Zona Oficial Rural,78
-2014,41524, PALESTINA,Zona Residencial Urbano,496
-2014,41524, PALESTINA,Zona Residencial Rural,2333
-2014,41524, PALESTINA,Zona Comercial Urbano,63
-2014,41524, PALESTINA,Zona Comercial Rural,5
-2014,41524, PALESTINA,Zona Oficial Urbano,15
-2014,41524, PALESTINA,Zona Oficial Rural,37
-2014,41530, PITAL,Zona Residencial Urbano,1599
-2014,41530, PITAL,Zona Residencial Rural,2591
-2014,41530, PITAL,Zona Comercial Urbano,102
-2014,41530, PITAL,Zona Comercial Rural,6
-2014,41530, PITAL,Zona Oficial Urbano,20
-2014,41530, PITAL,Zona Oficial Rural,49
-2014,41551, PITALITO,Zona Residencial Urbano,20145
-2014,41551, PITALITO,Zona Residencial Rural,12416
-2014,41551, PITALITO,Zona Comercial Urbano,2716
-2014,41551, PITALITO,Zona Comercial Rural,199
-2014,41551, PITALITO,Zona Oficial Urbano,61
-2014,41551, PITALITO,Zona Oficial Rural,155
-2014,41615, RIVERA,Zona Residencial Urbano,3296
-2014,41615, RIVERA,Zona Residencial Rural,3121
-2014,41615, RIVERA,Zona Comercial Urbano,168
-2014,41615, RIVERA,Zona Comercial Rural,88
-2014,41615, RIVERA,Zona Oficial Urbano,21
-2014,41615, RIVERA,Zona Oficial Rural,36
-2014,41660,Saladoblanco,Zona Residencial Urbano,544
-2014,41660,Saladoblanco,Zona Residencial Rural,2204
-2014,41660,Saladoblanco,Zona Comercial Urbano,59
-2014,41660,Saladoblanco,Zona Comercial Rural,6
-2014,41660,Saladoblanco,Zona Oficial Urbano,14
-2014,41660,Saladoblanco,Zona Oficial Rural,41
-2014,41668, SAN AGUSTIN,Zona Residencial Urbano,2824
-2014,41668, SAN AGUSTIN,Zona Residencial Rural,5494
-2014,41668, SAN AGUSTIN,Zona Comercial Urbano,316
-2014,41668, SAN AGUSTIN,Zona Comercial Rural,34
-2014,41668, SAN AGUSTIN,Zona Oficial Urbano,24
-2014,41668, SAN AGUSTIN,Zona Oficial Rural,100
-2014,41676,Santa Maria,Zona Residencial Urbano,996
-2014,41676,Santa Maria,Zona Residencial Rural,2037
-2014,41676,Santa Maria,Zona Comercial Urbano,88
-2014,41676,Santa Maria,Zona Comercial Rural,9
-2014,41676,Santa Maria,Zona Oficial Urbano,18
-2014,41676,Santa Maria,Zona Oficial Rural,44
-2014,41770, SUAZA,Zona Residencial Urbano,1120
-2014,41770, SUAZA,Zona Residencial Rural,3473
-2014,41770, SUAZA,Zona Comercial Urbano,100
-2014,41770, SUAZA,Zona Comercial Rural,34
-2014,41770, SUAZA,Zona Oficial Urbano,14
-2014,41770, SUAZA,Zona Oficial Rural,61
-2014,41791, TARQUI,Zona Residencial Urbano,1406
-2014,41791, TARQUI,Zona Residencial Rural,3453
-2014,41791, TARQUI,Zona Comercial Urbano,96
-2014,41791, TARQUI,Zona Comercial Rural,19
-2014,41791, TARQUI,Zona Oficial Urbano,13
-2014,41791, TARQUI,Zona Oficial Rural,61
-2014,41799, TELLO,Zona Residencial Urbano,1458
-2014,41799, TELLO,Zona Residencial Rural,2276
-2014,41799, TELLO,Zona Comercial Urbano,33
-2014,41799, TELLO,Zona Comercial Rural,9
-2014,41799, TELLO,Zona Oficial Urbano,17
-2014,41799, TELLO,Zona Oficial Rural,58
-2014,41801, TERUEL,Zona Residencial Urbano,1318
-2014,41801, TERUEL,Zona Residencial Rural,1197
-2014,41801, TERUEL,Zona Comercial Urbano,64
-2014,41801, TERUEL,Zona Comercial Rural,5
-2014,41801, TERUEL,Zona Oficial Urbano,25
-2014,41801, TERUEL,Zona Oficial Rural,24
-2014,41797, TESALIA,Zona Residencial Urbano,2316
-2014,41797, TESALIA,Zona Residencial Rural,975
-2014,41797, TESALIA,Zona Comercial Urbano,90
-2014,41797, TESALIA,Zona Comercial Rural,4
-2014,41797, TESALIA,Zona Oficial Urbano,28
-2014,41797, TESALIA,Zona Oficial Rural,25
-2014,41807,Timana,Zona Residencial Urbano,2058
-2014,41807,Timana,Zona Residencial Rural,3838
-2014,41807,Timana,Zona Comercial Urbano,209
-2014,41807,Timana,Zona Comercial Rural,17
-2014,41807,Timana,Zona Oficial Urbano,19
-2014,41807,Timana,Zona Oficial Rural,43
-2014,41872, VILLAVIEJA,Zona Residencial Urbano,822
-2014,41872, VILLAVIEJA,Zona Residencial Rural,1352
-2014,41872, VILLAVIEJA,Zona Comercial Urbano,19
-2014,41872, VILLAVIEJA,Zona Comercial Rural,10
-2014,41872, VILLAVIEJA,Zona Oficial Urbano,12
-2014,41872, VILLAVIEJA,Zona Oficial Rural,36
-2014,41885,Yaguara,Zona Residencial Urbano,1964
-2014,41885,Yaguara,Zona Residencial Rural,719
-2014,41885,Yaguara,Zona Comercial Urbano,91
-2014,41885,Yaguara,Zona Comercial Rural,17
-2014,41885,Yaguara,Zona Oficial Urbano,28
-2014,41885,Yaguara,Zona Oficial Rural,9
-2013,41001, NEIVA,Zona Residencial Urbano,6361
-2013,41001, NEIVA,Zona Residencial Rural,95417
-2013,41001, NEIVA,Zona Comercial Urbano,95
-2013,41001, NEIVA,Zona Comercial Rural,8664
-2013,41001, NEIVA,Zona Oficial Urbano,146
-2013,41001, NEIVA,Zona Oficial Rural,441
-2013,41006, ACEVEDO,Zona Residencial Urbano,5505
-2013,41006, ACEVEDO,Zona Residencial Rural,1352
-2013,41006, ACEVEDO,Zona Comercial Urbano,49
-2013,41006, ACEVEDO,Zona Comercial Rural,156
-2013,41006, ACEVEDO,Zona Oficial Urbano,112
-2013,41006, ACEVEDO,Zona Oficial Rural,18
-2013,41013, AGRADO,Zona Residencial Urbano,1026
-2013,41013, AGRADO,Zona Residencial Rural,1553
-2013,41013, AGRADO,Zona Comercial Urbano,14
-2013,41013, AGRADO,Zona Comercial Rural,72
-2013,41013, AGRADO,Zona Oficial Urbano,26
-2013,41013, AGRADO,Zona Oficial Rural,17
-2013,41016, AIPE,Zona Residencial Urbano,2322
-2013,41016, AIPE,Zona Residencial Rural,2881
-2013,41016, AIPE,Zona Comercial Urbano,30
-2013,41016, AIPE,Zona Comercial Rural,151
-2013,41016, AIPE,Zona Oficial Urbano,67
-2013,41016, AIPE,Zona Oficial Rural,35
-2013,41020, ALGECIRAS,Zona Residencial Urbano,3143
-2013,41020, ALGECIRAS,Zona Residencial Rural,2871
-2013,41020, ALGECIRAS,Zona Comercial Urbano,6
-2013,41020, ALGECIRAS,Zona Comercial Rural,193
-2013,41020, ALGECIRAS,Zona Oficial Urbano,76
-2013,41020, ALGECIRAS,Zona Oficial Rural,23
-2013,41026, ALTAMIRA,Zona Residencial Urbano,370
-2013,41026, ALTAMIRA,Zona Residencial Rural,852
-2013,41026, ALTAMIRA,Zona Comercial Urbano,8
-2013,41026, ALTAMIRA,Zona Comercial Rural,59
-2013,41026, ALTAMIRA,Zona Oficial Urbano,6
-2013,41026, ALTAMIRA,Zona Oficial Rural,19
-2013,41078, BARAYA,Zona Residencial Urbano,1121
-2013,41078, BARAYA,Zona Residencial Rural,1092
-2013,41078, BARAYA,Zona Comercial Urbano,3
-2013,41078, BARAYA,Zona Comercial Rural,69
-2013,41078, BARAYA,Zona Oficial Urbano,48
-2013,41078, BARAYA,Zona Oficial Rural,14
-2013,41132, CAMPOALEGRE,Zona Residencial Urbano,2250
-2013,41132, CAMPOALEGRE,Zona Residencial Rural,6779
-2013,41132, CAMPOALEGRE,Zona Comercial Urbano,31
-2013,41132, CAMPOALEGRE,Zona Comercial Rural,401
-2013,41132, CAMPOALEGRE,Zona Oficial Urbano,45
-2013,41132, CAMPOALEGRE,Zona Oficial Rural,54
-2013,41206, COLOMBIA,Zona Residencial Urbano,1859
-2013,41206, COLOMBIA,Zona Residencial Rural,749
-2013,41206, COLOMBIA,Zona Comercial Urbano,9
-2013,41206, COLOMBIA,Zona Comercial Rural,26
-2013,41206, COLOMBIA,Zona Oficial Urbano,65
-2013,41206, COLOMBIA,Zona Oficial Rural,19
-2013,41548, EL PITAL,Zona Residencial Urbano,744
-2013,41548, EL PITAL,Zona Residencial Rural,340
-2013,41548, EL PITAL,Zona Comercial Urbano,7
-2013,41548, EL PITAL,Zona Comercial Rural,7
-2013,41548, EL PITAL,Zona Oficial Urbano,19
-2013,41548, EL PITAL,Zona Oficial Rural,13
-2013,41244,Elias,Zona Residencial Urbano,8232
-2013,41244,Elias,Zona Residencial Rural,11211
-2013,41244,Elias,Zona Comercial Urbano,63
-2013,41244,Elias,Zona Comercial Rural,1232
-2013,41244,Elias,Zona Oficial Urbano,122
-2013,41244,Elias,Zona Oficial Rural,82
-2013,41298, GARZON,Zona Residencial Urbano,3978
-2013,41298, GARZON,Zona Residencial Rural,3142
-2013,41298, GARZON,Zona Comercial Urbano,42
-2013,41298, GARZON,Zona Comercial Rural,252
-2013,41298, GARZON,Zona Oficial Urbano,62
-2013,41298, GARZON,Zona Oficial Rural,27
-2013,41306, GIGANTE,Zona Residencial Urbano,3469
-2013,41306, GIGANTE,Zona Residencial Rural,1546
-2013,41306, GIGANTE,Zona Comercial Urbano,11
-2013,41306, GIGANTE,Zona Comercial Rural,134
-2013,41306, GIGANTE,Zona Oficial Urbano,55
-2013,41306, GIGANTE,Zona Oficial Rural,19
-2013,41319, GUADALUPE,Zona Residencial Urbano,619
-2013,41319, GUADALUPE,Zona Residencial Rural,1556
-2013,41319, GUADALUPE,Zona Comercial Urbano,6
-2013,41319, GUADALUPE,Zona Comercial Rural,69
-2013,41319, GUADALUPE,Zona Oficial Urbano,7
-2013,41319, GUADALUPE,Zona Oficial Rural,15
-2013,41349, HOBO,Zona Residencial Urbano,1997
-2013,41349, HOBO,Zona Residencial Rural,1334
-2013,41349, HOBO,Zona Comercial Urbano,11
-2013,41349, HOBO,Zona Comercial Rural,53
-2013,41349, HOBO,Zona Oficial Urbano,51
-2013,41349, HOBO,Zona Oficial Rural,21
-2013,41357, IQUIRA,Zona Residencial Urbano,4331
-2013,41357, IQUIRA,Zona Residencial Rural,1447
-2013,41357, IQUIRA,Zona Comercial Urbano,16
-2013,41357, IQUIRA,Zona Comercial Rural,158
-2013,41357, IQUIRA,Zona Oficial Urbano,102
-2013,41357, IQUIRA,Zona Oficial Rural,17
-2013,41359, ISNOS,Zona Residencial Urbano,1733
-2013,41359, ISNOS,Zona Residencial Rural,1455
-2013,41359, ISNOS,Zona Comercial Urbano,5
-2013,41359, ISNOS,Zona Comercial Rural,41
-2013,41359, ISNOS,Zona Oficial Urbano,31
-2013,41359, ISNOS,Zona Oficial Rural,22
-2013,41378, LA ARGENTINA,Zona Residencial Urbano,6469
-2013,41378, LA ARGENTINA,Zona Residencial Rural,7652
-2013,41378, LA ARGENTINA,Zona Comercial Urbano,13
-2013,41378, LA ARGENTINA,Zona Comercial Rural,708
-2013,41378, LA ARGENTINA,Zona Oficial Urbano,158
-2013,41378, LA ARGENTINA,Zona Oficial Rural,95
-2013,41396, LA PLATA,Zona Residencial Urbano,945
-2013,41396, LA PLATA,Zona Residencial Rural,674
-2013,41396, LA PLATA,Zona Comercial Urbano,2
-2013,41396, LA PLATA,Zona Comercial Rural,39
-2013,41396, LA PLATA,Zona Oficial Urbano,29
-2013,41396, LA PLATA,Zona Oficial Rural,46
-2013,41483,Nataga,Zona Residencial Urbano,2064
-2013,41483,Nataga,Zona Residencial Rural,555
-2013,41483,Nataga,Zona Comercial Urbano,7
-2013,41483,Nataga,Zona Comercial Rural,37
-2013,41483,Nataga,Zona Oficial Urbano,36
-2013,41483,Nataga,Zona Oficial Rural,18
-2013,41503, OPORAPA,Zona Residencial Urbano,1066
-2013,41503, OPORAPA,Zona Residencial Rural,848
-2013,41503, OPORAPA,Zona Comercial Urbano,3
-2013,41503, OPORAPA,Zona Comercial Rural,29
-2013,41503, OPORAPA,Zona Oficial Urbano,35
-2013,41503, OPORAPA,Zona Oficial Rural,19
-2013,41518, PAICOL,Zona Residencial Urbano,2968
-2013,41518, PAICOL,Zona Residencial Rural,4933
-2013,41518, PAICOL,Zona Comercial Urbano,120
-2013,41518, PAICOL,Zona Comercial Rural,307
-2013,41518, PAICOL,Zona Oficial Urbano,85
-2013,41518, PAICOL,Zona Oficial Rural,55
-2013,41524, PALERMO,Zona Residencial Urbano,2241
-2013,41524, PALERMO,Zona Residencial Rural,488
-2013,41524, PALERMO,Zona Comercial Urbano,6
-2013,41524, PALERMO,Zona Comercial Rural,65
-2013,41524, PALERMO,Zona Oficial Urbano,67
-2013,41524, PALERMO,Zona Oficial Rural,17
-2013,41530, PALESTINA,Zona Residencial Urbano,2404
-2013,41530, PALESTINA,Zona Residencial Rural,1544
-2013,41530, PALESTINA,Zona Comercial Urbano,11
-2013,41530, PALESTINA,Zona Comercial Rural,99
-2013,41530, PALESTINA,Zona Oficial Urbano,56
-2013,41530, PALESTINA,Zona Oficial Rural,20
-2013,41551, PITALITO,Zona Residencial Urbano,12022
-2013,41551, PITALITO,Zona Residencial Rural,19220
-2013,41551, PITALITO,Zona Comercial Urbano,191
-2013,41551, PITALITO,Zona Comercial Rural,2584
-2013,41551, PITALITO,Zona Oficial Urbano,198
-2013,41551, PITALITO,Zona Oficial Rural,113
-2013,41615, RIVERA,Zona Residencial Urbano,2955
-2013,41615, RIVERA,Zona Residencial Rural,2999
-2013,41615, RIVERA,Zona Comercial Urbano,79
-2013,41615, RIVERA,Zona Comercial Rural,151
-2013,41615, RIVERA,Zona Oficial Urbano,41
-2013,41615, RIVERA,Zona Oficial Rural,22
-2013,41660,Saladoblanco,Zona Residencial Urbano,2196
-2013,41660,Saladoblanco,Zona Residencial Rural,500
-2013,41660,Saladoblanco,Zona Comercial Urbano,6
-2013,41660,Saladoblanco,Zona Comercial Rural,63
-2013,41660,Saladoblanco,Zona Oficial Urbano,47
-2013,41660,Saladoblanco,Zona Oficial Rural,19
-2013,41668, SAN AGUSTIN,Zona Residencial Urbano,5324
-2013,41668, SAN AGUSTIN,Zona Residencial Rural,2734
-2013,41668, SAN AGUSTIN,Zona Comercial Urbano,35
-2013,41668, SAN AGUSTIN,Zona Comercial Rural,306
-2013,41668, SAN AGUSTIN,Zona Oficial Urbano,145
-2013,41668, SAN AGUSTIN,Zona Oficial Rural,37
-2013,41676,Santa Maria,Zona Residencial Urbano,2007
-2013,41676,Santa Maria,Zona Residencial Rural,949
-2013,41676,Santa Maria,Zona Comercial Urbano,8
-2013,41676,Santa Maria,Zona Comercial Rural,78
-2013,41676,Santa Maria,Zona Oficial Urbano,50
-2013,41676,Santa Maria,Zona Oficial Rural,22
-2013,41770, SUAZA,Zona Residencial Urbano,3304
-2013,41770, SUAZA,Zona Residencial Rural,1062
-2013,41770, SUAZA,Zona Comercial Urbano,31
-2013,41770, SUAZA,Zona Comercial Rural,93
-2013,41770, SUAZA,Zona Oficial Urbano,64
-2013,41770, SUAZA,Zona Oficial Rural,13
-2013,41791, TARQUI,Zona Residencial Urbano,3296
-2013,41791, TARQUI,Zona Residencial Rural,1341
-2013,41791, TARQUI,Zona Comercial Urbano,20
-2013,41791, TARQUI,Zona Comercial Rural,92
-2013,41791, TARQUI,Zona Oficial Urbano,64
-2013,41791, TARQUI,Zona Oficial Rural,16
-2013,41799, TELLO,Zona Residencial Urbano,955
-2013,41799, TELLO,Zona Residencial Rural,2234
-2013,41799, TELLO,Zona Comercial Urbano,4
-2013,41799, TELLO,Zona Comercial Rural,92
-2013,41799, TELLO,Zona Oficial Urbano,25
-2013,41799, TELLO,Zona Oficial Rural,32
-2013,41801, TERUEL,Zona Residencial Urbano,2285
-2013,41801, TERUEL,Zona Residencial Rural,1442
-2013,41801, TERUEL,Zona Comercial Urbano,9
-2013,41801, TERUEL,Zona Comercial Rural,32
-2013,41801, TERUEL,Zona Oficial Urbano,70
-2013,41801, TERUEL,Zona Oficial Rural,16
-2013,41797, TESALIA,Zona Residencial Urbano,1196
-2013,41797, TESALIA,Zona Residencial Rural,1211
-2013,41797, TESALIA,Zona Comercial Urbano,4
-2013,41797, TESALIA,Zona Comercial Rural,65
-2013,41797, TESALIA,Zona Oficial Urbano,26
-2013,41797, TESALIA,Zona Oficial Rural,25
-2013,41807,Timana,Zona Residencial Urbano,3758
-2013,41807,Timana,Zona Residencial Rural,2033
-2013,41807,Timana,Zona Comercial Urbano,19
-2013,41807,Timana,Zona Comercial Rural,207
-2013,41807,Timana,Zona Oficial Urbano,56
-2013,41807,Timana,Zona Oficial Rural,30
-2013,41872, VILLAVIEJA,Zona Residencial Urbano,1333
-2013,41872, VILLAVIEJA,Zona Residencial Rural,815
-2013,41872, VILLAVIEJA,Zona Comercial Urbano,10
-2013,41872, VILLAVIEJA,Zona Comercial Rural,17
-2013,41872, VILLAVIEJA,Zona Oficial Urbano,41
-2013,41872, VILLAVIEJA,Zona Oficial Rural,15
-2013,41885,Yaguara,Zona Residencial Urbano,700
-2013,41885,Yaguara,Zona Residencial Rural,1937
-2013,41885,Yaguara,Zona Comercial Urbano,18
-2013,41885,Yaguara,Zona Comercial Rural,71
-2013,41885,Yaguara,Zona Oficial Urbano,12
-2013,41885,Yaguara,Zona Oficial Rural,36
-2016,41001,Neiva,Zona Residencial Urbano,108562
-2016,41001,Neiva,Zona Residencial Rural,6876
-2016,41001,Neiva,Zona Comercial Urbano,9901
-2016,41001,Neiva,Zona Comercial Rural,129
-2016,41001,Neiva,Zona Oficial Urbano,463
-2016,41001,Neiva,Zona Oficial Rural,158
-2016,41006,Acevedo,Zona Residencial Urbano,1503
-2016,41006,Acevedo,Zona Residencial Rural,6063
-2016,41006,Acevedo,Zona Comercial Urbano,201
-2016,41006,Acevedo,Zona Comercial Rural,56
-2016,41006,Acevedo,Zona Oficial Urbano,20
-2016,41006,Acevedo,Zona Oficial Rural,131
-2016,41013,Agrado,Zona Residencial Urbano,1945
-2016,41013,Agrado,Zona Residencial Rural,1018
-2016,41013,Agrado,Zona Comercial Urbano,84
-2016,41013,Agrado,Zona Comercial Rural,19
-2016,41013,Agrado,Zona Oficial Urbano,55
-2016,41013,Agrado,Zona Oficial Rural,26
-2016,41016,Aipe,Zona Residencial Urbano,3012
-2016,41016,Aipe,Zona Residencial Rural,2366
-2016,41016,Aipe,Zona Comercial Urbano,165
-2016,41016,Aipe,Zona Comercial Rural,34
-2016,41016,Aipe,Zona Oficial Urbano,34
-2016,41016,Aipe,Zona Oficial Rural,61
-2016,41020,Algeciras,Zona Residencial Urbano,3096
-2016,41020,Algeciras,Zona Residencial Rural,3185
-2016,41020,Algeciras,Zona Comercial Urbano,248
-2016,41020,Algeciras,Zona Comercial Rural,10
-2016,41020,Algeciras,Zona Oficial Urbano,28
-2016,41020,Algeciras,Zona Oficial Rural,76
-2016,41026,Altamira,Zona Residencial Urbano,994
-2016,41026,Altamira,Zona Residencial Rural,449
-2016,41026,Altamira,Zona Comercial Urbano,78
-2016,41026,Altamira,Zona Comercial Rural,13
-2016,41026,Altamira,Zona Oficial Urbano,22
-2016,41026,Altamira,Zona Oficial Rural,6
-2016,41078,Baraya,Zona Residencial Urbano,1117
-2016,41078,Baraya,Zona Residencial Rural,1110
-2016,41078,Baraya,Zona Comercial Urbano,70
-2016,41078,Baraya,Zona Comercial Rural,4
-2016,41078,Baraya,Zona Oficial Urbano,16
-2016,41078,Baraya,Zona Oficial Rural,48
-2016,41132,Campoalegre,Zona Residencial Urbano,7338
-2016,41132,Campoalegre,Zona Residencial Rural,2295
-2016,41132,Campoalegre,Zona Comercial Urbano,461
-2016,41132,Campoalegre,Zona Comercial Rural,44
-2016,41132,Campoalegre,Zona Oficial Urbano,57
-2016,41132,Campoalegre,Zona Oficial Rural,44
-2016,41206,Colombia,Zona Residencial Urbano,800
-2016,41206,Colombia,Zona Residencial Rural,1971
-2016,41206,Colombia,Zona Comercial Urbano,29
-2016,41206,Colombia,Zona Comercial Rural,10
-2016,41206,Colombia,Zona Oficial Urbano,17
-2016,41206,Colombia,Zona Oficial Rural,65
-2016,41244,Elias,Zona Residencial Urbano,453
-2016,41244,Elias,Zona Residencial Rural,779
-2016,41244,Elias,Zona Comercial Urbano,14
-2016,41244,Elias,Zona Comercial Rural,9
-2016,41244,Elias,Zona Oficial Urbano,12
-2016,41244,Elias,Zona Oficial Rural,23
-2016,41298,Garzón,Zona Residencial Urbano,13124
-2016,41298,Garzón,Zona Residencial Rural,9003
-2016,41298,Garzón,Zona Comercial Urbano,1353
-2016,41298,Garzón,Zona Comercial Rural,86
-2016,41298,Garzón,Zona Oficial Urbano,87
-2016,41298,Garzón,Zona Oficial Rural,127
-2016,41306,Gigante,Zona Residencial Urbano,3640
-2016,41306,Gigante,Zona Residencial Rural,4216
-2016,41306,Gigante,Zona Comercial Urbano,287
-2016,41306,Gigante,Zona Comercial Rural,55
-2016,41306,Gigante,Zona Oficial Urbano,38
-2016,41306,Gigante,Zona Oficial Rural,74
-2016,41319,Guadalupe,Zona Residencial Urbano,1695
-2016,41319,Guadalupe,Zona Residencial Rural,3783
-2016,41319,Guadalupe,Zona Comercial Urbano,162
-2016,41319,Guadalupe,Zona Comercial Rural,20
-2016,41319,Guadalupe,Zona Oficial Urbano,23
-2016,41319,Guadalupe,Zona Oficial Rural,59
-2016,41349,Hobo,Zona Residencial Urbano,1965
-2016,41349,Hobo,Zona Residencial Rural,612
-2016,41349,Hobo,Zona Comercial Urbano,80
-2016,41349,Hobo,Zona Comercial Rural,15
-2016,41349,Hobo,Zona Oficial Urbano,15
-2016,41349,Hobo,Zona Oficial Rural,7
-2016,41357,Iquira,Zona Residencial Urbano,1425
-2016,41357,Iquira,Zona Residencial Rural,2028
-2016,41357,Iquira,Zona Comercial Urbano,64
-2016,41357,Iquira,Zona Comercial Rural,13
-2016,41357,Iquira,Zona Oficial Urbano,22
-2016,41357,Iquira,Zona Oficial Rural,56
-2016,41359,Isnos,Zona Residencial Urbano,1620
-2016,41359,Isnos,Zona Residencial Rural,4626
-2016,41359,Isnos,Zona Comercial Urbano,209
-2016,41359,Isnos,Zona Comercial Rural,23
-2016,41359,Isnos,Zona Oficial Urbano,17
-2016,41359,Isnos,Zona Oficial Rural,104
-2016,41378,La Argentina,Zona Residencial Urbano,1709
-2016,41378,La Argentina,Zona Residencial Rural,1992
-2016,41378,La Argentina,Zona Comercial Urbano,46
-2016,41378,La Argentina,Zona Comercial Rural,7
-2016,41378,La Argentina,Zona Oficial Urbano,23
-2016,41378,La Argentina,Zona Oficial Rural,33
-2016,41396,La Plata,Zona Residencial Urbano,8872
-2016,41396,La Plata,Zona Residencial Rural,7260
-2016,41396,La Plata,Zona Comercial Urbano,787
-2016,41396,La Plata,Zona Comercial Rural,19
-2016,41396,La Plata,Zona Oficial Urbano,104
-2016,41396,La Plata,Zona Oficial Rural,172
-2016,41483,Nataga,Zona Residencial Urbano,827
-2016,41483,Nataga,Zona Residencial Rural,1048
-2016,41483,Nataga,Zona Comercial Urbano,42
-2016,41483,Nataga,Zona Comercial Rural,2
-2016,41483,Nataga,Zona Oficial Urbano,49
-2016,41483,Nataga,Zona Oficial Rural,30
-2016,41503,Oporapa,Zona Residencial Urbano,682
-2016,41503,Oporapa,Zona Residencial Rural,2450
-2016,41503,Oporapa,Zona Comercial Urbano,39
-2016,41503,Oporapa,Zona Comercial Rural,7
-2016,41503,Oporapa,Zona Oficial Urbano,20
-2016,41503,Oporapa,Zona Oficial Rural,44
-2016,41518,Paicol,Zona Residencial Urbano,957
-2016,41518,Paicol,Zona Residencial Rural,1181
-2016,41518,Paicol,Zona Comercial Urbano,33
-2016,41518,Paicol,Zona Comercial Rural,4
-2016,41518,Paicol,Zona Oficial Urbano,18
-2016,41518,Paicol,Zona Oficial Rural,36
-2016,41524,Palermo,Zona Residencial Urbano,5429
-2016,41524,Palermo,Zona Residencial Rural,3057
-2016,41524,Palermo,Zona Comercial Urbano,357
-2016,41524,Palermo,Zona Comercial Rural,159
-2016,41524,Palermo,Zona Oficial Urbano,57
-2016,41524,Palermo,Zona Oficial Rural,85
-2016,41530,Palestina,Zona Residencial Urbano,513
-2016,41530,Palestina,Zona Residencial Rural,2488
-2016,41530,Palestina,Zona Comercial Urbano,76
-2016,41530,Palestina,Zona Comercial Rural,6
-2016,41530,Palestina,Zona Oficial Urbano,20
-2016,41530,Palestina,Zona Oficial Rural,78
-2016,41548,Pital,Zona Residencial Urbano,1686
-2016,41548,Pital,Zona Residencial Rural,2750
-2016,41548,Pital,Zona Comercial Urbano,117
-2016,41548,Pital,Zona Comercial Rural,13
-2016,41548,Pital,Zona Oficial Urbano,25
-2016,41548,Pital,Zona Oficial Rural,53
-2016,41551,Pitalito,Zona Residencial Urbano,23035
-2016,41551,Pitalito,Zona Residencial Rural,13695
-2016,41551,Pitalito,Zona Comercial Urbano,2879
-2016,41551,Pitalito,Zona Comercial Rural,244
-2016,41551,Pitalito,Zona Oficial Urbano,128
-2016,41551,Pitalito,Zona Oficial Rural,232
-2016,41615,Rivera,Zona Residencial Urbano,3638
-2016,41615,Rivera,Zona Residencial Rural,3519
-2016,41615,Rivera,Zona Comercial Urbano,206
-2016,41615,Rivera,Zona Comercial Rural,107
-2016,41615,Rivera,Zona Oficial Urbano,23
-2016,41615,Rivera,Zona Oficial Rural,43
-2016,41660,Saladoblanco,Zona Residencial Urbano,599
-2016,41660,Saladoblanco,Zona Residencial Rural,2338
-2016,41660,Saladoblanco,Zona Comercial Urbano,81
-2016,41660,Saladoblanco,Zona Comercial Rural,8
-2016,41660,Saladoblanco,Zona Oficial Urbano,23
-2016,41660,Saladoblanco,Zona Oficial Rural,51
-2016,41668,San Agustin,Zona Residencial Urbano,3050
-2016,41668,San Agustin,Zona Residencial Rural,5871
-2016,41668,San Agustin,Zona Comercial Urbano,350
-2016,41668,San Agustin,Zona Comercial Rural,50
-2016,41668,San Agustin,Zona Oficial Urbano,36
-2016,41668,San Agustin,Zona Oficial Rural,149
-2016,41676,Santa Maria,Zona Residencial Urbano,1061
-2016,41676,Santa Maria,Zona Residencial Rural,2065
-2016,41676,Santa Maria,Zona Comercial Urbano,104
-2016,41676,Santa Maria,Zona Comercial Rural,11
-2016,41676,Santa Maria,Zona Oficial Urbano,26
-2016,41676,Santa Maria,Zona Oficial Rural,51
-2016,41770,Suaza,Zona Residencial Urbano,1323
-2016,41770,Suaza,Zona Residencial Rural,3768
-2016,41770,Suaza,Zona Comercial Urbano,117
-2016,41770,Suaza,Zona Comercial Rural,49
-2016,41770,Suaza,Zona Oficial Urbano,15
-2016,41770,Suaza,Zona Oficial Rural,73
-2016,41791,Tarqui,Zona Residencial Urbano,1544
-2016,41791,Tarqui,Zona Residencial Rural,3556
-2016,41791,Tarqui,Zona Comercial Urbano,109
-2016,41791,Tarqui,Zona Comercial Rural,22
-2016,41791,Tarqui,Zona Oficial Urbano,20
-2016,41791,Tarqui,Zona Oficial Rural,69
-2016,41799,Tello,Zona Residencial Urbano,1619
-2016,41799,Tello,Zona Residencial Rural,2298
-2016,41799,Tello,Zona Comercial Urbano,41
-2016,41799,Tello,Zona Comercial Rural,10
-2016,41799,Tello,Zona Oficial Urbano,17
-2016,41799,Tello,Zona Oficial Rural,68
-2016,41801,Teruel,Zona Residencial Urbano,1403
-2016,41801,Teruel,Zona Residencial Rural,1193
-2016,41801,Teruel,Zona Comercial Urbano,74
-2016,41801,Teruel,Zona Comercial Rural,5
-2016,41801,Teruel,Zona Oficial Urbano,24
-2016,41801,Teruel,Zona Oficial Rural,26
-2016,41797,Tesalia,Zona Residencial Urbano,2421
-2016,41797,Tesalia,Zona Residencial Rural,1020
-2016,41797,Tesalia,Zona Comercial Urbano,95
-2016,41797,Tesalia,Zona Comercial Rural,4
-2016,41797,Tesalia,Zona Oficial Urbano,31
-2016,41797,Tesalia,Zona Oficial Rural,26
-2016,41807,Timana,Zona Residencial Urbano,2258
-2016,41807,Timana,Zona Residencial Rural,4061
-2016,41807,Timana,Zona Comercial Urbano,221
-2016,41807,Timana,Zona Comercial Rural,24
-2016,41807,Timana,Zona Oficial Urbano,36
-2016,41807,Timana,Zona Oficial Rural,57
-2016,41872,Villavieja,Zona Residencial Urbano,846
-2016,41872,Villavieja,Zona Residencial Rural,1425
-2016,41872,Villavieja,Zona Comercial Urbano,26
-2016,41872,Villavieja,Zona Comercial Rural,16
-2016,41872,Villavieja,Zona Oficial Urbano,14
-2016,41872,Villavieja,Zona Oficial Rural,39
-2016,41885,Yaguara,Zona Residencial Urbano,2023
-2016,41885,Yaguara,Zona Residencial Rural,714
-2016,41885,Yaguara,Zona Comercial Urbano,100
-2016,41885,Yaguara,Zona Comercial Rural,19
-2016,41885,Yaguara,Zona Oficial Urbano,38
-2016,41885,Yaguara,Zona Oficial Rural,11
+2013,41001, NEIVA,Zonas Residencial Urbano,95417
+2013,41001, NEIVA,Zonas Residencial Rural,6361
+2013,41001, NEIVA,Zonas Comercial Urbano,8664
+2013,41001, NEIVA,Zonas Comercial Rural,95
+2013,41001, NEIVA,Zonas Oficial Urbano,441
+2013,41001, NEIVA,Zonas Oficial Rural,146
+2013,41006, ACEVEDO,Zonas Residencial Urbano,1352
+2013,41006, ACEVEDO,Zonas Residencial Rural,5505
+2013,41006, ACEVEDO,Zonas Comercial Urbano,156
+2013,41006, ACEVEDO,Zonas Comercial Rural,49
+2013,41006, ACEVEDO,Zonas Oficial Urbano,18
+2013,41006, ACEVEDO,Zonas Oficial Rural,112
+2013,41013, AGRADO,Zonas Residencial Urbano,1553
+2013,41013, AGRADO,Zonas Residencial Rural,1026
+2013,41013, AGRADO,Zonas Comercial Urbano,72
+2013,41013, AGRADO,Zonas Comercial Rural,14
+2013,41013, AGRADO,Zonas Oficial Urbano,17
+2013,41013, AGRADO,Zonas Oficial Rural,26
+2013,41016, AIPE,Zonas Residencial Urbano,2881
+2013,41016, AIPE,Zonas Residencial Rural,2322
+2013,41016, AIPE,Zonas Comercial Urbano,151
+2013,41016, AIPE,Zonas Comercial Rural,30
+2013,41016, AIPE,Zonas Oficial Urbano,35
+2013,41016, AIPE,Zonas Oficial Rural,67
+2013,41020, ALGECIRAS,Zonas Residencial Urbano,2871
+2013,41020, ALGECIRAS,Zonas Residencial Rural,3143
+2013,41020, ALGECIRAS,Zonas Comercial Urbano,193
+2013,41020, ALGECIRAS,Zonas Comercial Rural,6
+2013,41020, ALGECIRAS,Zonas Oficial Urbano,23
+2013,41020, ALGECIRAS,Zonas Oficial Rural,76
+2013,41026, ALTAMIRA,Zonas Residencial Urbano,852
+2013,41026, ALTAMIRA,Zonas Residencial Rural,370
+2013,41026, ALTAMIRA,Zonas Comercial Urbano,59
+2013,41026, ALTAMIRA,Zonas Comercial Rural,8
+2013,41026, ALTAMIRA,Zonas Oficial Urbano,19
+2013,41026, ALTAMIRA,Zonas Oficial Rural,6
+2013,41078, BARAYA,Zonas Residencial Urbano,1092
+2013,41078, BARAYA,Zonas Residencial Rural,1121
+2013,41078, BARAYA,Zonas Comercial Urbano,69
+2013,41078, BARAYA,Zonas Comercial Rural,3
+2013,41078, BARAYA,Zonas Oficial Urbano,14
+2013,41078, BARAYA,Zonas Oficial Rural,48
+2013,41132, CAMPOALEGRE,Zonas Residencial Urbano,6779
+2013,41132, CAMPOALEGRE,Zonas Residencial Rural,2250
+2013,41132, CAMPOALEGRE,Zonas Comercial Urbano,401
+2013,41132, CAMPOALEGRE,Zonas Comercial Rural,31
+2013,41132, CAMPOALEGRE,Zonas Oficial Urbano,54
+2013,41132, CAMPOALEGRE,Zonas Oficial Rural,45
+2013,41206, COLOMBIA,Zonas Residencial Urbano,749
+2013,41206, COLOMBIA,Zonas Residencial Rural,1859
+2013,41206, COLOMBIA,Zonas Comercial Urbano,26
+2013,41206, COLOMBIA,Zonas Comercial Rural,9
+2013,41206, COLOMBIA,Zonas Oficial Urbano,19
+2013,41206, COLOMBIA,Zonas Oficial Rural,65
+2013,41244, ELIAS,Zonas Residencial Urbano,11211
+2013,41244, ELIAS,Zonas Residencial Rural,8232
+2013,41244, ELIAS,Zonas Comercial Urbano,1232
+2013,41244, ELIAS,Zonas Comercial Rural,63
+2013,41244, ELIAS,Zonas Oficial Urbano,82
+2013,41244, ELIAS,Zonas Oficial Rural,122
+2013,41298, GARZON,Zonas Residencial Urbano,3142
+2013,41298, GARZON,Zonas Residencial Rural,3978
+2013,41298, GARZON,Zonas Comercial Urbano,252
+2013,41298, GARZON,Zonas Comercial Rural,42
+2013,41298, GARZON,Zonas Oficial Urbano,27
+2013,41298, GARZON,Zonas Oficial Rural,62
+2013,41306, GIGANTE,Zonas Residencial Urbano,1546
+2013,41306, GIGANTE,Zonas Residencial Rural,3469
+2013,41306, GIGANTE,Zonas Comercial Urbano,134
+2013,41306, GIGANTE,Zonas Comercial Rural,11
+2013,41306, GIGANTE,Zonas Oficial Urbano,19
+2013,41306, GIGANTE,Zonas Oficial Rural,55
+2013,41319, GUADALUPE,Zonas Residencial Urbano,1556
+2013,41319, GUADALUPE,Zonas Residencial Rural,619
+2013,41319, GUADALUPE,Zonas Comercial Urbano,69
+2013,41319, GUADALUPE,Zonas Comercial Rural,6
+2013,41319, GUADALUPE,Zonas Oficial Urbano,15
+2013,41319, GUADALUPE,Zonas Oficial Rural,7
+2013,41349, HOBO,Zonas Residencial Urbano,1334
+2013,41349, HOBO,Zonas Residencial Rural,1997
+2013,41349, HOBO,Zonas Comercial Urbano,53
+2013,41349, HOBO,Zonas Comercial Rural,11
+2013,41349, HOBO,Zonas Oficial Urbano,21
+2013,41349, HOBO,Zonas Oficial Rural,51
+2013,41357, IQUIRA,Zonas Residencial Urbano,1447
+2013,41357, IQUIRA,Zonas Residencial Rural,4331
+2013,41357, IQUIRA,Zonas Comercial Urbano,158
+2013,41357, IQUIRA,Zonas Comercial Rural,16
+2013,41357, IQUIRA,Zonas Oficial Urbano,17
+2013,41357, IQUIRA,Zonas Oficial Rural,102
+2013,41359, ISNOS,Zonas Residencial Urbano,1455
+2013,41359, ISNOS,Zonas Residencial Rural,1733
+2013,41359, ISNOS,Zonas Comercial Urbano,41
+2013,41359, ISNOS,Zonas Comercial Rural,5
+2013,41359, ISNOS,Zonas Oficial Urbano,22
+2013,41359, ISNOS,Zonas Oficial Rural,31
+2013,41378, LA ARGENTINA,Zonas Residencial Urbano,7652
+2013,41378, LA ARGENTINA,Zonas Residencial Rural,6469
+2013,41378, LA ARGENTINA,Zonas Comercial Urbano,708
+2013,41378, LA ARGENTINA,Zonas Comercial Rural,13
+2013,41378, LA ARGENTINA,Zonas Oficial Urbano,95
+2013,41378, LA ARGENTINA,Zonas Oficial Rural,158
+2013,41396, LA PLATA,Zonas Residencial Urbano,674
+2013,41396, LA PLATA,Zonas Residencial Rural,945
+2013,41396, LA PLATA,Zonas Comercial Urbano,39
+2013,41396, LA PLATA,Zonas Comercial Rural,2
+2013,41396, LA PLATA,Zonas Oficial Urbano,46
+2013,41396, LA PLATA,Zonas Oficial Rural,29
+2013,41483, NATAGA,Zonas Residencial Urbano,555
+2013,41483, NATAGA,Zonas Residencial Rural,2064
+2013,41483, NATAGA,Zonas Comercial Urbano,37
+2013,41483, NATAGA,Zonas Comercial Rural,7
+2013,41483, NATAGA,Zonas Oficial Urbano,18
+2013,41483, NATAGA,Zonas Oficial Rural,36
+2013,41503, OPORAPA,Zonas Residencial Urbano,848
+2013,41503, OPORAPA,Zonas Residencial Rural,1066
+2013,41503, OPORAPA,Zonas Comercial Urbano,29
+2013,41503, OPORAPA,Zonas Comercial Rural,3
+2013,41503, OPORAPA,Zonas Oficial Urbano,19
+2013,41503, OPORAPA,Zonas Oficial Rural,35
+2013,41518, PAICOL,Zonas Residencial Urbano,4933
+2013,41518, PAICOL,Zonas Residencial Rural,2968
+2013,41518, PAICOL,Zonas Comercial Urbano,307
+2013,41518, PAICOL,Zonas Comercial Rural,120
+2013,41518, PAICOL,Zonas Oficial Urbano,55
+2013,41518, PAICOL,Zonas Oficial Rural,85
+2013,41524, PALERMO,Zonas Residencial Urbano,488
+2013,41524, PALERMO,Zonas Residencial Rural,2241
+2013,41524, PALERMO,Zonas Comercial Urbano,65
+2013,41524, PALERMO,Zonas Comercial Rural,6
+2013,41524, PALERMO,Zonas Oficial Urbano,17
+2013,41524, PALERMO,Zonas Oficial Rural,67
+2013,41530, PALESTINA,Zonas Residencial Urbano,1544
+2013,41530, PALESTINA,Zonas Residencial Rural,2404
+2013,41530, PALESTINA,Zonas Comercial Urbano,99
+2013,41530, PALESTINA,Zonas Comercial Rural,11
+2013,41530, PALESTINA,Zonas Oficial Urbano,20
+2013,41530, PALESTINA,Zonas Oficial Rural,56
+2013,41548, PITAL,Zonas Residencial Urbano,340
+2013,41548, PITAL,Zonas Residencial Rural,744
+2013,41548, PITAL,Zonas Comercial Urbano,7
+2013,41548, PITAL,Zonas Comercial Rural,7
+2013,41548, PITAL,Zonas Oficial Urbano,13
+2013,41548, PITAL,Zonas Oficial Rural,19
+2013,41551, PITALITO,Zonas Residencial Urbano,19220
+2013,41551, PITALITO,Zonas Residencial Rural,12022
+2013,41551, PITALITO,Zonas Comercial Urbano,2584
+2013,41551, PITALITO,Zonas Comercial Rural,191
+2013,41551, PITALITO,Zonas Oficial Urbano,113
+2013,41551, PITALITO,Zonas Oficial Rural,198
+2013,41615, RIVERA,Zonas Residencial Urbano,2999
+2013,41615, RIVERA,Zonas Residencial Rural,2955
+2013,41615, RIVERA,Zonas Comercial Urbano,151
+2013,41615, RIVERA,Zonas Comercial Rural,79
+2013,41615, RIVERA,Zonas Oficial Urbano,22
+2013,41615, RIVERA,Zonas Oficial Rural,41
+2013,41660, SALADO BLANCO,Zonas Residencial Urbano,500
+2013,41660, SALADO BLANCO,Zonas Residencial Rural,2196
+2013,41660, SALADO BLANCO,Zonas Comercial Urbano,63
+2013,41660, SALADO BLANCO,Zonas Comercial Rural,6
+2013,41660, SALADO BLANCO,Zonas Oficial Urbano,19
+2013,41660, SALADO BLANCO,Zonas Oficial Rural,47
+2013,41668, SAN AGUSTIN,Zonas Residencial Urbano,2734
+2013,41668, SAN AGUSTIN,Zonas Residencial Rural,5324
+2013,41668, SAN AGUSTIN,Zonas Comercial Urbano,306
+2013,41668, SAN AGUSTIN,Zonas Comercial Rural,35
+2013,41668, SAN AGUSTIN,Zonas Oficial Urbano,37
+2013,41668, SAN AGUSTIN,Zonas Oficial Rural,145
+2013,41676, SANTAMARIA,Zonas Residencial Urbano,949
+2013,41676, SANTAMARIA,Zonas Residencial Rural,2007
+2013,41676, SANTAMARIA,Zonas Comercial Urbano,78
+2013,41676, SANTAMARIA,Zonas Comercial Rural,8
+2013,41676, SANTAMARIA,Zonas Oficial Urbano,22
+2013,41676, SANTAMARIA,Zonas Oficial Rural,50
+2013,41770, SUAZA,Zonas Residencial Urbano,1062
+2013,41770, SUAZA,Zonas Residencial Rural,3304
+2013,41770, SUAZA,Zonas Comercial Urbano,93
+2013,41770, SUAZA,Zonas Comercial Rural,31
+2013,41770, SUAZA,Zonas Oficial Urbano,13
+2013,41770, SUAZA,Zonas Oficial Rural,64
+2013,41791, TARQUI,Zonas Residencial Urbano,1341
+2013,41791, TARQUI,Zonas Residencial Rural,3296
+2013,41791, TARQUI,Zonas Comercial Urbano,92
+2013,41791, TARQUI,Zonas Comercial Rural,20
+2013,41791, TARQUI,Zonas Oficial Urbano,16
+2013,41791, TARQUI,Zonas Oficial Rural,64
+2013,41799, TELLO,Zonas Residencial Urbano,2234
+2013,41799, TELLO,Zonas Residencial Rural,955
+2013,41799, TELLO,Zonas Comercial Urbano,92
+2013,41799, TELLO,Zonas Comercial Rural,4
+2013,41799, TELLO,Zonas Oficial Urbano,32
+2013,41799, TELLO,Zonas Oficial Rural,25
+2013,41801, TERUEL,Zonas Residencial Urbano,1442
+2013,41801, TERUEL,Zonas Residencial Rural,2285
+2013,41801, TERUEL,Zonas Comercial Urbano,32
+2013,41801, TERUEL,Zonas Comercial Rural,9
+2013,41801, TERUEL,Zonas Oficial Urbano,16
+2013,41801, TERUEL,Zonas Oficial Rural,70
+2013,41797, TESALIA,Zonas Residencial Urbano,1211
+2013,41797, TESALIA,Zonas Residencial Rural,1196
+2013,41797, TESALIA,Zonas Comercial Urbano,65
+2013,41797, TESALIA,Zonas Comercial Rural,4
+2013,41797, TESALIA,Zonas Oficial Urbano,25
+2013,41797, TESALIA,Zonas Oficial Rural,26
+2013,41807, TIMANA,Zonas Residencial Urbano,2033
+2013,41807, TIMANA,Zonas Residencial Rural,3758
+2013,41807, TIMANA,Zonas Comercial Urbano,207
+2013,41807, TIMANA,Zonas Comercial Rural,19
+2013,41807, TIMANA,Zonas Oficial Urbano,30
+2013,41807, TIMANA,Zonas Oficial Rural,56
+2013,41872, VILLAVIEJA,Zonas Residencial Urbano,815
+2013,41872, VILLAVIEJA,Zonas Residencial Rural,1333
+2013,41872, VILLAVIEJA,Zonas Comercial Urbano,17
+2013,41872, VILLAVIEJA,Zonas Comercial Rural,10
+2013,41872, VILLAVIEJA,Zonas Oficial Urbano,15
+2013,41872, VILLAVIEJA,Zonas Oficial Rural,41
+2013,41885, YAGUARA,Zonas Residencial Urbano,1937
+2013,41885, YAGUARA,Zonas Residencial Rural,700
+2013,41885, YAGUARA,Zonas Comercial Urbano,71
+2013,41885, YAGUARA,Zonas Comercial Rural,18
+2013,41885, YAGUARA,Zonas Oficial Urbano,36
+2013,41885, YAGUARA,Zonas Oficial Rural,12
+2014,41001, NEIVA,Zonas Residencial Urbano,100266
+2014,41001, NEIVA,Zonas Residencial Rural,6681
+2014,41001, NEIVA,Zonas Comercial Urbano,8905
+2014,41001, NEIVA,Zonas Comercial Rural,95
+2014,41001, NEIVA,Zonas Oficial Urbano,281
+2014,41001, NEIVA,Zonas Oficial Rural,123
+2014,41006, ACEVEDO,Zonas Residencial Urbano,1410
+2014,41006, ACEVEDO,Zonas Residencial Rural,5689
+2014,41006, ACEVEDO,Zonas Comercial Urbano,170
+2014,41006, ACEVEDO,Zonas Comercial Rural,43
+2014,41006, ACEVEDO,Zonas Oficial Urbano,12
+2014,41006, ACEVEDO,Zonas Oficial Rural,91
+2014,41013, AGRADO,Zonas Residencial Urbano,1660
+2014,41013, AGRADO,Zonas Residencial Rural,1007
+2014,41013, AGRADO,Zonas Comercial Urbano,74
+2014,41013, AGRADO,Zonas Comercial Rural,18
+2014,41013, AGRADO,Zonas Oficial Urbano,13
+2014,41013, AGRADO,Zonas Oficial Rural,23
+2014,41016, AIPE,Zonas Residencial Urbano,2986
+2014,41016, AIPE,Zonas Residencial Rural,2335
+2014,41016, AIPE,Zonas Comercial Urbano,145
+2014,41016, AIPE,Zonas Comercial Rural,30
+2014,41016, AIPE,Zonas Oficial Urbano,30
+2014,41016, AIPE,Zonas Oficial Rural,56
+2014,41020, ALGECIRAS,Zonas Residencial Urbano,2936
+2014,41020, ALGECIRAS,Zonas Residencial Rural,3170
+2014,41020, ALGECIRAS,Zonas Comercial Urbano,199
+2014,41020, ALGECIRAS,Zonas Comercial Rural,6
+2014,41020, ALGECIRAS,Zonas Oficial Urbano,22
+2014,41020, ALGECIRAS,Zonas Oficial Rural,71
+2014,41026, ALTAMIRA,Zonas Residencial Urbano,885
+2014,41026, ALTAMIRA,Zonas Residencial Rural,384
+2014,41026, ALTAMIRA,Zonas Comercial Urbano,63
+2014,41026, ALTAMIRA,Zonas Comercial Rural,8
+2014,41026, ALTAMIRA,Zonas Oficial Urbano,16
+2014,41026, ALTAMIRA,Zonas Oficial Rural,6
+2014,41078, BARAYA,Zonas Residencial Urbano,1095
+2014,41078, BARAYA,Zonas Residencial Rural,1130
+2014,41078, BARAYA,Zonas Comercial Urbano,62
+2014,41078, BARAYA,Zonas Comercial Rural,4
+2014,41078, BARAYA,Zonas Oficial Urbano,14
+2014,41078, BARAYA,Zonas Oficial Rural,45
+2014,41132, CAMPOALEGRE,Zonas Residencial Urbano,6963
+2014,41132, CAMPOALEGRE,Zonas Residencial Rural,2272
+2014,41132, CAMPOALEGRE,Zonas Comercial Urbano,412
+2014,41132, CAMPOALEGRE,Zonas Comercial Rural,33
+2014,41132, CAMPOALEGRE,Zonas Oficial Urbano,46
+2014,41132, CAMPOALEGRE,Zonas Oficial Rural,38
+2014,41206, COLOMBIA,Zonas Residencial Urbano,777
+2014,41206, COLOMBIA,Zonas Residencial Rural,1885
+2014,41206, COLOMBIA,Zonas Comercial Urbano,27
+2014,41206, COLOMBIA,Zonas Comercial Rural,8
+2014,41206, COLOMBIA,Zonas Oficial Urbano,17
+2014,41206, COLOMBIA,Zonas Oficial Rural,64
+2014,41244, ELIAS,Zonas Residencial Urbano,395
+2014,41244, ELIAS,Zonas Residencial Rural,710
+2014,41244, ELIAS,Zonas Comercial Urbano,7
+2014,41244, ELIAS,Zonas Comercial Rural,7
+2014,41244, ELIAS,Zonas Oficial Urbano,11
+2014,41244, ELIAS,Zonas Oficial Rural,20
+2014,41298, GARZON,Zonas Residencial Urbano,11878
+2014,41298, GARZON,Zonas Residencial Rural,8692
+2014,41298, GARZON,Zonas Comercial Urbano,1252
+2014,41298, GARZON,Zonas Comercial Rural,70
+2014,41298, GARZON,Zonas Oficial Urbano,53
+2014,41298, GARZON,Zonas Oficial Rural,112
+2014,41306, GIGANTE,Zonas Residencial Urbano,3302
+2014,41306, GIGANTE,Zonas Residencial Rural,4068
+2014,41306, GIGANTE,Zonas Comercial Urbano,242
+2014,41306, GIGANTE,Zonas Comercial Rural,45
+2014,41306, GIGANTE,Zonas Oficial Urbano,24
+2014,41306, GIGANTE,Zonas Oficial Rural,57
+2014,41319, GUADALUPE,Zonas Residencial Urbano,1575
+2014,41319, GUADALUPE,Zonas Residencial Rural,3602
+2014,41319, GUADALUPE,Zonas Comercial Urbano,137
+2014,41319, GUADALUPE,Zonas Comercial Rural,13
+2014,41319, GUADALUPE,Zonas Oficial Urbano,18
+2014,41319, GUADALUPE,Zonas Oficial Rural,54
+2014,41349, HOBO,Zonas Residencial Urbano,1615
+2014,41349, HOBO,Zonas Residencial Rural,628
+2014,41349, HOBO,Zonas Comercial Urbano,70
+2014,41349, HOBO,Zonas Comercial Rural,8
+2014,41349, HOBO,Zonas Oficial Urbano,11
+2014,41349, HOBO,Zonas Oficial Rural,7
+2014,41357, IQUIRA,Zonas Residencial Urbano,1354
+2014,41357, IQUIRA,Zonas Residencial Rural,2021
+2014,41357, IQUIRA,Zonas Comercial Urbano,52
+2014,41357, IQUIRA,Zonas Comercial Rural,11
+2014,41357, IQUIRA,Zonas Oficial Urbano,15
+2014,41357, IQUIRA,Zonas Oficial Rural,49
+2014,41359, ISNOS,Zonas Residencial Urbano,1556
+2014,41359, ISNOS,Zonas Residencial Rural,4430
+2014,41359, ISNOS,Zonas Comercial Urbano,161
+2014,41359, ISNOS,Zonas Comercial Rural,14
+2014,41359, ISNOS,Zonas Oficial Urbano,13
+2014,41359, ISNOS,Zonas Oficial Rural,72
+2014,41378, LA ARGENTINA,Zonas Residencial Urbano,1577
+2014,41378, LA ARGENTINA,Zonas Residencial Rural,1815
+2014,41378, LA ARGENTINA,Zonas Comercial Urbano,40
+2014,41378, LA ARGENTINA,Zonas Comercial Rural,5
+2014,41378, LA ARGENTINA,Zonas Oficial Urbano,19
+2014,41378, LA ARGENTINA,Zonas Oficial Rural,29
+2014,41396, LA PLATA,Zonas Residencial Urbano,8041
+2014,41396, LA PLATA,Zonas Residencial Rural,6694
+2014,41396, LA PLATA,Zonas Comercial Urbano,721
+2014,41396, LA PLATA,Zonas Comercial Rural,11
+2014,41396, LA PLATA,Zonas Oficial Urbano,84
+2014,41396, LA PLATA,Zonas Oficial Rural,152
+2014,41483, NATAGA,Zonas Residencial Urbano,709
+2014,41483, NATAGA,Zonas Residencial Rural,967
+2014,41483, NATAGA,Zonas Comercial Urbano,35
+2014,41483, NATAGA,Zonas Comercial Rural,2
+2014,41483, NATAGA,Zonas Oficial Urbano,47
+2014,41483, NATAGA,Zonas Oficial Rural,27
+2014,41503, OPORAPA,Zonas Residencial Urbano,635
+2014,41503, OPORAPA,Zonas Residencial Rural,2184
+2014,41503, OPORAPA,Zonas Comercial Urbano,36
+2014,41503, OPORAPA,Zonas Comercial Rural,3
+2014,41503, OPORAPA,Zonas Oficial Urbano,14
+2014,41503, OPORAPA,Zonas Oficial Rural,33
+2014,41518, PAICOL,Zonas Residencial Urbano,869
+2014,41518, PAICOL,Zonas Residencial Rural,1119
+2014,41518, PAICOL,Zonas Comercial Urbano,28
+2014,41518, PAICOL,Zonas Comercial Rural,2
+2014,41518, PAICOL,Zonas Oficial Urbano,17
+2014,41518, PAICOL,Zonas Oficial Rural,34
+2014,41524, PALERMO,Zonas Residencial Urbano,5166
+2014,41524, PALERMO,Zonas Residencial Rural,3032
+2014,41524, PALERMO,Zonas Comercial Urbano,312
+2014,41524, PALERMO,Zonas Comercial Rural,129
+2014,41524, PALERMO,Zonas Oficial Urbano,39
+2014,41524, PALERMO,Zonas Oficial Rural,78
+2014,41530, PALESTINA,Zonas Residencial Urbano,496
+2014,41530, PALESTINA,Zonas Residencial Rural,2333
+2014,41530, PALESTINA,Zonas Comercial Urbano,63
+2014,41530, PALESTINA,Zonas Comercial Rural,5
+2014,41530, PALESTINA,Zonas Oficial Urbano,15
+2014,41530, PALESTINA,Zonas Oficial Rural,37
+2014,41548, PITAL,Zonas Residencial Urbano,1599
+2014,41548, PITAL,Zonas Residencial Rural,2591
+2014,41548, PITAL,Zonas Comercial Urbano,102
+2014,41548, PITAL,Zonas Comercial Rural,6
+2014,41548, PITAL,Zonas Oficial Urbano,20
+2014,41548, PITAL,Zonas Oficial Rural,49
+2014,41551, PITALITO,Zonas Residencial Urbano,20145
+2014,41551, PITALITO,Zonas Residencial Rural,12416
+2014,41551, PITALITO,Zonas Comercial Urbano,2716
+2014,41551, PITALITO,Zonas Comercial Rural,199
+2014,41551, PITALITO,Zonas Oficial Urbano,61
+2014,41551, PITALITO,Zonas Oficial Rural,155
+2014,41615, RIVERA,Zonas Residencial Urbano,3296
+2014,41615, RIVERA,Zonas Residencial Rural,3121
+2014,41615, RIVERA,Zonas Comercial Urbano,168
+2014,41615, RIVERA,Zonas Comercial Rural,88
+2014,41615, RIVERA,Zonas Oficial Urbano,21
+2014,41615, RIVERA,Zonas Oficial Rural,36
+2014,41660, SALADO BLANCO,Zonas Residencial Urbano,544
+2014,41660, SALADO BLANCO,Zonas Residencial Rural,2204
+2014,41660, SALADO BLANCO,Zonas Comercial Urbano,59
+2014,41660, SALADO BLANCO,Zonas Comercial Rural,6
+2014,41660, SALADO BLANCO,Zonas Oficial Urbano,14
+2014,41660, SALADO BLANCO,Zonas Oficial Rural,41
+2014,41668, SAN AGUSTIN,Zonas Residencial Urbano,2824
+2014,41668, SAN AGUSTIN,Zonas Residencial Rural,5494
+2014,41668, SAN AGUSTIN,Zonas Comercial Urbano,316
+2014,41668, SAN AGUSTIN,Zonas Comercial Rural,34
+2014,41668, SAN AGUSTIN,Zonas Oficial Urbano,24
+2014,41668, SAN AGUSTIN,Zonas Oficial Rural,100
+2014,41676, SANTAMARIA,Zonas Residencial Urbano,996
+2014,41676, SANTAMARIA,Zonas Residencial Rural,2037
+2014,41676, SANTAMARIA,Zonas Comercial Urbano,88
+2014,41676, SANTAMARIA,Zonas Comercial Rural,9
+2014,41676, SANTAMARIA,Zonas Oficial Urbano,18
+2014,41676, SANTAMARIA,Zonas Oficial Rural,44
+2014,41770, SUAZA,Zonas Residencial Urbano,1120
+2014,41770, SUAZA,Zonas Residencial Rural,3473
+2014,41770, SUAZA,Zonas Comercial Urbano,100
+2014,41770, SUAZA,Zonas Comercial Rural,34
+2014,41770, SUAZA,Zonas Oficial Urbano,14
+2014,41770, SUAZA,Zonas Oficial Rural,61
+2014,41791, TARQUI,Zonas Residencial Urbano,1406
+2014,41791, TARQUI,Zonas Residencial Rural,3453
+2014,41791, TARQUI,Zonas Comercial Urbano,96
+2014,41791, TARQUI,Zonas Comercial Rural,19
+2014,41791, TARQUI,Zonas Oficial Urbano,13
+2014,41791, TARQUI,Zonas Oficial Rural,61
+2014,41799, TELLO,Zonas Residencial Urbano,1458
+2014,41799, TELLO,Zonas Residencial Rural,2276
+2014,41799, TELLO,Zonas Comercial Urbano,33
+2014,41799, TELLO,Zonas Comercial Rural,9
+2014,41799, TELLO,Zonas Oficial Urbano,17
+2014,41799, TELLO,Zonas Oficial Rural,58
+2014,41801, TERUEL,Zonas Residencial Urbano,1318
+2014,41801, TERUEL,Zonas Residencial Rural,1197
+2014,41801, TERUEL,Zonas Comercial Urbano,64
+2014,41801, TERUEL,Zonas Comercial Rural,5
+2014,41801, TERUEL,Zonas Oficial Urbano,25
+2014,41801, TERUEL,Zonas Oficial Rural,24
+2014,41797, TESALIA,Zonas Residencial Urbano,2316
+2014,41797, TESALIA,Zonas Residencial Rural,975
+2014,41797, TESALIA,Zonas Comercial Urbano,90
+2014,41797, TESALIA,Zonas Comercial Rural,4
+2014,41797, TESALIA,Zonas Oficial Urbano,28
+2014,41797, TESALIA,Zonas Oficial Rural,25
+2014,41807, TIMANA,Zonas Residencial Urbano,2058
+2014,41807, TIMANA,Zonas Residencial Rural,3838
+2014,41807, TIMANA,Zonas Comercial Urbano,209
+2014,41807, TIMANA,Zonas Comercial Rural,17
+2014,41807, TIMANA,Zonas Oficial Urbano,19
+2014,41807, TIMANA,Zonas Oficial Rural,43
+2014,41872, VILLAVIEJA,Zonas Residencial Urbano,822
+2014,41872, VILLAVIEJA,Zonas Residencial Rural,1352
+2014,41872, VILLAVIEJA,Zonas Comercial Urbano,19
+2014,41872, VILLAVIEJA,Zonas Comercial Rural,10
+2014,41872, VILLAVIEJA,Zonas Oficial Urbano,12
+2014,41872, VILLAVIEJA,Zonas Oficial Rural,36
+2014,41885, YAGUARA,Zonas Residencial Urbano,1964
+2014,41885, YAGUARA,Zonas Residencial Rural,719
+2014,41885, YAGUARA,Zonas Comercial Urbano,91
+2014,41885, YAGUARA,Zonas Comercial Rural,17
+2014,41885, YAGUARA,Zonas Oficial Urbano,28
+2014,41885, YAGUARA,Zonas Oficial Rural,9
+2015,41001,Neiva,Zonas Residencial Urbano,106996
+2015,41001,Neiva,Zonas Residencial Rural,6892
+2015,41001,Neiva,Zonas Comercial Urbano,19226
+2015,41001,Neiva,Zonas Comercial Rural,110
+2015,41001,Neiva,Zonas Oficial Urbano,474
+2015,41001,Neiva,Zonas Oficial Rural,158
+2015,41006,Acevedo,Zonas Residencial Urbano,1485
+2015,41006,Acevedo,Zonas Residencial Rural,6006
+2015,41006,Acevedo,Zonas Comercial Urbano,239
+2015,41006,Acevedo,Zonas Comercial Rural,53
+2015,41006,Acevedo,Zonas Oficial Urbano,21
+2015,41006,Acevedo,Zonas Oficial Rural,119
+2015,41013,Agrado,Zonas Residencial Urbano,1890
+2015,41013,Agrado,Zonas Residencial Rural,961
+2015,41013,Agrado,Zonas Comercial Urbano,80
+2015,41013,Agrado,Zonas Comercial Rural,21
+2015,41013,Agrado,Zonas Oficial Urbano,18
+2015,41013,Agrado,Zonas Oficial Rural,28
+2015,41016,Aipe,Zonas Residencial Urbano,3057
+2015,41016,Aipe,Zonas Residencial Rural,2425
+2015,41016,Aipe,Zonas Comercial Urbano,286
+2015,41016,Aipe,Zonas Comercial Rural,34
+2015,41016,Aipe,Zonas Oficial Urbano,36
+2015,41016,Aipe,Zonas Oficial Rural,64
+2015,41020,Algeciras,Zonas Residencial Urbano,3093
+2015,41020,Algeciras,Zonas Residencial Rural,3230
+2015,41020,Algeciras,Zonas Comercial Urbano,335
+2015,41020,Algeciras,Zonas Comercial Rural,9
+2015,41020,Algeciras,Zonas Oficial Urbano,28
+2015,41020,Algeciras,Zonas Oficial Rural,76
+2015,41026,Altamira,Zonas Residencial Urbano,967
+2015,41026,Altamira,Zonas Residencial Rural,403
+2015,41026,Altamira,Zonas Comercial Urbano,80
+2015,41026,Altamira,Zonas Comercial Rural,14
+2015,41026,Altamira,Zonas Oficial Urbano,21
+2015,41026,Altamira,Zonas Oficial Rural,6
+2015,41078,Baraya,Zonas Residencial Urbano,1141
+2015,41078,Baraya,Zonas Residencial Rural,1155
+2015,41078,Baraya,Zonas Comercial Urbano,125
+2015,41078,Baraya,Zonas Comercial Rural,4
+2015,41078,Baraya,Zonas Oficial Urbano,27
+2015,41078,Baraya,Zonas Oficial Rural,47
+2015,41132,Campoalegre,Zonas Residencial Urbano,7241
+2015,41132,Campoalegre,Zonas Residencial Rural,2296
+2015,41132,Campoalegre,Zonas Comercial Urbano,677
+2015,41132,Campoalegre,Zonas Comercial Rural,46
+2015,41132,Campoalegre,Zonas Oficial Urbano,68
+2015,41132,Campoalegre,Zonas Oficial Rural,44
+2015,41206,Colombia,Zonas Residencial Urbano,802
+2015,41206,Colombia,Zonas Residencial Rural,1949
+2015,41206,Colombia,Zonas Comercial Urbano,75
+2015,41206,Colombia,Zonas Comercial Rural,10
+2015,41206,Colombia,Zonas Oficial Urbano,18
+2015,41206,Colombia,Zonas Oficial Rural,66
+2015,41244,Elías,Zonas Residencial Urbano,402
+2015,41244,Elías,Zonas Residencial Rural,728
+2015,41244,Elías,Zonas Comercial Urbano,14
+2015,41244,Elías,Zonas Comercial Rural,7
+2015,41244,Elías,Zonas Oficial Urbano,15
+2015,41244,Elías,Zonas Oficial Rural,23
+2015,41298,Garzón,Zonas Residencial Urbano,12605
+2015,41298,Garzón,Zonas Residencial Rural,8799
+2015,41298,Garzón,Zonas Comercial Urbano,3338
+2015,41298,Garzón,Zonas Comercial Rural,82
+2015,41298,Garzón,Zonas Oficial Urbano,82
+2015,41298,Garzón,Zonas Oficial Rural,127
+2015,41306,Gigante,Zonas Residencial Urbano,3464
+2015,41306,Gigante,Zonas Residencial Rural,4079
+2015,41306,Gigante,Zonas Comercial Urbano,275
+2015,41306,Gigante,Zonas Comercial Rural,53
+2015,41306,Gigante,Zonas Oficial Urbano,34
+2015,41306,Gigante,Zonas Oficial Rural,70
+2015,41319,Guadalupe,Zonas Residencial Urbano,1646
+2015,41319,Guadalupe,Zonas Residencial Rural,3693
+2015,41319,Guadalupe,Zonas Comercial Urbano,148
+2015,41319,Guadalupe,Zonas Comercial Rural,18
+2015,41319,Guadalupe,Zonas Oficial Urbano,21
+2015,41319,Guadalupe,Zonas Oficial Rural,56
+2015,41349,Hobo,Zonas Residencial Urbano,1780
+2015,41349,Hobo,Zonas Residencial Rural,641
+2015,41349,Hobo,Zonas Comercial Urbano,188
+2015,41349,Hobo,Zonas Comercial Rural,14
+2015,41349,Hobo,Zonas Oficial Urbano,14
+2015,41349,Hobo,Zonas Oficial Rural,7
+2015,41357,Iquira,Zonas Residencial Urbano,1374
+2015,41357,Iquira,Zonas Residencial Rural,2093
+2015,41357,Iquira,Zonas Comercial Urbano,109
+2015,41357,Iquira,Zonas Comercial Rural,14
+2015,41357,Iquira,Zonas Oficial Urbano,20
+2015,41357,Iquira,Zonas Oficial Rural,58
+2015,41359,Isnos,Zonas Residencial Urbano,1586
+2015,41359,Isnos,Zonas Residencial Rural,4565
+2015,41359,Isnos,Zonas Comercial Urbano,194
+2015,41359,Isnos,Zonas Comercial Rural,21
+2015,41359,Isnos,Zonas Oficial Urbano,18
+2015,41359,Isnos,Zonas Oficial Rural,103
+2015,41378,La Argentina,Zonas Residencial Urbano,1686
+2015,41378,La Argentina,Zonas Residencial Rural,1925
+2015,41378,La Argentina,Zonas Comercial Urbano,47
+2015,41378,La Argentina,Zonas Comercial Rural,7
+2015,41378,La Argentina,Zonas Oficial Urbano,23
+2015,41378,La Argentina,Zonas Oficial Rural,31
+2015,41396,La Plata,Zonas Residencial Urbano,8523
+2015,41396,La Plata,Zonas Residencial Rural,6938
+2015,41396,La Plata,Zonas Comercial Urbano,1707
+2015,41396,La Plata,Zonas Comercial Rural,17
+2015,41396,La Plata,Zonas Oficial Urbano,102
+2015,41396,La Plata,Zonas Oficial Rural,168
+2015,41483,Nátaga,Zonas Residencial Urbano,748
+2015,41483,Nátaga,Zonas Residencial Rural,1007
+2015,41483,Nátaga,Zonas Comercial Urbano,49
+2015,41483,Nátaga,Zonas Comercial Rural,2
+2015,41483,Nátaga,Zonas Oficial Urbano,48
+2015,41483,Nátaga,Zonas Oficial Rural,29
+2015,41503,Oporapa,Zonas Residencial Urbano,672
+2015,41503,Oporapa,Zonas Residencial Rural,2331
+2015,41503,Oporapa,Zonas Comercial Urbano,38
+2015,41503,Oporapa,Zonas Comercial Rural,7
+2015,41503,Oporapa,Zonas Oficial Urbano,18
+2015,41503,Oporapa,Zonas Oficial Rural,46
+2015,41518,Paicol,Zonas Residencial Urbano,921
+2015,41518,Paicol,Zonas Residencial Rural,1156
+2015,41518,Paicol,Zonas Comercial Urbano,39
+2015,41518,Paicol,Zonas Comercial Rural,4
+2015,41518,Paicol,Zonas Oficial Urbano,18
+2015,41518,Paicol,Zonas Oficial Rural,36
+2015,41524,Palermo,Zonas Residencial Urbano,5369
+2015,41524,Palermo,Zonas Residencial Rural,3108
+2015,41524,Palermo,Zonas Comercial Urbano,338
+2015,41524,Palermo,Zonas Comercial Rural,150
+2015,41524,Palermo,Zonas Oficial Urbano,54
+2015,41524,Palermo,Zonas Oficial Rural,88
+2015,41530,Palestina,Zonas Residencial Urbano,507
+2015,41530,Palestina,Zonas Residencial Rural,2402
+2015,41530,Palestina,Zonas Comercial Urbano,129
+2015,41530,Palestina,Zonas Comercial Rural,6
+2015,41530,Palestina,Zonas Oficial Urbano,19
+2015,41530,Palestina,Zonas Oficial Rural,78
+2015,41548,Pital,Zonas Residencial Urbano,1632
+2015,41548,Pital,Zonas Residencial Rural,2653
+2015,41548,Pital,Zonas Comercial Urbano,116
+2015,41548,Pital,Zonas Comercial Rural,11
+2015,41548,Pital,Zonas Oficial Urbano,24
+2015,41548,Pital,Zonas Oficial Rural,52
+2015,41551,Pitalito,Zonas Residencial Urbano,22114
+2015,41551,Pitalito,Zonas Residencial Rural,13236
+2015,41551,Pitalito,Zonas Comercial Urbano,8171
+2015,41551,Pitalito,Zonas Comercial Rural,237
+2015,41551,Pitalito,Zonas Oficial Urbano,129
+2015,41551,Pitalito,Zonas Oficial Rural,219
+2015,41615,Rivera,Zonas Residencial Urbano,3524
+2015,41615,Rivera,Zonas Residencial Rural,3364
+2015,41615,Rivera,Zonas Comercial Urbano,422
+2015,41615,Rivera,Zonas Comercial Rural,96
+2015,41615,Rivera,Zonas Oficial Urbano,25
+2015,41615,Rivera,Zonas Oficial Rural,46
+2015,41660,Saladoblanco,Zonas Residencial Urbano,575
+2015,41660,Saladoblanco,Zonas Residencial Rural,2312
+2015,41660,Saladoblanco,Zonas Comercial Urbano,75
+2015,41660,Saladoblanco,Zonas Comercial Rural,8
+2015,41660,Saladoblanco,Zonas Oficial Urbano,23
+2015,41660,Saladoblanco,Zonas Oficial Rural,48
+2015,41668,San Agustín,Zonas Residencial Urbano,2995
+2015,41668,San Agustín,Zonas Residencial Rural,5769
+2015,41668,San Agustín,Zonas Comercial Urbano,370
+2015,41668,San Agustín,Zonas Comercial Rural,48
+2015,41668,San Agustín,Zonas Oficial Urbano,36
+2015,41668,San Agustín,Zonas Oficial Rural,147
+2015,41676,Santa María,Zonas Residencial Urbano,1054
+2015,41676,Santa María,Zonas Residencial Rural,2074
+2015,41676,Santa María,Zonas Comercial Urbano,172
+2015,41676,Santa María,Zonas Comercial Rural,10
+2015,41676,Santa María,Zonas Oficial Urbano,24
+2015,41676,Santa María,Zonas Oficial Rural,52
+2015,41770,Suaza,Zonas Residencial Urbano,1258
+2015,41770,Suaza,Zonas Residencial Rural,3661
+2015,41770,Suaza,Zonas Comercial Urbano,109
+2015,41770,Suaza,Zonas Comercial Rural,42
+2015,41770,Suaza,Zonas Oficial Urbano,14
+2015,41770,Suaza,Zonas Oficial Rural,65
+2015,41791,Tarqui,Zonas Residencial Urbano,1504
+2015,41791,Tarqui,Zonas Residencial Rural,3494
+2015,41791,Tarqui,Zonas Comercial Urbano,106
+2015,41791,Tarqui,Zonas Comercial Rural,21
+2015,41791,Tarqui,Zonas Oficial Urbano,18
+2015,41791,Tarqui,Zonas Oficial Rural,69
+2015,41799,Tello,Zonas Residencial Urbano,1624
+2015,41799,Tello,Zonas Residencial Rural,2358
+2015,41799,Tello,Zonas Comercial Urbano,99
+2015,41799,Tello,Zonas Comercial Rural,10
+2015,41799,Tello,Zonas Oficial Urbano,18
+2015,41799,Tello,Zonas Oficial Rural,70
+2015,41801,Teruel,Zonas Residencial Urbano,1365
+2015,41801,Teruel,Zonas Residencial Rural,1214
+2015,41801,Teruel,Zonas Comercial Urbano,144
+2015,41801,Teruel,Zonas Comercial Rural,6
+2015,41801,Teruel,Zonas Oficial Urbano,25
+2015,41801,Teruel,Zonas Oficial Rural,26
+2015,41797,Tesalia,Zonas Residencial Urbano,2360
+2015,41797,Tesalia,Zonas Residencial Rural,990
+2015,41797,Tesalia,Zonas Comercial Urbano,107
+2015,41797,Tesalia,Zonas Comercial Rural,4
+2015,41797,Tesalia,Zonas Oficial Urbano,32
+2015,41797,Tesalia,Zonas Oficial Rural,25
+2015,41807,Timaná,Zonas Residencial Urbano,2199
+2015,41807,Timaná,Zonas Residencial Rural,3897
+2015,41807,Timaná,Zonas Comercial Urbano,252
+2015,41807,Timaná,Zonas Comercial Rural,20
+2015,41807,Timaná,Zonas Oficial Urbano,34
+2015,41807,Timaná,Zonas Oficial Rural,56
+2015,41872,Villavieja,Zonas Residencial Urbano,835
+2015,41872,Villavieja,Zonas Residencial Rural,1395
+2015,41872,Villavieja,Zonas Comercial Urbano,132
+2015,41872,Villavieja,Zonas Comercial Rural,13
+2015,41872,Villavieja,Zonas Oficial Urbano,15
+2015,41872,Villavieja,Zonas Oficial Rural,43
+2015,41885,Yaguará,Zonas Residencial Urbano,2022
+2015,41885,Yaguará,Zonas Residencial Rural,748
+2015,41885,Yaguará,Zonas Comercial Urbano,198
+2015,41885,Yaguará,Zonas Comercial Rural,18
+2015,41885,Yaguará,Zonas Oficial Urbano,38
+2015,41885,Yaguará,Zonas Oficial Rural,14
+2016,41001,Neiva,Zonas Residencial Urbano,108562
+2016,41001,Neiva,Zonas Residencial Rural,6876
+2016,41001,Neiva,Zonas Comercial Urbano,9901
+2016,41001,Neiva,Zonas Comercial Rural,129
+2016,41001,Neiva,Zonas Oficial Urbano,463
+2016,41001,Neiva,Zonas Oficial Rural,158
+2016,41006,Acevedo,Zonas Residencial Urbano,1503
+2016,41006,Acevedo,Zonas Residencial Rural,6063
+2016,41006,Acevedo,Zonas Comercial Urbano,201
+2016,41006,Acevedo,Zonas Comercial Rural,56
+2016,41006,Acevedo,Zonas Oficial Urbano,20
+2016,41006,Acevedo,Zonas Oficial Rural,131
+2016,41013,Agrado,Zonas Residencial Urbano,1945
+2016,41013,Agrado,Zonas Residencial Rural,1018
+2016,41013,Agrado,Zonas Comercial Urbano,84
+2016,41013,Agrado,Zonas Comercial Rural,19
+2016,41013,Agrado,Zonas Oficial Urbano,55
+2016,41013,Agrado,Zonas Oficial Rural,26
+2016,41016,Aipe,Zonas Residencial Urbano,3012
+2016,41016,Aipe,Zonas Residencial Rural,2366
+2016,41016,Aipe,Zonas Comercial Urbano,165
+2016,41016,Aipe,Zonas Comercial Rural,34
+2016,41016,Aipe,Zonas Oficial Urbano,34
+2016,41016,Aipe,Zonas Oficial Rural,61
+2016,41020,Algeciras,Zonas Residencial Urbano,3096
+2016,41020,Algeciras,Zonas Residencial Rural,3185
+2016,41020,Algeciras,Zonas Comercial Urbano,248
+2016,41020,Algeciras,Zonas Comercial Rural,10
+2016,41020,Algeciras,Zonas Oficial Urbano,28
+2016,41020,Algeciras,Zonas Oficial Rural,76
+2016,41026,Altamira,Zonas Residencial Urbano,994
+2016,41026,Altamira,Zonas Residencial Rural,449
+2016,41026,Altamira,Zonas Comercial Urbano,78
+2016,41026,Altamira,Zonas Comercial Rural,13
+2016,41026,Altamira,Zonas Oficial Urbano,22
+2016,41026,Altamira,Zonas Oficial Rural,6
+2016,41078,Baraya,Zonas Residencial Urbano,1117
+2016,41078,Baraya,Zonas Residencial Rural,1110
+2016,41078,Baraya,Zonas Comercial Urbano,70
+2016,41078,Baraya,Zonas Comercial Rural,4
+2016,41078,Baraya,Zonas Oficial Urbano,16
+2016,41078,Baraya,Zonas Oficial Rural,48
+2016,41132,Campoalegre,Zonas Residencial Urbano,7338
+2016,41132,Campoalegre,Zonas Residencial Rural,2295
+2016,41132,Campoalegre,Zonas Comercial Urbano,461
+2016,41132,Campoalegre,Zonas Comercial Rural,44
+2016,41132,Campoalegre,Zonas Oficial Urbano,57
+2016,41132,Campoalegre,Zonas Oficial Rural,44
+2016,41206,Colombia,Zonas Residencial Urbano,800
+2016,41206,Colombia,Zonas Residencial Rural,1971
+2016,41206,Colombia,Zonas Comercial Urbano,29
+2016,41206,Colombia,Zonas Comercial Rural,10
+2016,41206,Colombia,Zonas Oficial Urbano,17
+2016,41206,Colombia,Zonas Oficial Rural,65
+2016,41244,Elías,Zonas Residencial Urbano,453
+2016,41244,Elías,Zonas Residencial Rural,779
+2016,41244,Elías,Zonas Comercial Urbano,14
+2016,41244,Elías,Zonas Comercial Rural,9
+2016,41244,Elías,Zonas Oficial Urbano,12
+2016,41244,Elías,Zonas Oficial Rural,23
+2016,41298,Garzón,Zonas Residencial Urbano,13124
+2016,41298,Garzón,Zonas Residencial Rural,9003
+2016,41298,Garzón,Zonas Comercial Urbano,1353
+2016,41298,Garzón,Zonas Comercial Rural,86
+2016,41298,Garzón,Zonas Oficial Urbano,87
+2016,41298,Garzón,Zonas Oficial Rural,127
+2016,41306,Gigante,Zonas Residencial Urbano,3640
+2016,41306,Gigante,Zonas Residencial Rural,4216
+2016,41306,Gigante,Zonas Comercial Urbano,287
+2016,41306,Gigante,Zonas Comercial Rural,55
+2016,41306,Gigante,Zonas Oficial Urbano,38
+2016,41306,Gigante,Zonas Oficial Rural,74
+2016,41319,Guadalupe,Zonas Residencial Urbano,1695
+2016,41319,Guadalupe,Zonas Residencial Rural,3783
+2016,41319,Guadalupe,Zonas Comercial Urbano,162
+2016,41319,Guadalupe,Zonas Comercial Rural,20
+2016,41319,Guadalupe,Zonas Oficial Urbano,23
+2016,41319,Guadalupe,Zonas Oficial Rural,59
+2016,41349,Hobo,Zonas Residencial Urbano,1965
+2016,41349,Hobo,Zonas Residencial Rural,612
+2016,41349,Hobo,Zonas Comercial Urbano,80
+2016,41349,Hobo,Zonas Comercial Rural,15
+2016,41349,Hobo,Zonas Oficial Urbano,15
+2016,41349,Hobo,Zonas Oficial Rural,7
+2016,41357,Iquira,Zonas Residencial Urbano,1425
+2016,41357,Iquira,Zonas Residencial Rural,2028
+2016,41357,Iquira,Zonas Comercial Urbano,64
+2016,41357,Iquira,Zonas Comercial Rural,13
+2016,41357,Iquira,Zonas Oficial Urbano,22
+2016,41357,Iquira,Zonas Oficial Rural,56
+2016,41359,Isnos,Zonas Residencial Urbano,1620
+2016,41359,Isnos,Zonas Residencial Rural,4626
+2016,41359,Isnos,Zonas Comercial Urbano,209
+2016,41359,Isnos,Zonas Comercial Rural,23
+2016,41359,Isnos,Zonas Oficial Urbano,17
+2016,41359,Isnos,Zonas Oficial Rural,104
+2016,41378,La Argentina,Zonas Residencial Urbano,1709
+2016,41378,La Argentina,Zonas Residencial Rural,1992
+2016,41378,La Argentina,Zonas Comercial Urbano,46
+2016,41378,La Argentina,Zonas Comercial Rural,7
+2016,41378,La Argentina,Zonas Oficial Urbano,23
+2016,41378,La Argentina,Zonas Oficial Rural,33
+2016,41396,La Plata,Zonas Residencial Urbano,8872
+2016,41396,La Plata,Zonas Residencial Rural,7260
+2016,41396,La Plata,Zonas Comercial Urbano,787
+2016,41396,La Plata,Zonas Comercial Rural,19
+2016,41396,La Plata,Zonas Oficial Urbano,104
+2016,41396,La Plata,Zonas Oficial Rural,172
+2016,41483,Nátaga,Zonas Residencial Urbano,827
+2016,41483,Nátaga,Zonas Residencial Rural,1048
+2016,41483,Nátaga,Zonas Comercial Urbano,42
+2016,41483,Nátaga,Zonas Comercial Rural,2
+2016,41483,Nátaga,Zonas Oficial Urbano,49
+2016,41483,Nátaga,Zonas Oficial Rural,30
+2016,41503,Oporapa,Zonas Residencial Urbano,682
+2016,41503,Oporapa,Zonas Residencial Rural,2450
+2016,41503,Oporapa,Zonas Comercial Urbano,39
+2016,41503,Oporapa,Zonas Comercial Rural,7
+2016,41503,Oporapa,Zonas Oficial Urbano,20
+2016,41503,Oporapa,Zonas Oficial Rural,44
+2016,41518,Paicol,Zonas Residencial Urbano,957
+2016,41518,Paicol,Zonas Residencial Rural,1181
+2016,41518,Paicol,Zonas Comercial Urbano,33
+2016,41518,Paicol,Zonas Comercial Rural,4
+2016,41518,Paicol,Zonas Oficial Urbano,18
+2016,41518,Paicol,Zonas Oficial Rural,36
+2016,41524,Palermo,Zonas Residencial Urbano,5429
+2016,41524,Palermo,Zonas Residencial Rural,3057
+2016,41524,Palermo,Zonas Comercial Urbano,357
+2016,41524,Palermo,Zonas Comercial Rural,159
+2016,41524,Palermo,Zonas Oficial Urbano,57
+2016,41524,Palermo,Zonas Oficial Rural,85
+2016,41530,Palestina,Zonas Residencial Urbano,513
+2016,41530,Palestina,Zonas Residencial Rural,2488
+2016,41530,Palestina,Zonas Comercial Urbano,76
+2016,41530,Palestina,Zonas Comercial Rural,6
+2016,41530,Palestina,Zonas Oficial Urbano,20
+2016,41530,Palestina,Zonas Oficial Rural,78
+2016,41548,Pital,Zonas Residencial Urbano,1686
+2016,41548,Pital,Zonas Residencial Rural,2750
+2016,41548,Pital,Zonas Comercial Urbano,117
+2016,41548,Pital,Zonas Comercial Rural,13
+2016,41548,Pital,Zonas Oficial Urbano,25
+2016,41548,Pital,Zonas Oficial Rural,53
+2016,41551,Pitalito,Zonas Residencial Urbano,23035
+2016,41551,Pitalito,Zonas Residencial Rural,13695
+2016,41551,Pitalito,Zonas Comercial Urbano,2879
+2016,41551,Pitalito,Zonas Comercial Rural,244
+2016,41551,Pitalito,Zonas Oficial Urbano,128
+2016,41551,Pitalito,Zonas Oficial Rural,232
+2016,41615,Rivera,Zonas Residencial Urbano,3638
+2016,41615,Rivera,Zonas Residencial Rural,3519
+2016,41615,Rivera,Zonas Comercial Urbano,206
+2016,41615,Rivera,Zonas Comercial Rural,107
+2016,41615,Rivera,Zonas Oficial Urbano,23
+2016,41615,Rivera,Zonas Oficial Rural,43
+2016,41660,Saladoblanco,Zonas Residencial Urbano,599
+2016,41660,Saladoblanco,Zonas Residencial Rural,2338
+2016,41660,Saladoblanco,Zonas Comercial Urbano,81
+2016,41660,Saladoblanco,Zonas Comercial Rural,8
+2016,41660,Saladoblanco,Zonas Oficial Urbano,23
+2016,41660,Saladoblanco,Zonas Oficial Rural,51
+2016,41668,San Agustín,Zonas Residencial Urbano,3050
+2016,41668,San Agustín,Zonas Residencial Rural,5871
+2016,41668,San Agustín,Zonas Comercial Urbano,350
+2016,41668,San Agustín,Zonas Comercial Rural,50
+2016,41668,San Agustín,Zonas Oficial Urbano,36
+2016,41668,San Agustín,Zonas Oficial Rural,149
+2016,41676,Santa María,Zonas Residencial Urbano,1061
+2016,41676,Santa María,Zonas Residencial Rural,2065
+2016,41676,Santa María,Zonas Comercial Urbano,104
+2016,41676,Santa María,Zonas Comercial Rural,11
+2016,41676,Santa María,Zonas Oficial Urbano,26
+2016,41676,Santa María,Zonas Oficial Rural,51
+2016,41770,Suaza,Zonas Residencial Urbano,1323
+2016,41770,Suaza,Zonas Residencial Rural,3768
+2016,41770,Suaza,Zonas Comercial Urbano,117
+2016,41770,Suaza,Zonas Comercial Rural,49
+2016,41770,Suaza,Zonas Oficial Urbano,15
+2016,41770,Suaza,Zonas Oficial Rural,73
+2016,41791,Tarqui,Zonas Residencial Urbano,1544
+2016,41791,Tarqui,Zonas Residencial Rural,3556
+2016,41791,Tarqui,Zonas Comercial Urbano,109
+2016,41791,Tarqui,Zonas Comercial Rural,22
+2016,41791,Tarqui,Zonas Oficial Urbano,20
+2016,41791,Tarqui,Zonas Oficial Rural,69
+2016,41799,Tello,Zonas Residencial Urbano,1619
+2016,41799,Tello,Zonas Residencial Rural,2298
+2016,41799,Tello,Zonas Comercial Urbano,41
+2016,41799,Tello,Zonas Comercial Rural,10
+2016,41799,Tello,Zonas Oficial Urbano,17
+2016,41799,Tello,Zonas Oficial Rural,68
+2016,41801,Teruel,Zonas Residencial Urbano,1403
+2016,41801,Teruel,Zonas Residencial Rural,1193
+2016,41801,Teruel,Zonas Comercial Urbano,74
+2016,41801,Teruel,Zonas Comercial Rural,5
+2016,41801,Teruel,Zonas Oficial Urbano,24
+2016,41801,Teruel,Zonas Oficial Rural,26
+2016,41797,Tesalia,Zonas Residencial Urbano,2421
+2016,41797,Tesalia,Zonas Residencial Rural,1020
+2016,41797,Tesalia,Zonas Comercial Urbano,95
+2016,41797,Tesalia,Zonas Comercial Rural,4
+2016,41797,Tesalia,Zonas Oficial Urbano,31
+2016,41797,Tesalia,Zonas Oficial Rural,26
+2016,41807,Timaná,Zonas Residencial Urbano,2258
+2016,41807,Timaná,Zonas Residencial Rural,4061
+2016,41807,Timaná,Zonas Comercial Urbano,221
+2016,41807,Timaná,Zonas Comercial Rural,24
+2016,41807,Timaná,Zonas Oficial Urbano,36
+2016,41807,Timaná,Zonas Oficial Rural,57
+2016,41872,Villavieja,Zonas Residencial Urbano,846
+2016,41872,Villavieja,Zonas Residencial Rural,1425
+2016,41872,Villavieja,Zonas Comercial Urbano,26
+2016,41872,Villavieja,Zonas Comercial Rural,16
+2016,41872,Villavieja,Zonas Oficial Urbano,14
+2016,41872,Villavieja,Zonas Oficial Rural,39
+2016,41885,Yaguará,Zonas Residencial Urbano,2023
+2016,41885,Yaguará,Zonas Residencial Rural,714
+2016,41885,Yaguará,Zonas Comercial Urbano,100
+2016,41885,Yaguará,Zonas Comercial Rural,19
+2016,41885,Yaguará,Zonas Oficial Urbano,38
+2016,41885,Yaguará,Zonas Oficial Rural,11
+2017,41001,Neiva,Zonas Residencial Urbano,112571
+2017,41001,Neiva,Zonas Residencial Rural,7121
+2017,41001,Neiva,Zonas Comercial Urbano,10369
+2017,41001,Neiva,Zonas Comercial Rural,141
+2017,41001,Neiva,Zonas Oficial Urbano,468
+2017,41001,Neiva,Zonas Oficial Rural,162
+2017,41006,Acevedo,Zonas Residencial Urbano,1525
+2017,41006,Acevedo,Zonas Residencial Rural,6150
+2017,41006,Acevedo,Zonas Comercial Urbano,224
+2017,41006,Acevedo,Zonas Comercial Rural,59
+2017,41006,Acevedo,Zonas Oficial Urbano,20
+2017,41006,Acevedo,Zonas Oficial Rural,129
+2017,41013,Agrado,Zonas Residencial Urbano,1979
+2017,41013,Agrado,Zonas Residencial Rural,1020
+2017,41013,Agrado,Zonas Comercial Urbano,92
+2017,41013,Agrado,Zonas Comercial Rural,17
+2017,41013,Agrado,Zonas Oficial Urbano,55
+2017,41013,Agrado,Zonas Oficial Rural,29
+2017,41016,Aipe,Zonas Residencial Urbano,3203
+2017,41016,Aipe,Zonas Residencial Rural,2378
+2017,41016,Aipe,Zonas Comercial Urbano,173
+2017,41016,Aipe,Zonas Comercial Rural,34
+2017,41016,Aipe,Zonas Oficial Urbano,35
+2017,41016,Aipe,Zonas Oficial Rural,60
+2017,41020,Algeciras,Zonas Residencial Urbano,3190
+2017,41020,Algeciras,Zonas Residencial Rural,3192
+2017,41020,Algeciras,Zonas Comercial Urbano,260
+2017,41020,Algeciras,Zonas Comercial Rural,13
+2017,41020,Algeciras,Zonas Oficial Urbano,29
+2017,41020,Algeciras,Zonas Oficial Rural,75
+2017,41026,Altamira,Zonas Residencial Urbano,1011
+2017,41026,Altamira,Zonas Residencial Rural,461
+2017,41026,Altamira,Zonas Comercial Urbano,83
+2017,41026,Altamira,Zonas Comercial Rural,16
+2017,41026,Altamira,Zonas Oficial Urbano,23
+2017,41026,Altamira,Zonas Oficial Rural,6
+2017,41078,Baraya,Zonas Residencial Urbano,1131
+2017,41078,Baraya,Zonas Residencial Rural,1102
+2017,41078,Baraya,Zonas Comercial Urbano,71
+2017,41078,Baraya,Zonas Comercial Rural,4
+2017,41078,Baraya,Zonas Oficial Urbano,18
+2017,41078,Baraya,Zonas Oficial Rural,47
+2017,41132,Campoalegre,Zonas Residencial Urbano,7442
+2017,41132,Campoalegre,Zonas Residencial Rural,2279
+2017,41132,Campoalegre,Zonas Comercial Urbano,474
+2017,41132,Campoalegre,Zonas Comercial Rural,46
+2017,41132,Campoalegre,Zonas Oficial Urbano,56
+2017,41132,Campoalegre,Zonas Oficial Rural,41
+2017,41206,Colombia,Zonas Residencial Urbano,808
+2017,41206,Colombia,Zonas Residencial Rural,1970
+2017,41206,Colombia,Zonas Comercial Urbano,33
+2017,41206,Colombia,Zonas Comercial Rural,10
+2017,41206,Colombia,Zonas Oficial Urbano,16
+2017,41206,Colombia,Zonas Oficial Rural,65
+2017,41548,El Pital,Zonas Residencial Urbano,1724
+2017,41548,El Pital,Zonas Residencial Rural,2784
+2017,41548,El Pital,Zonas Comercial Urbano,138
+2017,41548,El Pital,Zonas Comercial Rural,13
+2017,41548,El Pital,Zonas Oficial Urbano,26
+2017,41548,El Pital,Zonas Oficial Rural,56
+2017,41244,Elías,Zonas Residencial Urbano,474
+2017,41244,Elías,Zonas Residencial Rural,791
+2017,41244,Elías,Zonas Comercial Urbano,16
+2017,41244,Elías,Zonas Comercial Rural,10
+2017,41244,Elías,Zonas Oficial Urbano,12
+2017,41244,Elías,Zonas Oficial Rural,23
+2017,41298,Garzón,Zonas Residencial Urbano,13594
+2017,41298,Garzón,Zonas Residencial Rural,9143
+2017,41298,Garzón,Zonas Comercial Urbano,1406
+2017,41298,Garzón,Zonas Comercial Rural,96
+2017,41298,Garzón,Zonas Oficial Urbano,91
+2017,41298,Garzón,Zonas Oficial Rural,128
+2017,41306,Gigante,Zonas Residencial Urbano,3694
+2017,41306,Gigante,Zonas Residencial Rural,4308
+2017,41306,Gigante,Zonas Comercial Urbano,349
+2017,41306,Gigante,Zonas Comercial Rural,62
+2017,41306,Gigante,Zonas Oficial Urbano,40
+2017,41306,Gigante,Zonas Oficial Rural,75
+2017,41319,Guadalupe,Zonas Residencial Urbano,1741
+2017,41319,Guadalupe,Zonas Residencial Rural,3823
+2017,41319,Guadalupe,Zonas Comercial Urbano,186
+2017,41319,Guadalupe,Zonas Comercial Rural,23
+2017,41319,Guadalupe,Zonas Oficial Urbano,24
+2017,41319,Guadalupe,Zonas Oficial Rural,63
+2017,41349,Hobo,Zonas Residencial Urbano,1978
+2017,41349,Hobo,Zonas Residencial Rural,614
+2017,41349,Hobo,Zonas Comercial Urbano,78
+2017,41349,Hobo,Zonas Comercial Rural,15
+2017,41349,Hobo,Zonas Oficial Urbano,16
+2017,41349,Hobo,Zonas Oficial Rural,8
+2017,41357,Iquira,Zonas Residencial Urbano,1438
+2017,41357,Iquira,Zonas Residencial Rural,2051
+2017,41357,Iquira,Zonas Comercial Urbano,66
+2017,41357,Iquira,Zonas Comercial Rural,14
+2017,41357,Iquira,Zonas Oficial Urbano,22
+2017,41357,Iquira,Zonas Oficial Rural,56
+2017,41359,Isnos,Zonas Residencial Urbano,1735
+2017,41359,Isnos,Zonas Residencial Rural,4936
+2017,41359,Isnos,Zonas Comercial Urbano,228
+2017,41359,Isnos,Zonas Comercial Rural,29
+2017,41359,Isnos,Zonas Oficial Urbano,20
+2017,41359,Isnos,Zonas Oficial Rural,102
+2017,41378,La Argentina,Zonas Residencial Urbano,1753
+2017,41378,La Argentina,Zonas Residencial Rural,2013
+2017,41378,La Argentina,Zonas Comercial Urbano,47
+2017,41378,La Argentina,Zonas Comercial Rural,7
+2017,41378,La Argentina,Zonas Oficial Urbano,22
+2017,41378,La Argentina,Zonas Oficial Rural,33
+2017,41396,La Plata,Zonas Residencial Urbano,9190
+2017,41396,La Plata,Zonas Residencial Rural,7519
+2017,41396,La Plata,Zonas Comercial Urbano,809
+2017,41396,La Plata,Zonas Comercial Rural,22
+2017,41396,La Plata,Zonas Oficial Urbano,108
+2017,41396,La Plata,Zonas Oficial Rural,176
+2017,41483,Nátaga,Zonas Residencial Urbano,836
+2017,41483,Nátaga,Zonas Residencial Rural,1081
+2017,41483,Nátaga,Zonas Comercial Urbano,42
+2017,41483,Nátaga,Zonas Comercial Rural,2
+2017,41483,Nátaga,Zonas Oficial Urbano,50
+2017,41483,Nátaga,Zonas Oficial Rural,30
+2017,41503,Oporapa,Zonas Residencial Urbano,696
+2017,41503,Oporapa,Zonas Residencial Rural,2457
+2017,41503,Oporapa,Zonas Comercial Urbano,43
+2017,41503,Oporapa,Zonas Comercial Rural,8
+2017,41503,Oporapa,Zonas Oficial Urbano,20
+2017,41503,Oporapa,Zonas Oficial Rural,44
+2017,41518,Paicol,Zonas Residencial Urbano,977
+2017,41518,Paicol,Zonas Residencial Rural,1184
+2017,41518,Paicol,Zonas Comercial Urbano,35
+2017,41518,Paicol,Zonas Comercial Rural,4
+2017,41518,Paicol,Zonas Oficial Urbano,19
+2017,41518,Paicol,Zonas Oficial Rural,36
+2017,41524,Palermo,Zonas Residencial Urbano,5556
+2017,41524,Palermo,Zonas Residencial Rural,3081
+2017,41524,Palermo,Zonas Comercial Urbano,368
+2017,41524,Palermo,Zonas Comercial Rural,175
+2017,41524,Palermo,Zonas Oficial Urbano,57
+2017,41524,Palermo,Zonas Oficial Rural,81
+2017,41530,Palestina,Zonas Residencial Urbano,525
+2017,41530,Palestina,Zonas Residencial Rural,2518
+2017,41530,Palestina,Zonas Comercial Urbano,81
+2017,41530,Palestina,Zonas Comercial Rural,7
+2017,41530,Palestina,Zonas Oficial Urbano,19
+2017,41530,Palestina,Zonas Oficial Rural,80
+2017,41551,Pitalito,Zonas Residencial Urbano,23980
+2017,41551,Pitalito,Zonas Residencial Rural,14123
+2017,41551,Pitalito,Zonas Comercial Urbano,3050
+2017,41551,Pitalito,Zonas Comercial Rural,291
+2017,41551,Pitalito,Zonas Oficial Urbano,131
+2017,41551,Pitalito,Zonas Oficial Rural,237
+2017,41615,Rivera,Zonas Residencial Urbano,3726
+2017,41615,Rivera,Zonas Residencial Rural,3694
+2017,41615,Rivera,Zonas Comercial Urbano,213
+2017,41615,Rivera,Zonas Comercial Rural,110
+2017,41615,Rivera,Zonas Oficial Urbano,21
+2017,41615,Rivera,Zonas Oficial Rural,47
+2017,41660,Saladoblanco,Zonas Residencial Urbano,632
+2017,41660,Saladoblanco,Zonas Residencial Rural,2356
+2017,41660,Saladoblanco,Zonas Comercial Urbano,98
+2017,41660,Saladoblanco,Zonas Comercial Rural,7
+2017,41660,Saladoblanco,Zonas Oficial Urbano,24
+2017,41660,Saladoblanco,Zonas Oficial Rural,52
+2017,41668,San Agustín,Zonas Residencial Urbano,3162
+2017,41668,San Agustín,Zonas Residencial Rural,5995
+2017,41668,San Agustín,Zonas Comercial Urbano,354
+2017,41668,San Agustín,Zonas Comercial Rural,54
+2017,41668,San Agustín,Zonas Oficial Urbano,39
+2017,41668,San Agustín,Zonas Oficial Rural,149
+2017,41676,Santa María,Zonas Residencial Urbano,1077
+2017,41676,Santa María,Zonas Residencial Rural,2067
+2017,41676,Santa María,Zonas Comercial Urbano,106
+2017,41676,Santa María,Zonas Comercial Rural,12
+2017,41676,Santa María,Zonas Oficial Urbano,26
+2017,41676,Santa María,Zonas Oficial Rural,52
+2017,41770,Suaza,Zonas Residencial Urbano,1386
+2017,41770,Suaza,Zonas Residencial Rural,3991
+2017,41770,Suaza,Zonas Comercial Urbano,113
+2017,41770,Suaza,Zonas Comercial Rural,61
+2017,41770,Suaza,Zonas Oficial Urbano,15
+2017,41770,Suaza,Zonas Oficial Rural,78
+2017,41791,Tarqui,Zonas Residencial Urbano,1605
+2017,41791,Tarqui,Zonas Residencial Rural,3581
+2017,41791,Tarqui,Zonas Comercial Urbano,117
+2017,41791,Tarqui,Zonas Comercial Rural,24
+2017,41791,Tarqui,Zonas Oficial Urbano,20
+2017,41791,Tarqui,Zonas Oficial Rural,70
+2017,41799,Tello,Zonas Residencial Urbano,1629
+2017,41799,Tello,Zonas Residencial Rural,2306
+2017,41799,Tello,Zonas Comercial Urbano,43
+2017,41799,Tello,Zonas Comercial Rural,12
+2017,41799,Tello,Zonas Oficial Urbano,17
+2017,41799,Tello,Zonas Oficial Rural,67
+2017,41801,Teruel,Zonas Residencial Urbano,1425
+2017,41801,Teruel,Zonas Residencial Rural,1194
+2017,41801,Teruel,Zonas Comercial Urbano,78
+2017,41801,Teruel,Zonas Comercial Rural,5
+2017,41801,Teruel,Zonas Oficial Urbano,24
+2017,41801,Teruel,Zonas Oficial Rural,26
+2017,41797,Tesalia,Zonas Residencial Urbano,2448
+2017,41797,Tesalia,Zonas Residencial Rural,1060
+2017,41797,Tesalia,Zonas Comercial Urbano,97
+2017,41797,Tesalia,Zonas Comercial Rural,4
+2017,41797,Tesalia,Zonas Oficial Urbano,35
+2017,41797,Tesalia,Zonas Oficial Rural,26
+2017,41807,Timaná,Zonas Residencial Urbano,2316
+2017,41807,Timaná,Zonas Residencial Rural,4104
+2017,41807,Timaná,Zonas Comercial Urbano,221
+2017,41807,Timaná,Zonas Comercial Rural,27
+2017,41807,Timaná,Zonas Oficial Urbano,37
+2017,41807,Timaná,Zonas Oficial Rural,58
+2017,41872,Villavieja,Zonas Residencial Urbano,857
+2017,41872,Villavieja,Zonas Residencial Rural,1431
+2017,41872,Villavieja,Zonas Comercial Urbano,25
+2017,41872,Villavieja,Zonas Comercial Rural,18
+2017,41872,Villavieja,Zonas Oficial Urbano,14
+2017,41872,Villavieja,Zonas Oficial Rural,39
+2017,41885,Yaguará,Zonas Residencial Urbano,32062
+2017,41885,Yaguará,Zonas Residencial Rural,719
+2017,41885,Yaguará,Zonas Comercial Urbano,102
+2017,41885,Yaguará,Zonas Comercial Rural,21
+2017,41885,Yaguará,Zonas Oficial Urbano,39
+2017,41885,Yaguará,Zonas Oficial Rural,11
