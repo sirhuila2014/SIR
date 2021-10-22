@@ -1,41 +1,152 @@
 VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
-2018,41001,Neiva,Residencial,123342
-2018,41006,Acevedo,Residencial,7864
-2018,41013,Agrado,Residencial,3092
-2018,41016,Aipe,Residencial,5734
-2018,41020,Algeciras,Residencial,6555
-2018,41026,Altamira,Residencial,1502
-2018,41078,Baraya,Residencial,2239
-2018,41132,Campoalegre,Residencial,9957
-2018,41206,Colombia,Residencial,2809
-2018,41244,Elias,Residencial,1376
-2018,41298,Garzon,Residencial,23179
-2018,41306,Gigante,Residencial,8081
-2018,41319,Guadalupe,Residencial,5682
-2018,41349,Hobo,Residencial,2614
-2018,41357,Iquira,Residencial,3537
-2018,41359,Isnos,Residencial,6959
-2018,41378,La Argentina,Residencial,3978
-2018,41396,La Plata,Residencial,17109
-2018,41483,Nataga,Residencial,1941
-2018,41503,Oporapa,Residencial,3262
-2018,41518,Paicol,Residencial,2261
-2018,41524,Palermo,Residencial,8721
-2018,41530,Palestina,Residencial,3083
-2018,41548,Pital,Residencial,4605
-2018,41551,Pitalito,Residencial,39603
-2018,41615,Rivera,Residencial,7732
-2018,41660,Saladoblanco,Residencial,3227
-2018,41668,San Agustin,Residencial,9360
-2018,41676,Santa Maria,Residencial,3248
-2018,41770,Suaza,Residencial,5849
-2018,41791,Tarqui,Residencial,5346
-2018,41799,Tello,Residencial,3947
-2018,41801,Teruel,Residencial,2663
-2018,41797,Tesalia,Residencial,3592
-2018,41807,Timana,Residencial,6588
-2018,41872,Villavieja,Residencial,2400
-2018,41885,Yaguara,Residencial,2802
+2013,41001, NEIVA,Residencial,101476
+2013,41006, ACEVEDO,Residencial,6857
+2013,41013, AGRADO,Residencial,2579
+2013,41016, AIPE,Residencial,5203
+2013,41020, ALGECIRAS,Residencial,6014
+2013,41026, ALTAMIRA,Residencial,1222
+2013,41078, BARAYA,Residencial,2213
+2013,41132, CAMPOALEGRE,Residencial,9029
+2013,41206, COLOMBIA,Residencial,2608
+2013,41244, ELIAS,Residencial,1084
+2013,41298, GARZON,Residencial,19436
+2013,41306, GIGANTE,Residencial,7118
+2013,41319, GUADALUPE,Residencial,5015
+2013,41349, HOBO,Residencial,2174
+2013,41357, IQUIRA,Residencial,3328
+2013,41359, ISNOS,Residencial,5778
+2013,41378, LA ARGENTINA,Residencial,3188
+2013,41396, LA PLATA,Residencial,14121
+2013,41483, NATAGA,Residencial,1619
+2013,41503, OPORAPA,Residencial,2619
+2013,41518, PAICOL,Residencial,1914
+2013,41524, PALERMO,Residencial,7898
+2013,41530, PALESTINA,Residencial,2729
+2013,41548, PITAL,Residencial,3948
+2013,41551, PITALITO,Residencial,31209
+2013,41615, RIVERA,Residencial,5946
+2013,41660, SALADO BLANCO,Residencial,2696
+2013,41668, SAN AGUSTIN,Residencial,8058
+2013,41676, SANTAMARIA,Residencial,2956
+2013,41770, SUAZA,Residencial,4366
+2013,41791, TARQUI,Residencial,4637
+2013,41799, TELLO,Residencial,3727
+2013,41801, TERUEL,Residencial,2407
+2013,41797, TESALIA,Residencial,3189
+2013,41807, TIMANA,Residencial,5791
+2013,41872, VILLAVIEJA,Residencial,2148
+2013,41885, YAGUARA,Residencial,2634
+2014,41001, NEIVA,Residencial,106947
+2014,41006, ACEVEDO,Residencial,7099
+2014,41013, AGRADO,Residencial,2667
+2014,41016, AIPE,Residencial,5321
+2014,41020, ALGECIRAS,Residencial,6106
+2014,41026, ALTAMIRA,Residencial,1269
+2014,41078, BARAYA,Residencial,2225
+2014,41132, CAMPOALEGRE,Residencial,9235
+2014,41206, COLOMBIA,Residencial,2662
+2014,41244, ELIAS,Residencial,1105
+2014,41298, GARZON,Residencial,20570
+2014,41306, GIGANTE,Residencial,7370
+2014,41319, GUADALUPE,Residencial,5177
+2014,41349, HOBO,Residencial,2243
+2014,41357, IQUIRA,Residencial,3375
+2014,41359, ISNOS,Residencial,5986
+2014,41378, LA ARGENTINA,Residencial,3392
+2014,41396, LA PLATA,Residencial,14735
+2014,41483, NATAGA,Residencial,1676
+2014,41503, OPORAPA,Residencial,2819
+2014,41518, PAICOL,Residencial,1988
+2014,41524, PALERMO,Residencial,8198
+2014,41530, PALESTINA,Residencial,2829
+2014,41548,PITAL,Residencial,4190
+2014,41551, PITALITO,Residencial,32561
+2014,41615, RIVERA,Residencial,6417
+2014,41660, SALADO BLANCO,Residencial,2748
+2014,41668, SAN AGUSTIN,Residencial,8318
+2014,41676, SANTAMARIA,Residencial,3033
+2014,41770, SUAZA,Residencial,4593
+2014,41791, TARQUI,Residencial,4859
+2014,41799, TELLO,Residencial,3734
+2014,41801, TERUEL,Residencial,2515
+2014,41797, TESALIA,Residencial,3291
+2014,41807, TIMANA,Residencial,5896
+2014,41872, VILLAVIEJA,Residencial,2174
+2014,41885, YAGUARA,Residencial,2683
+2015,41001,Neiva,Residencial,113888
+2015,41006,Acevedo,Residencial,7491
+2015,41013,Agrado,Residencial,2851
+2015,41016,Aipe,Residencial,5482
+2015,41020,Algeciras,Residencial,6323
+2015,41026,Altamira,Residencial,1370
+2015,41078,Baraya,Residencial,2296
+2015,41132,Campoalegre,Residencial,9537
+2015,41206,Colombia,Residencial,2751
+2015,41244,Elías,Residencial,1130
+2015,41298,Garzón,Residencial,21404
+2015,41306,Gigante,Residencial,7543
+2015,41319,Guadalupe,Residencial,5339
+2015,41349,Hobo,Residencial,2421
+2015,41357,Iquira,Residencial,3467
+2015,41359,Isnos,Residencial,6151
+2015,41378,La Argentina,Residencial,3611
+2015,41396,La Plata,Residencial,15461
+2015,41483,Nátaga,Residencial,1755
+2015,41503,Oporapa,Residencial,3003
+2015,41518,Paicol,Residencial,2077
+2015,41524,Palermo,Residencial,8477
+2015,41530,Palestina,Residencial,2909
+2015,41548,PITAL,Residencial,4285
+2015,41551,Pitalito,Residencial,35350
+2015,41615,Rivera,Residencial,6888
+2015,41660,Saladoblanco,Residencial,2887
+2015,41668,San Agustín,Residencial,8764
+2015,41676,Santa María,Residencial,3128
+2015,41770,Suaza,Residencial,4919
+2015,41791,Tarqui,Residencial,4998
+2015,41799,Tello,Residencial,3982
+2015,41801,Teruel,Residencial,2579
+2015,41797,Tesalia,Residencial,3350
+2015,41807,Timaná,Residencial,6096
+2015,41872,Villavieja,Residencial,2230
+2015,41885,Yaguará,Residencial,2770
+2016,41001,Neiva,Residencial,115044
+2016,41006,Acevedo,Residencial,7566
+2016,41013,Agrado,Residencial,2963
+2016,41016,Aipe,Residencial,5378
+2016,41020,Algeciras,Residencial,6281
+2016,41026,Altamira,Residencial,1443
+2016,41078,Baraya,Residencial,2227
+2016,41132,Campoalegre,Residencial,9633
+2016,41206,Colombia,Residencial,2771
+2016,41244,Elías,Residencial,1232
+2016,41298,Garzón,Residencial,22120
+2016,41306,Gigante,Residencial,7854
+2016,41319,Guadalupe,Residencial,5478
+2016,41349,Hobo,Residencial,2576
+2016,41357,Iquira,Residencial,3450
+2016,41359,Isnos,Residencial,6246
+2016,41378,La Argentina,Residencial,3701
+2016,41396,La Plata,Residencial,16130
+2016,41483,Nátaga,Residencial,1875
+2016,41503,Oporapa,Residencial,3132
+2016,41518,Paicol,Residencial,2138
+2016,41524,Palermo,Residencial,8474
+2016,41530,Palestina,Residencial,3001
+2016,41548,PITAL,Residencial,4436
+2016,41551,Pitalito,Residencial,36672
+2016,41615,Rivera,Residencial,7137
+2016,41660,Saladoblanco,Residencial,2937
+2016,41668,San Agustín,Residencial,8921
+2016,41676,Santa María,Residencial,3126
+2016,41770,Suaza,Residencial,5090
+2016,41791,Tarqui,Residencial,5100
+2016,41799,Tello,Residencial,3917
+2016,41801,Teruel,Residencial,2596
+2016,41797,Tesalia,Residencial,3441
+2016,41807,Timaná,Residencial,6319
+2016,41872,Villavieja,Residencial,2271
+2016,41885,Yaguará,Residencial,2729
 2017,41001,Neiva,Residencial,119228
 2017,41006,Acevedo,Residencial,7675
 2017,41013,Agrado,Residencial,2999
@@ -46,8 +157,8 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41132,Campoalegre,Residencial,9721
 2017,41206,Colombia,Residencial,2778
 2017,41548,El Pital,Residencial,4508
-2017,41244,Elias,Residencial,1265
-2017,41298,Garzon,Residencial,22730
+2017,41244,Elías,Residencial,1265
+2017,41298,Garzón,Residencial,22730
 2017,41306,Gigante,Residencial,8000
 2017,41319,Guadalupe,Residencial,5564
 2017,41349,Hobo,Residencial,2591
@@ -55,7 +166,7 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41359,Isnos,Residencial,6671
 2017,41378,La Argentina,Residencial,3766
 2017,41396,La Plata,Residencial,16707
-2017,41483,Nataga,Residencial,1917
+2017,41483,Nátaga,Residencial,1917
 2017,41503,Oporapa,Residencial,3153
 2017,41518,Paicol,Residencial,2160
 2017,41524,Palermo,Residencial,8614
@@ -63,201 +174,201 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41551,Pitalito,Residencial,38035
 2017,41615,Rivera,Residencial,7388
 2017,41660,Saladoblanco,Residencial,2988
-2017,41668,San Agustin,Residencial,9157
-2017,41676,Santa Maria,Residencial,3144
+2017,41668,San Agustín,Residencial,9157
+2017,41676,Santa María,Residencial,3144
 2017,41770,Suaza,Residencial,5376
 2017,41791,Tarqui,Residencial,5186
 2017,41799,Tello,Residencial,3935
 2017,41801,Teruel,Residencial,2619
 2017,41797,Tesalia,Residencial,3508
-2017,41807,Timana,Residencial,6420
+2017,41807,Timaná,Residencial,6420
 2017,41872,Villavieja,Residencial,2288
-2017,41885,Yaguara,Residencial,2773
-2016,41001,Neiva,Residencial,115044
-2016,41006,Acevedo,Residencial,7566
-2016,41013,Agrado,Residencial,2963
-2016,41016,Aipe,Residencial,5378
-2016,41020,Algeciras,Residencial,6281
-2016,41026,Altamira,Residencial,1443
-2016,41078,Baraya,Residencial,2227
-2016,41132,Campoalegre,Residencial,9633
-2016,41206,Colombia,Residencial,2771
-2016,41244,Elias,Residencial,1232
-2016,41298,Garzon,Residencial,22120
-2016,41306,Gigante,Residencial,7854
-2016,41319,Guadalupe,Residencial,5478
-2016,41349,Hobo,Residencial,2576
-2016,41357,Iquira,Residencial,3450
-2016,41359,Isnos,Residencial,6246
-2016,41378,La Argentina,Residencial,3701
-2016,41396,La Plata,Residencial,16130
-2016,41483,Nataga,Residencial,1875
-2016,41503,Oporapa,Residencial,3132
-2016,41518,Paicol,Residencial,2138
-2016,41524,Palermo,Residencial,8474
-2016,41530,Palestina,Residencial,3001
-2016,41548,Pital,Residencial,4436
-2016,41551,Pitalito,Residencial,36672
-2016,41615,Rivera,Residencial,7137
-2016,41660,Saladoblanco,Residencial,2937
-2016,41668,San Agustin,Residencial,8921
-2016,41676,Santa Maria,Residencial,3126
-2016,41770,Suaza,Residencial,5090
-2016,41791,Tarqui,Residencial,5100
-2016,41799,Tello,Residencial,3917
-2016,41801,Teruel,Residencial,2596
-2016,41797,Tesalia,Residencial,3441
-2016,41807,Timana,Residencial,6319
-2016,41872,Villavieja,Residencial,2271
-2016,41885,Yaguara,Residencial,2729
-2015,41001,Neiva,Residencial,113888
-2015,41006,Acevedo,Residencial,7491
-2015,41013,Agrado,Residencial,2851
-2015,41016,Aipe,Residencial,5482
-2015,41020,Algeciras,Residencial,6323
-2015,41026,Altamira,Residencial,1370
-2015,41078,Baraya,Residencial,2296
-2015,41132,Campoalegre,Residencial,9537
-2015,41206,Colombia,Residencial,2751
-2015,41244,Elias,Residencial,4285
-2015,41298,Garzon,Residencial,1130
-2015,41306,Gigante,Residencial,21404
-2015,41319,Guadalupe,Residencial,7543
-2015,41349,Hobo,Residencial,5339
-2015,41357,Iquira,Residencial,2421
-2015,41359,Isnos,Residencial,3467
-2015,41378,La Argentina,Residencial,6151
-2015,41396,La Plata,Residencial,3611
-2015,41483,Nataga,Residencial,15461
-2015,41503,Oporapa,Residencial,1755
-2015,41518,Paicol,Residencial,3003
-2015,41524,Palermo,Residencial,2077
-2015,41530,Palestina,Residencial,8477
-2015,41548,Pital,Residencial,2909
-2015,41551,Pitalito,Residencial,35350
-2015,41615,Rivera,Residencial,6888
-2015,41660,Saladoblanco,Residencial,2887
-2015,41668,San Agustin,Residencial,8764
-2015,41676,Santa Maria,Residencial,3128
-2015,41770,Suaza,Residencial,4919
-2015,41791,Tarqui,Residencial,4998
-2015,41799,Tello,Residencial,3982
-2015,41801,Teruel,Residencial,2579
-2015,41797,Tesalia,Residencial,3350
-2015,41807,Timana,Residencial,6096
-2015,41872,Villavieja,Residencial,2230
-2015,41885,Yaguara,Residencial,2770
-2014,41001, NEIVA,Residencial,106947
-2014,41006, ACEVEDO,Residencial,7099
-2014,41013, AGRADO,Residencial,2667
-2014,41016, AIPE,Residencial,5321
-2014,41020, ALGECIRAS,Residencial,6106
-2014,41026, ALTAMIRA,Residencial,1269
-2014,41078, BARAYA,Residencial,2225
-2014,41132, CAMPOALEGRE,Residencial,9235
-2014,41206, COLOMBIA,Residencial,2662
-2014,41244,Elias,Residencial,1105
-2014,41298,Garzon,Residencial,20570
-2014,41306, GIGANTE,Residencial,7370
-2014,41319, GUADALUPE,Residencial,5177
-2014,41349, HOBO,Residencial,2243
-2014,41357, IQUIRA,Residencial,3375
-2014,41359, ISNOS,Residencial,5986
-2014,41378, LA ARGENTINA,Residencial,3392
-2014,41396, LA PLATA,Residencial,14735
-2014,41483,Nataga,Residencial,1676
-2014,41503, OPORAPA,Residencial,2819
-2014,41518, PAICOL,Residencial,1988
-2014,41524, PALERMO,Residencial,8198
-2014,41530, PALESTINA,Residencial,2829
-2014,41548,Pital,Residencial,4190
-2014,41551, PITALITO,Residencial,32561
-2014,41615, RIVERA,Residencial,6417
-2014,41660,Saladoblanco,Residencial,2748
-2014,41668,San Agustin,Residencial,8318
-2014,41676,Santa Maria,Residencial,3033
-2014,41770, SUAZA,Residencial,4593
-2014,41791, TARQUI,Residencial,4859
-2014,41799, TELLO,Residencial,3734
-2014,41801, TERUEL,Residencial,2515
-2014,41797, TESALIA,Residencial,3291
-2014,41807,Timana,Residencial,5896
-2014,41872, VILLAVIEJA,Residencial,2174
-2014,41885,Yaguara,Residencial,2683
-2013,41001, NEIVA,Residencial,101476
-2013,41006, ACEVEDO,Residencial,6857
-2013,41013, AGRADO,Residencial,2579
-2013,41016, AIPE,Residencial,5203
-2013,41020, ALGECIRAS,Residencial,6014
-2013,41026, ALTAMIRA,Residencial,1222
-2013,41078, BARAYA,Residencial,2213
-2013,41132, CAMPOALEGRE,Residencial,9029
-2013,41206, COLOMBIA,Residencial,2608
-2013,41244, EL PITAL,Residencial,3948
-2013,41298,Elias,Residencial,1084
-2013,41306,Garzon,Residencial,19436
-2013,41319, GIGANTE,Residencial,7118
-2013,41349, GUADALUPE,Residencial,5015
-2013,41357, HOBO,Residencial,2174
-2013,41359, IQUIRA,Residencial,3328
-2013,41378, ISNOS,Residencial,5778
-2013,41396, LA ARGENTINA,Residencial,3188
-2013,41483, LA PLATA,Residencial,14121
-2013,41503,Nataga,Residencial,1619
-2013,41518, OPORAPA,Residencial,2619
-2013,41524, PAICOL,Residencial,1914
-2013,41530, PALERMO,Residencial,7898
-2013,41548, PALESTINA,Residencial,2729
-2013,41551, PITALITO,Residencial,31209
-2013,41615, RIVERA,Residencial,5946
-2013,41660,Saladoblanco,Residencial,2696
-2013,41668,San Agustin,Residencial,8058
-2013,41676,Santa Maria,Residencial,2956
-2013,41770, SUAZA,Residencial,4366
-2013,41791, TARQUI,Residencial,4637
-2013,41799, TELLO,Residencial,3727
-2013,41801, TERUEL,Residencial,2407
-2013,41797, TESALIA,Residencial,3189
-2013,41807,Timana,Residencial,5791
-2013,41872, VILLAVIEJA,Residencial,2148
-2013,41885,Yaguara,Residencial,2634
-2018,41001,Neiva,Comercial,10803
-2018,41006,Acevedo,Comercial,303
-2018,41013,Agrado,Comercial,109
-2018,41016,Aipe,Comercial,209
-2018,41020,Algeciras,Comercial,284
-2018,41026,Altamira,Comercial,97
-2018,41078,Baraya,Comercial,76
-2018,41132,Campoalegre,Comercial,534
-2018,41206,Colombia,Comercial,44
-2018,41244,Elias,Comercial,27
-2018,41298,Garzon,Comercial,1512
-2018,41306,Gigante,Comercial,406
-2018,41319,Guadalupe,Comercial,220
-2018,41349,Hobo,Comercial,94
-2018,41357,Iquira,Comercial,82
-2018,41359,Isnos,Comercial,269
-2018,41378,La Argentina,Comercial,52
-2018,41396,La Plata,Comercial,813
-2018,41483,Nataga,Comercial,39
-2018,41503,Oporapa,Comercial,54
-2018,41518,Paicol,Comercial,38
-2018,41524,Palermo,Comercial,574
-2018,41530,Palestina,Comercial,84
-2018,41548,Pital,Comercial,142
-2018,41551,Pitalito,Comercial,3520
-2018,41615,Rivera,Comercial,345
-2018,41660,Saladoblanco,Comercial,111
-2018,41668,San Agustin,Comercial,448
-2018,41676,Santa Maria,Comercial,123
-2018,41770,Suaza,Comercial,183
-2018,41791,Tarqui,Comercial,144
-2018,41799,Tello,Comercial,63
-2018,41801,Teruel,Comercial,109
-2018,41797,Tesalia,Comercial,98
-2018,41807,Timana,Comercial,256
-2018,41872,Villavieja,Comercial,44
-2018,41885,Yaguara,Comercial,126
+2017,41885,Yaguará,Residencial,2773
+2018,41001,Neiva,Residencial,123342
+2018,41006,Acevedo,Residencial,7864
+2018,41013,Agrado,Residencial,3092
+2018,41016,Aipe,Residencial,5734
+2018,41020,Algeciras,Residencial,6555
+2018,41026,Altamira,Residencial,1502
+2018,41078,Baraya,Residencial,2239
+2018,41132,Campoalegre,Residencial,9957
+2018,41206,Colombia,Residencial,2809
+2018,41244,Elías,Residencial,1376
+2018,41298,Garzón,Residencial,23179
+2018,41306,Gigante,Residencial,8081
+2018,41319,Guadalupe,Residencial,5682
+2018,41349,Hobo,Residencial,2614
+2018,41357,Iquira,Residencial,3537
+2018,41359,Isnos,Residencial,6959
+2018,41378,La Argentina,Residencial,3978
+2018,41396,La Plata,Residencial,17109
+2018,41483,Nátaga,Residencial,1941
+2018,41503,Oporapa,Residencial,3262
+2018,41518,Paicol,Residencial,2261
+2018,41524,Palermo,Residencial,8721
+2018,41530,Palestina,Residencial,3083
+2018,41548,PITAL,Residencial,4605
+2018,41551,Pitalito,Residencial,39603
+2018,41615,Rivera,Residencial,7732
+2018,41660,Saladoblanco,Residencial,3227
+2018,41668,San Agustín,Residencial,9360
+2018,41676,Santa María,Residencial,3248
+2018,41770,Suaza,Residencial,5849
+2018,41791,Tarqui,Residencial,5346
+2018,41799,Tello,Residencial,3947
+2018,41801,Teruel,Residencial,2663
+2018,41797,Tesalia,Residencial,3592
+2018,41807,Timaná,Residencial,6588
+2018,41872,Villavieja,Residencial,2400
+2018,41885,Yaguará,Residencial,2802
+2013,41001, NEIVA,Comercial,8711
+2013,41006, ACEVEDO,Comercial,201
+2013,41013, AGRADO,Comercial,84
+2013,41016, AIPE,Comercial,176
+2013,41020, ALGECIRAS,Comercial,189
+2013,41026, ALTAMIRA,Comercial,66
+2013,41078, BARAYA,Comercial,71
+2013,41132, CAMPOALEGRE,Comercial,431
+2013,41206, COLOMBIA,Comercial,34
+2013,41244, ELIAS,Comercial,14
+2013,41298, GARZON,Comercial,1279
+2013,41306, GIGANTE,Comercial,281
+2013,41319, GUADALUPE,Comercial,142
+2013,41349, HOBO,Comercial,75
+2013,41357, IQUIRA,Comercial,62
+2013,41359, ISNOS,Comercial,166
+2013,41378, LA ARGENTINA,Comercial,43
+2013,41396, LA PLATA,Comercial,695
+2013,41483, NATAGA,Comercial,37
+2013,41503, OPORAPA,Comercial,42
+2013,41518, PAICOL,Comercial,28
+2013,41524, PALERMO,Comercial,423
+2013,41530, PALESTINA,Comercial,67
+2013,41548, PITAL,Comercial,104
+2013,41551, PITALITO,Comercial,2749
+2013,41615, RIVERA,Comercial,228
+2013,41660, SALADO BLANCO,Comercial,65
+2013,41668, SAN AGUSTIN,Comercial,338
+2013,41676, SANTAMARIA,Comercial,85
+2013,41770, SUAZA,Comercial,123
+2013,41791, TARQUI,Comercial,108
+2013,41799, TELLO,Comercial,39
+2013,41801, TERUEL,Comercial,68
+2013,41797, TESALIA,Comercial,92
+2013,41807, TIMANA,Comercial,220
+2013,41872, VILLAVIEJA,Comercial,23
+2013,41885, YAGUARA,Comercial,88
+2014,41001, NEIVA,Comercial,9000
+2014,41006, ACEVEDO,Comercial,213
+2014,41013, AGRADO,Comercial,92
+2014,41016, AIPE,Comercial,175
+2014,41020, ALGECIRAS,Comercial,205
+2014,41026, ALTAMIRA,Comercial,71
+2014,41078, BARAYA,Comercial,66
+2014,41132, CAMPOALEGRE,Comercial,445
+2014,41206, COLOMBIA,Comercial,35
+2014,41244, ELIAS,Comercial,14
+2014,41298, GARZON,Comercial,1322
+2014,41306, GIGANTE,Comercial,287
+2014,41319, GUADALUPE,Comercial,150
+2014,41349, HOBO,Comercial,78
+2014,41357, IQUIRA,Comercial,63
+2014,41359, ISNOS,Comercial,175
+2014,41378, LA ARGENTINA,Comercial,45
+2014,41396, LA PLATA,Comercial,732
+2014,41483, NATAGA,Comercial,37
+2014,41503, OPORAPA,Comercial,39
+2014,41518, PAICOL,Comercial,30
+2014,41524, PALERMO,Comercial,441
+2014,41530, PALESTINA,Comercial,68
+2014,41548,PITAL,Comercial,108
+2014,41551, PITALITO,Comercial,2915
+2014,41615, RIVERA,Comercial,256
+2014,41660, SALADO BLANCO,Comercial,65
+2014,41668, SAN AGUSTIN,Comercial,350
+2014,41676, SANTAMARIA,Comercial,97
+2014,41770, SUAZA,Comercial,134
+2014,41791, TARQUI,Comercial,115
+2014,41799, TELLO,Comercial,42
+2014,41801, TERUEL,Comercial,69
+2014,41797, TESALIA,Comercial,94
+2014,41807, TIMANA,Comercial,226
+2014,41872, VILLAVIEJA,Comercial,29
+2014,41885, YAGUARA,Comercial,108
+2015,41001,Neiva,Comercial,19336
+2015,41006,Acevedo,Comercial,292
+2015,41013,Agrado,Comercial,101
+2015,41016,Aipe,Comercial,320
+2015,41020,Algeciras,Comercial,344
+2015,41026,Altamira,Comercial,94
+2015,41078,Baraya,Comercial,129
+2015,41132,Campoalegre,Comercial,723
+2015,41206,Colombia,Comercial,85
+2015,41244,Elías,Comercial,21
+2015,41298,Garzón,Comercial,3420
+2015,41306,Gigante,Comercial,328
+2015,41319,Guadalupe,Comercial,166
+2015,41349,Hobo,Comercial,202
+2015,41357,Iquira,Comercial,123
+2015,41359,Isnos,Comercial,215
+2015,41378,La Argentina,Comercial,54
+2015,41396,La Plata,Comercial,1724
+2015,41483,Nátaga,Comercial,51
+2015,41503,Oporapa,Comercial,45
+2015,41518,Paicol,Comercial,43
+2015,41524,Palermo,Comercial,488
+2015,41530,Palestina,Comercial,135
+2015,41548,PITAL,Comercial,127
+2015,41551,Pitalito,Comercial,8408
+2015,41615,Rivera,Comercial,518
+2015,41660,Saladoblanco,Comercial,83
+2015,41668,San Agustín,Comercial,418
+2015,41676,Santa María,Comercial,182
+2015,41770,Suaza,Comercial,151
+2015,41791,Tarqui,Comercial,127
+2015,41799,Tello,Comercial,109
+2015,41801,Teruel,Comercial,150
+2015,41797,Tesalia,Comercial,111
+2015,41807,Timaná,Comercial,272
+2015,41872,Villavieja,Comercial,145
+2015,41885,Yaguará,Comercial,216
+2016,41001,Neiva,Comercial,9985
+2016,41006,Acevedo,Comercial,253
+2016,41013,Agrado,Comercial,101
+2016,41016,Aipe,Comercial,194
+2016,41020,Algeciras,Comercial,248
+2016,41026,Altamira,Comercial,90
+2016,41078,Baraya,Comercial,73
+2016,41132,Campoalegre,Comercial,504
+2016,41206,Colombia,Comercial,38
+2016,41244,Elías,Comercial,23
+2016,41298,Garzón,Comercial,1423
+2016,41306,Gigante,Comercial,329
+2016,41319,Guadalupe,Comercial,179
+2016,41349,Hobo,Comercial,95
+2016,41357,Iquira,Comercial,75
+2016,41359,Isnos,Comercial,224
+2016,41378,La Argentina,Comercial,49
+2016,41396,La Plata,Comercial,780
+2016,41483,Nátaga,Comercial,40
+2016,41503,Oporapa,Comercial,43
+2016,41518,Paicol,Comercial,32
+2016,41524,Palermo,Comercial,512
+2016,41530,Palestina,Comercial,77
+2016,41548,PITAL,Comercial,123
+2016,41551,Pitalito,Comercial,3095
+2016,41615,Rivera,Comercial,311
+2016,41660,Saladoblanco,Comercial,85
+2016,41668,San Agustín,Comercial,397
+2016,41676,Santa María,Comercial,114
+2016,41770,Suaza,Comercial,165
+2016,41791,Tarqui,Comercial,127
+2016,41799,Tello,Comercial,49
+2016,41801,Teruel,Comercial,78
+2016,41797,Tesalia,Comercial,95
+2016,41807,Timaná,Comercial,239
+2016,41872,Villavieja,Comercial,38
+2016,41885,Yaguará,Comercial,118
 2017,41001,Neiva,Comercial,10463
 2017,41006,Acevedo,Comercial,279
 2017,41013,Agrado,Comercial,107
@@ -268,8 +379,8 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41132,Campoalegre,Comercial,519
 2017,41206,Colombia,Comercial,42
 2017,41548,El Pital,Comercial,144
-2017,41244,Elias,Comercial,25
-2017,41298,Garzon,Comercial,1486
+2017,41244,Elías,Comercial,25
+2017,41298,Garzón,Comercial,1486
 2017,41306,Gigante,Comercial,398
 2017,41319,Guadalupe,Comercial,206
 2017,41349,Hobo,Comercial,93
@@ -277,7 +388,7 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41359,Isnos,Comercial,248
 2017,41378,La Argentina,Comercial,50
 2017,41396,La Plata,Comercial,805
-2017,41483,Nataga,Comercial,40
+2017,41483,Nátaga,Comercial,40
 2017,41503,Oporapa,Comercial,48
 2017,41518,Paicol,Comercial,34
 2017,41524,Palermo,Comercial,539
@@ -285,201 +396,201 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41551,Pitalito,Comercial,3313
 2017,41615,Rivera,Comercial,321
 2017,41660,Saladoblanco,Comercial,101
-2017,41668,San Agustin,Comercial,405
-2017,41676,Santa Maria,Comercial,117
+2017,41668,San Agustín,Comercial,405
+2017,41676,Santa María,Comercial,117
 2017,41770,Suaza,Comercial,173
 2017,41791,Tarqui,Comercial,137
 2017,41799,Tello,Comercial,53
 2017,41801,Teruel,Comercial,82
 2017,41797,Tesalia,Comercial,97
-2017,41807,Timana,Comercial,242
+2017,41807,Timaná,Comercial,242
 2017,41872,Villavieja,Comercial,39
-2017,41885,Yaguara,Comercial,122
-2016,41001,Neiva,Comercial,9985
-2016,41006,Acevedo,Comercial,253
-2016,41013,Agrado,Comercial,101
-2016,41016,Aipe,Comercial,194
-2016,41020,Algeciras,Comercial,248
-2016,41026,Altamira,Comercial,90
-2016,41078,Baraya,Comercial,73
-2016,41132,Campoalegre,Comercial,504
-2016,41206,Colombia,Comercial,38
-2016,41244,Elias,Comercial,23
-2016,41298,Garzon,Comercial,1423
-2016,41306,Gigante,Comercial,329
-2016,41319,Guadalupe,Comercial,179
-2016,41349,Hobo,Comercial,95
-2016,41357,Iquira,Comercial,75
-2016,41359,Isnos,Comercial,224
-2016,41378,La Argentina,Comercial,49
-2016,41396,La Plata,Comercial,780
-2016,41483,Nataga,Comercial,40
-2016,41503,Oporapa,Comercial,43
-2016,41518,Paicol,Comercial,32
-2016,41524,Palermo,Comercial,512
-2016,41530,Palestina,Comercial,77
-2016,41548,Pital,Comercial,123
-2016,41551,Pitalito,Comercial,3095
-2016,41615,Rivera,Comercial,311
-2016,41660,Saladoblanco,Comercial,85
-2016,41668,San Agustin,Comercial,397
-2016,41676,Santa Maria,Comercial,114
-2016,41770,Suaza,Comercial,165
-2016,41791,Tarqui,Comercial,127
-2016,41799,Tello,Comercial,49
-2016,41801,Teruel,Comercial,78
-2016,41797,Tesalia,Comercial,95
-2016,41807,Timana,Comercial,239
-2016,41872,Villavieja,Comercial,38
-2016,41885,Yaguara,Comercial,118
-2015,41001,Neiva,Comercial,19336
-2015,41006,Acevedo,Comercial,292
-2015,41013,Agrado,Comercial,101
-2015,41016,Aipe,Comercial,320
-2015,41020,Algeciras,Comercial,344
-2015,41026,Altamira,Comercial,94
-2015,41078,Baraya,Comercial,129
-2015,41132,Campoalegre,Comercial,723
-2015,41206,Colombia,Comercial,85
-2015,41244,Elias,Comercial,127
-2015,41298,Garzon,Comercial,21
-2015,41306,Gigante,Comercial,3420
-2015,41319,Guadalupe,Comercial,328
-2015,41349,Hobo,Comercial,166
-2015,41357,Iquira,Comercial,202
-2015,41359,Isnos,Comercial,123
-2015,41378,La Argentina,Comercial,215
-2015,41396,La Plata,Comercial,54
-2015,41483,Nataga,Comercial,1724
-2015,41503,Oporapa,Comercial,51
-2015,41518,Paicol,Comercial,45
-2015,41524,Palermo,Comercial,43
-2015,41530,Palestina,Comercial,488
-2015,41548,Pital,Comercial,135
-2015,41551,Pitalito,Comercial,8408
-2015,41615,Rivera,Comercial,518
-2015,41660,Saladoblanco,Comercial,83
-2015,41668,San Agustin,Comercial,418
-2015,41676,Santa Maria,Comercial,182
-2015,41770,Suaza,Comercial,151
-2015,41791,Tarqui,Comercial,127
-2015,41799,Tello,Comercial,109
-2015,41801,Teruel,Comercial,150
-2015,41797,Tesalia,Comercial,111
-2015,41807,Timana,Comercial,272
-2015,41872,Villavieja,Comercial,145
-2015,41885,Yaguara,Comercial,216
-2014,41001, NEIVA,Comercial,9000
-2014,41006, ACEVEDO,Comercial,213
-2014,41013, AGRADO,Comercial,92
-2014,41016, AIPE,Comercial,175
-2014,41020, ALGECIRAS,Comercial,205
-2014,41026, ALTAMIRA,Comercial,71
-2014,41078, BARAYA,Comercial,66
-2014,41132, CAMPOALEGRE,Comercial,445
-2014,41206, COLOMBIA,Comercial,35
-2014,41244,Elias,Comercial,14
-2014,41298,Garzon,Comercial,1322
-2014,41306, GIGANTE,Comercial,287
-2014,41319, GUADALUPE,Comercial,150
-2014,41349, HOBO,Comercial,78
-2014,41357, IQUIRA,Comercial,63
-2014,41359, ISNOS,Comercial,175
-2014,41378, LA ARGENTINA,Comercial,45
-2014,41396, LA PLATA,Comercial,732
-2014,41483,Nataga,Comercial,37
-2014,41503, OPORAPA,Comercial,39
-2014,41518, PAICOL,Comercial,30
-2014,41524, PALERMO,Comercial,441
-2014,41530, PALESTINA,Comercial,68
-2014,41548,Pital,Comercial,108
-2014,41551, PITALITO,Comercial,2915
-2014,41615, RIVERA,Comercial,256
-2014,41660,Saladoblanco,Comercial,65
-2014,41668,San Agustin,Comercial,350
-2014,41676,Santa Maria,Comercial,97
-2014,41770, SUAZA,Comercial,134
-2014,41791, TARQUI,Comercial,115
-2014,41799, TELLO,Comercial,42
-2014,41801, TERUEL,Comercial,69
-2014,41797, TESALIA,Comercial,94
-2014,41807,Timana,Comercial,226
-2014,41872, VILLAVIEJA,Comercial,29
-2014,41885,Yaguara,Comercial,108
-2013,41001, NEIVA,Comercial,8711
-2013,41006, ACEVEDO,Comercial,201
-2013,41013, AGRADO,Comercial,84
-2013,41016, AIPE,Comercial,176
-2013,41020, ALGECIRAS,Comercial,189
-2013,41026, ALTAMIRA,Comercial,66
-2013,41078, BARAYA,Comercial,71
-2013,41132, CAMPOALEGRE,Comercial,431
-2013,41206, COLOMBIA,Comercial,34
-2013,41244, EL PITAL,Comercial,104
-2013,41298,Elias,Comercial,14
-2013,41306,Garzon,Comercial,1279
-2013,41319, GIGANTE,Comercial,281
-2013,41349, GUADALUPE,Comercial,142
-2013,41357, HOBO,Comercial,75
-2013,41359, IQUIRA,Comercial,62
-2013,41378, ISNOS,Comercial,166
-2013,41396, LA ARGENTINA,Comercial,43
-2013,41483, LA PLATA,Comercial,695
-2013,41503,Nataga,Comercial,37
-2013,41518, OPORAPA,Comercial,42
-2013,41524, PAICOL,Comercial,28
-2013,41530, PALERMO,Comercial,423
-2013,41548, PALESTINA,Comercial,67
-2013,41551, PITALITO,Comercial,2749
-2013,41615, RIVERA,Comercial,228
-2013,41660,Saladoblanco,Comercial,65
-2013,41668,San Agustin,Comercial,338
-2013,41676,Santa Maria,Comercial,85
-2013,41770, SUAZA,Comercial,123
-2013,41791, TARQUI,Comercial,108
-2013,41799, TELLO,Comercial,39
-2013,41801, TERUEL,Comercial,68
-2013,41797, TESALIA,Comercial,92
-2013,41807,Timana,Comercial,220
-2013,41872, VILLAVIEJA,Comercial,23
-2013,41885,Yaguara,Comercial,88
-2018,41001,Neiva,Oficial,456
-2018,41006,Acevedo,Oficial,115
-2018,41013,Agrado,Oficial,74
-2018,41016,Aipe,Oficial,87
-2018,41020,Algeciras,Oficial,100
-2018,41026,Altamira,Oficial,28
-2018,41078,Baraya,Oficial,64
-2018,41132,Campoalegre,Oficial,85
-2018,41206,Colombia,Oficial,80
-2018,41244,Elias,Oficial,31
-2018,41298,Garzon,Oficial,171
-2018,41306,Gigante,Oficial,103
-2018,41319,Guadalupe,Oficial,84
-2018,41349,Hobo,Oficial,20
-2018,41357,Iquira,Oficial,66
-2018,41359,Isnos,Oficial,85
-2018,41378,La Argentina,Oficial,54
-2018,41396,La Plata,Oficial,253
-2018,41483,Nataga,Oficial,78
-2018,41503,Oporapa,Oficial,54
-2018,41518,Paicol,Oficial,57
-2018,41524,Palermo,Oficial,120
-2018,41530,Palestina,Oficial,58
-2018,41548,Pital,Oficial,75
-2018,41551,Pitalito,Oficial,257
-2018,41615,Rivera,Oficial,56
-2018,41660,Saladoblanco,Oficial,66
-2018,41668,San Agustin,Oficial,127
-2018,41676,Santa Maria,Oficial,67
-2018,41770,Suaza,Oficial,93
-2018,41791,Tarqui,Oficial,81
-2018,41799,Tello,Oficial,76
-2018,41801,Teruel,Oficial,49
-2018,41797,Tesalia,Oficial,59
-2018,41807,Timana,Oficial,66
-2018,41872,Villavieja,Oficial,46
-2018,41885,Yaguara,Oficial,45
+2017,41885,Yaguará,Comercial,122
+2018,41001,Neiva,Comercial,10803
+2018,41006,Acevedo,Comercial,303
+2018,41013,Agrado,Comercial,109
+2018,41016,Aipe,Comercial,209
+2018,41020,Algeciras,Comercial,284
+2018,41026,Altamira,Comercial,97
+2018,41078,Baraya,Comercial,76
+2018,41132,Campoalegre,Comercial,534
+2018,41206,Colombia,Comercial,44
+2018,41244,Elías,Comercial,27
+2018,41298,Garzón,Comercial,1512
+2018,41306,Gigante,Comercial,406
+2018,41319,Guadalupe,Comercial,220
+2018,41349,Hobo,Comercial,94
+2018,41357,Iquira,Comercial,82
+2018,41359,Isnos,Comercial,269
+2018,41378,La Argentina,Comercial,52
+2018,41396,La Plata,Comercial,813
+2018,41483,Nátaga,Comercial,39
+2018,41503,Oporapa,Comercial,54
+2018,41518,Paicol,Comercial,38
+2018,41524,Palermo,Comercial,574
+2018,41530,Palestina,Comercial,84
+2018,41548,PITAL,Comercial,142
+2018,41551,Pitalito,Comercial,3520
+2018,41615,Rivera,Comercial,345
+2018,41660,Saladoblanco,Comercial,111
+2018,41668,San Agustín,Comercial,448
+2018,41676,Santa María,Comercial,123
+2018,41770,Suaza,Comercial,183
+2018,41791,Tarqui,Comercial,144
+2018,41799,Tello,Comercial,63
+2018,41801,Teruel,Comercial,109
+2018,41797,Tesalia,Comercial,98
+2018,41807,Timaná,Comercial,256
+2018,41872,Villavieja,Comercial,44
+2018,41885,Yaguará,Comercial,126
+2013,41001, NEIVA,Oficial,415
+2013,41006, ACEVEDO,Oficial,102
+2013,41013, AGRADO,Oficial,35
+2013,41016, AIPE,Oficial,92
+2013,41020, ALGECIRAS,Oficial,92
+2013,41026, ALTAMIRA,Oficial,23
+2013,41078, BARAYA,Oficial,61
+2013,41132, CAMPOALEGRE,Oficial,84
+2013,41206, COLOMBIA,Oficial,80
+2013,41244, ELIAS,Oficial,29
+2013,41298, GARZON,Oficial,161
+2013,41306, GIGANTE,Oficial,79
+2013,41319, GUADALUPE,Oficial,70
+2013,41349, HOBO,Oficial,18
+2013,41357, IQUIRA,Oficial,62
+2013,41359, ISNOS,Oficial,84
+2013,41378, LA ARGENTINA,Oficial,48
+2013,41396, LA PLATA,Oficial,228
+2013,41483, NATAGA,Oficial,73
+2013,41503, OPORAPA,Oficial,46
+2013,41518, PAICOL,Oficial,52
+2013,41524, PALERMO,Oficial,122
+2013,41530, PALESTINA,Oficial,49
+2013,41548, PITAL,Oficial,69
+2013,41551, PITALITO,Oficial,214
+2013,41615, RIVERA,Oficial,53
+2013,41660, SALADO BLANCO,Oficial,56
+2013,41668, SAN AGUSTIN,Oficial,122
+2013,41676, SANTAMARIA,Oficial,63
+2013,41770, SUAZA,Oficial,74
+2013,41791, TARQUI,Oficial,73
+2013,41799, TELLO,Oficial,74
+2013,41801, TERUEL,Oficial,48
+2013,41797, TESALIA,Oficial,53
+2013,41807, TIMANA,Oficial,60
+2013,41872, VILLAVIEJA,Oficial,48
+2013,41885, YAGUARA,Oficial,36
+2014,41001, NEIVA,Oficial,404
+2014,41006, ACEVEDO,Oficial,103
+2014,41013, AGRADO,Oficial,36
+2014,41016, AIPE,Oficial,86
+2014,41020, ALGECIRAS,Oficial,93
+2014,41026, ALTAMIRA,Oficial,22
+2014,41078, BARAYA,Oficial,59
+2014,41132, CAMPOALEGRE,Oficial,84
+2014,41206, COLOMBIA,Oficial,81
+2014,41244, ELIAS,Oficial,31
+2014,41298, GARZON,Oficial,165
+2014,41306, GIGANTE,Oficial,81
+2014,41319, GUADALUPE,Oficial,72
+2014,41349, HOBO,Oficial,18
+2014,41357, IQUIRA,Oficial,64
+2014,41359, ISNOS,Oficial,85
+2014,41378, LA ARGENTINA,Oficial,48
+2014,41396, LA PLATA,Oficial,236
+2014,41483, NATAGA,Oficial,74
+2014,41503, OPORAPA,Oficial,47
+2014,41518, PAICOL,Oficial,51
+2014,41524, PALERMO,Oficial,117
+2014,41530, PALESTINA,Oficial,52
+2014,41548,PITAL,Oficial,69
+2014,41551, PITALITO,Oficial,216
+2014,41615, RIVERA,Oficial,57
+2014,41660, SALADO BLANCO,Oficial,55
+2014,41668, SAN AGUSTIN,Oficial,124
+2014,41676, SANTAMARIA,Oficial,62
+2014,41770, SUAZA,Oficial,75
+2014,41791, TARQUI,Oficial,74
+2014,41799, TELLO,Oficial,75
+2014,41801, TERUEL,Oficial,49
+2014,41797, TESALIA,Oficial,53
+2014,41807, TIMANA,Oficial,62
+2014,41872, VILLAVIEJA,Oficial,48
+2014,41885, YAGUARA,Oficial,37
+2015,41001,Neiva,Oficial,632
+2015,41006,Acevedo,Oficial,140
+2015,41013,Agrado,Oficial,46
+2015,41016,Aipe,Oficial,100
+2015,41020,Algeciras,Oficial,104
+2015,41026,Altamira,Oficial,27
+2015,41078,Baraya,Oficial,74
+2015,41132,Campoalegre,Oficial,112
+2015,41206,Colombia,Oficial,84
+2015,41244,Elías,Oficial,38
+2015,41298,Garzón,Oficial,209
+2015,41306,Gigante,Oficial,104
+2015,41319,Guadalupe,Oficial,77
+2015,41349,Hobo,Oficial,21
+2015,41357,Iquira,Oficial,78
+2015,41359,Isnos,Oficial,121
+2015,41378,La Argentina,Oficial,54
+2015,41396,La Plata,Oficial,270
+2015,41483,Nátaga,Oficial,77
+2015,41503,Oporapa,Oficial,64
+2015,41518,Paicol,Oficial,54
+2015,41524,Palermo,Oficial,142
+2015,41530,Palestina,Oficial,97
+2015,41548,PITAL,Oficial,76
+2015,41551,Pitalito,Oficial,348
+2015,41615,Rivera,Oficial,71
+2015,41660,Saladoblanco,Oficial,71
+2015,41668,San Agustín,Oficial,183
+2015,41676,Santa María,Oficial,76
+2015,41770,Suaza,Oficial,79
+2015,41791,Tarqui,Oficial,87
+2015,41799,Tello,Oficial,88
+2015,41801,Teruel,Oficial,51
+2015,41797,Tesalia,Oficial,57
+2015,41807,Timaná,Oficial,90
+2015,41872,Villavieja,Oficial,58
+2015,41885,Yaguará,Oficial,52
+2016,41001,Neiva,Oficial,441
+2016,41006,Acevedo,Oficial,115
+2016,41013,Agrado,Oficial,72
+2016,41016,Aipe,Oficial,86
+2016,41020,Algeciras,Oficial,96
+2016,41026,Altamira,Oficial,26
+2016,41078,Baraya,Oficial,63
+2016,41132,Campoalegre,Oficial,85
+2016,41206,Colombia,Oficial,78
+2016,41244,Elías,Oficial,31
+2016,41298,Garzón,Oficial,169
+2016,41306,Gigante,Oficial,100
+2016,41319,Guadalupe,Oficial,77
+2016,41349,Hobo,Oficial,18
+2016,41357,Iquira,Oficial,66
+2016,41359,Isnos,Oficial,84
+2016,41378,La Argentina,Oficial,51
+2016,41396,La Plata,Oficial,248
+2016,41483,Nátaga,Oficial,77
+2016,41503,Oporapa,Oficial,54
+2016,41518,Paicol,Oficial,51
+2016,41524,Palermo,Oficial,124
+2016,41530,Palestina,Oficial,57
+2016,41548,PITAL,Oficial,70
+2016,41551,Pitalito,Oficial,253
+2016,41615,Rivera,Oficial,55
+2016,41660,Saladoblanco,Oficial,60
+2016,41668,San Agustín,Oficial,123
+2016,41676,Santa María,Oficial,65
+2016,41770,Suaza,Oficial,84
+2016,41791,Tarqui,Oficial,81
+2016,41799,Tello,Oficial,73
+2016,41801,Teruel,Oficial,47
+2016,41797,Tesalia,Oficial,53
+2016,41807,Timaná,Oficial,67
+2016,41872,Villavieja,Oficial,46
+2016,41885,Yaguará,Oficial,38
 2017,41001,Neiva,Oficial,444
 2017,41006,Acevedo,Oficial,113
 2017,41013,Agrado,Oficial,74
@@ -490,8 +601,8 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41132,Campoalegre,Oficial,82
 2017,41206,Colombia,Oficial,78
 2017,41548,El Pital,Oficial,73
-2017,41244,Elias,Oficial,31
-2017,41298,Garzon,Oficial,174
+2017,41244,Elías,Oficial,31
+2017,41298,Garzón,Oficial,174
 2017,41306,Gigante,Oficial,102
 2017,41319,Guadalupe,Oficial,82
 2017,41349,Hobo,Oficial,19
@@ -499,7 +610,7 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41359,Isnos,Oficial,84
 2017,41378,La Argentina,Oficial,50
 2017,41396,La Plata,Oficial,256
-2017,41483,Nataga,Oficial,78
+2017,41483,Nátaga,Oficial,78
 2017,41503,Oporapa,Oficial,54
 2017,41518,Paicol,Oficial,52
 2017,41524,Palermo,Oficial,120
@@ -507,605 +618,494 @@ VIGENCIA,CODIGO DANE,MUNICIPIOS,USUARIOS,Valor
 2017,41551,Pitalito,Oficial,256
 2017,41615,Rivera,Oficial,55
 2017,41660,Saladoblanco,Oficial,62
-2017,41668,San Agustin,Oficial,126
-2017,41676,Santa Maria,Oficial,66
+2017,41668,San Agustín,Oficial,126
+2017,41676,Santa María,Oficial,66
 2017,41770,Suaza,Oficial,89
 2017,41791,Tarqui,Oficial,80
 2017,41799,Tello,Oficial,72
 2017,41801,Teruel,Oficial,47
 2017,41797,Tesalia,Oficial,57
-2017,41807,Timana,Oficial,69
+2017,41807,Timaná,Oficial,69
 2017,41872,Villavieja,Oficial,46
-2017,41885,Yaguara,Oficial,39
-2016,41001,Neiva,Oficial,441
-2016,41006,Acevedo,Oficial,115
-2016,41013,Agrado,Oficial,72
-2016,41016,Aipe,Oficial,86
-2016,41020,Algeciras,Oficial,96
-2016,41026,Altamira,Oficial,26
-2016,41078,Baraya,Oficial,63
-2016,41132,Campoalegre,Oficial,85
-2016,41206,Colombia,Oficial,78
-2016,41244,Elias,Oficial,31
-2016,41298,Garzon,Oficial,169
-2016,41306,Gigante,Oficial,100
-2016,41319,Guadalupe,Oficial,77
-2016,41349,Hobo,Oficial,18
-2016,41357,Iquira,Oficial,66
-2016,41359,Isnos,Oficial,84
-2016,41378,La Argentina,Oficial,51
-2016,41396,La Plata,Oficial,248
-2016,41483,Nataga,Oficial,77
-2016,41503,Oporapa,Oficial,54
-2016,41518,Paicol,Oficial,51
-2016,41524,Palermo,Oficial,124
-2016,41530,Palestina,Oficial,57
-2016,41548,Pital,Oficial,70
-2016,41551,Pitalito,Oficial,253
-2016,41615,Rivera,Oficial,55
-2016,41660,Saladoblanco,Oficial,60
-2016,41668,San Agustin,Oficial,123
-2016,41676,Santa Maria,Oficial,65
-2016,41770,Suaza,Oficial,84
-2016,41791,Tarqui,Oficial,81
-2016,41799,Tello,Oficial,73
-2016,41801,Teruel,Oficial,47
-2016,41797,Tesalia,Oficial,53
-2016,41807,Timana,Oficial,67
-2016,41872,Villavieja,Oficial,46
-2016,41885,Yaguara,Oficial,38
-2015,41001,Neiva,Oficial,632
-2015,41006,Acevedo,Oficial,140
-2015,41013,Agrado,Oficial,46
-2015,41016,Aipe,Oficial,100
-2015,41020,Algeciras,Oficial,104
-2015,41026,Altamira,Oficial,27
-2015,41078,Baraya,Oficial,74
-2015,41132,Campoalegre,Oficial,112
-2015,41206,Colombia,Oficial,84
-2015,41244,Elias,Oficial,76
-2015,41298,Garzon,Oficial,38
-2015,41306,Gigante,Oficial,209
-2015,41319,Guadalupe,Oficial,104
-2015,41349,Hobo,Oficial,77
-2015,41357,Iquira,Oficial,21
-2015,41359,Isnos,Oficial,78
-2015,41378,La Argentina,Oficial,121
-2015,41396,La Plata,Oficial,54
-2015,41483,Nataga,Oficial,270
-2015,41503,Oporapa,Oficial,77
-2015,41518,Paicol,Oficial,64
-2015,41524,Palermo,Oficial,54
-2015,41530,Palestina,Oficial,142
-2015,41548,Pital,Oficial,97
-2015,41551,Pitalito,Oficial,348
-2015,41615,Rivera,Oficial,71
-2015,41660,Saladoblanco,Oficial,71
-2015,41668,San Agustin,Oficial,183
-2015,41676,Santa Maria,Oficial,76
-2015,41770,Suaza,Oficial,79
-2015,41791,Tarqui,Oficial,87
-2015,41799,Tello,Oficial,88
-2015,41801,Teruel,Oficial,51
-2015,41797,Tesalia,Oficial,57
-2015,41807,Timana,Oficial,90
-2015,41872,Villavieja,Oficial,58
-2015,41885,Yaguara,Oficial,52
-2014,41001, NEIVA,Oficial,404
-2014,41006, ACEVEDO,Oficial,103
-2014,41013, AGRADO,Oficial,36
-2014,41016, AIPE,Oficial,86
-2014,41020, ALGECIRAS,Oficial,93
-2014,41026, ALTAMIRA,Oficial,22
-2014,41078, BARAYA,Oficial,59
-2014,41132, CAMPOALEGRE,Oficial,84
-2014,41206, COLOMBIA,Oficial,81
-2014,41244,Elias,Oficial,31
-2014,41298,Garzon,Oficial,165
-2014,41306, GIGANTE,Oficial,81
-2014,41319, GUADALUPE,Oficial,72
-2014,41349, HOBO,Oficial,18
-2014,41357, IQUIRA,Oficial,64
-2014,41359, ISNOS,Oficial,85
-2014,41378, LA ARGENTINA,Oficial,48
-2014,41396, LA PLATA,Oficial,236
-2014,41483,Nataga,Oficial,74
-2014,41503, OPORAPA,Oficial,47
-2014,41518, PAICOL,Oficial,51
-2014,41524, PALERMO,Oficial,117
-2014,41530, PALESTINA,Oficial,52
-2014,41548,Pital,Oficial,69
-2014,41551, PITALITO,Oficial,216
-2014,41615, RIVERA,Oficial,57
-2014,41660,Saladoblanco,Oficial,55
-2014,41668,San Agustin,Oficial,124
-2014,41676,Santa Maria,Oficial,62
-2014,41770, SUAZA,Oficial,75
-2014,41791, TARQUI,Oficial,74
-2014,41799, TELLO,Oficial,75
-2014,41801, TERUEL,Oficial,49
-2014,41797, TESALIA,Oficial,53
-2014,41807,Timana,Oficial,62
-2014,41872, VILLAVIEJA,Oficial,48
-2014,41885,Yaguara,Oficial,37
-2013,41001, NEIVA,Oficial,415
-2013,41006, ACEVEDO,Oficial,102
-2013,41013, AGRADO,Oficial,35
-2013,41016, AIPE,Oficial,92
-2013,41020, ALGECIRAS,Oficial,92
-2013,41026, ALTAMIRA,Oficial,23
-2013,41078, BARAYA,Oficial,61
-2013,41132, CAMPOALEGRE,Oficial,84
-2013,41206, COLOMBIA,Oficial,80
-2013,41244, EL PITAL,Oficial,69
-2013,41298,Elias,Oficial,29
-2013,41306,Garzon,Oficial,161
-2013,41319, GIGANTE,Oficial,79
-2013,41349, GUADALUPE,Oficial,70
-2013,41357, HOBO,Oficial,18
-2013,41359, IQUIRA,Oficial,62
-2013,41378, ISNOS,Oficial,84
-2013,41396, LA ARGENTINA,Oficial,48
-2013,41483, LA PLATA,Oficial,228
-2013,41503,Nataga,Oficial,73
-2013,41518, OPORAPA,Oficial,46
-2013,41524, PAICOL,Oficial,52
-2013,41530, PALERMO,Oficial,122
-2013,41548, PALESTINA,Oficial,49
-2013,41551, PITALITO,Oficial,214
-2013,41615, RIVERA,Oficial,53
-2013,41660,Saladoblanco,Oficial,56
-2013,41668,San Agustin,Oficial,122
-2013,41676,Santa Maria,Oficial,63
-2013,41770, SUAZA,Oficial,74
-2013,41791, TARQUI,Oficial,73
-2013,41799, TELLO,Oficial,74
-2013,41801, TERUEL,Oficial,48
-2013,41797, TESALIA,Oficial,53
-2013,41807,Timana,Oficial,60
-2013,41872, VILLAVIEJA,Oficial,48
-2013,41885,Yaguara,Oficial,36
-2018,41001,Neiva,Industrial Riego Autoconsumo y Alumbrado Publico,234
-2018,41006,Acevedo,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2018,41013,Agrado,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2018,41016,Aipe,Industrial Riego Autoconsumo y Alumbrado Publico,34
-2018,41020,Algeciras,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2018,41026,Altamira,Industrial Riego Autoconsumo y Alumbrado Publico,17
-2018,41078,Baraya,Industrial Riego Autoconsumo y Alumbrado Publico,11
-2018,41132,Campoalegre,Industrial Riego Autoconsumo y Alumbrado Publico,40
-2018,41206,Colombia,Industrial Riego Autoconsumo y Alumbrado Publico,5
-2018,41244,Elias,Industrial Riego Autoconsumo y Alumbrado Publico,1
-2018,41298,Garzon,Industrial Riego Autoconsumo y Alumbrado Publico,81
-2018,41306,Gigante,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2018,41319,Guadalupe,Industrial Riego Autoconsumo y Alumbrado Publico,16
-2018,41349,Hobo,Industrial Riego Autoconsumo y Alumbrado Publico,11
-2018,41357,Iquira,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2018,41359,Isnos,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2018,41378,La Argentina,Industrial Riego Autoconsumo y Alumbrado Publico,13
-2018,41396,La Plata,Industrial Riego Autoconsumo y Alumbrado Publico,80
-2018,41483,Nataga,Industrial Riego Autoconsumo y Alumbrado Publico,7
-2018,41503,Oporapa,Industrial Riego Autoconsumo y Alumbrado Publico,3
-2018,41518,Paicol,Industrial Riego Autoconsumo y Alumbrado Publico,6
-2018,41524,Palermo,Industrial Riego Autoconsumo y Alumbrado Publico,124
-2018,41530,Palestina,Industrial Riego Autoconsumo y Alumbrado Publico,4
-2018,41548,Pital,Industrial Riego Autoconsumo y Alumbrado Publico,19
-2018,41551,Pitalito,Industrial Riego Autoconsumo y Alumbrado Publico,100
-2018,41615,Rivera,Industrial Riego Autoconsumo y Alumbrado Publico,27
-2018,41660,Saladoblanco,Industrial Riego Autoconsumo y Alumbrado Publico,1
-2018,41668,San Agustin,Industrial Riego Autoconsumo y Alumbrado Publico,11
-2018,41676,Santa Maria,Industrial Riego Autoconsumo y Alumbrado Publico,4
-2018,41770,Suaza,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2018,41791,Tarqui,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2018,41799,Tello,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2018,41801,Teruel,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2018,41797,Tesalia,Industrial Riego Autoconsumo y Alumbrado Publico,30
-2018,41807,Timana,Industrial Riego Autoconsumo y Alumbrado Publico,13
-2018,41872,Villavieja,Industrial Riego Autoconsumo y Alumbrado Publico,19
-2018,41885,Yaguara,Industrial Riego Autoconsumo y Alumbrado Publico,17
-2017,41001,Neiva,Industrial Riego Autoconsumo y Alumbrado Publico,244
-2017,41006,Acevedo,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2017,41013,Agrado,Industrial Riego Autoconsumo y Alumbrado Publico,11
-2017,41016,Aipe,Industrial Riego Autoconsumo y Alumbrado Publico,34
-2017,41020,Algeciras,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2017,41026,Altamira,Industrial Riego Autoconsumo y Alumbrado Publico,16
-2017,41078,Baraya,Industrial Riego Autoconsumo y Alumbrado Publico,11
-2017,41132,Campoalegre,Industrial Riego Autoconsumo y Alumbrado Publico,43
-2017,41206,Colombia,Industrial Riego Autoconsumo y Alumbrado Publico,5
-2017,41548,El Pital,Industrial Riego Autoconsumo y Alumbrado Publico,19
-2017,41244,Elias,Industrial Riego Autoconsumo y Alumbrado Publico,1
-2017,41298,Garzon,Industrial Riego Autoconsumo y Alumbrado Publico,83
-2017,41306,Gigante,Industrial Riego Autoconsumo y Alumbrado Publico,25
-2017,41319,Guadalupe,Industrial Riego Autoconsumo y Alumbrado Publico,15
-2017,41349,Hobo,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2017,41357,Iquira,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2017,41359,Isnos,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2017,41378,La Argentina,Industrial Riego Autoconsumo y Alumbrado Publico,13
-2017,41396,La Plata,Industrial Riego Autoconsumo y Alumbrado Publico,81
-2017,41483,Nataga,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2017,41503,Oporapa,Industrial Riego Autoconsumo y Alumbrado Publico,4
-2017,41518,Paicol,Industrial Riego Autoconsumo y Alumbrado Publico,7
-2017,41524,Palermo,Industrial Riego Autoconsumo y Alumbrado Publico,125
-2017,41530,Palestina,Industrial Riego Autoconsumo y Alumbrado Publico,3
-2017,41551,Pitalito,Industrial Riego Autoconsumo y Alumbrado Publico,107
-2017,41615,Rivera,Industrial Riego Autoconsumo y Alumbrado Publico,30
-2017,41660,Saladoblanco,Industrial Riego Autoconsumo y Alumbrado Publico,1
-2017,41668,San Agustin,Industrial Riego Autoconsumo y Alumbrado Publico,14
-2017,41676,Santa Maria,Industrial Riego Autoconsumo y Alumbrado Publico,4
-2017,41770,Suaza,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2017,41791,Tarqui,Industrial Riego Autoconsumo y Alumbrado Publico,16
-2017,41799,Tello,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2017,41801,Teruel,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2017,41797,Tesalia,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2017,41807,Timana,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2017,41872,Villavieja,Industrial Riego Autoconsumo y Alumbrado Publico,20
-2017,41885,Yaguara,Industrial Riego Autoconsumo y Alumbrado Publico,16
-2016,41001,Neiva,Industrial Riego Autoconsumo y Alumbrado Publico,264
-2016,41006,Acevedo,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2016,41013,Agrado,Industrial Riego Autoconsumo y Alumbrado Publico,12
-2016,41016,Aipe,Industrial Riego Autoconsumo y Alumbrado Publico,41
-2016,41020,Algeciras,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2016,41026,Altamira,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2016,41078,Baraya,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2016,41132,Campoalegre,Industrial Riego Autoconsumo y Alumbrado Publico,34
-2016,41206,Colombia,Industrial Riego Autoconsumo y Alumbrado Publico,4
-2016,41244,Elias,Industrial Riego Autoconsumo y Alumbrado Publico,1
-2016,41298,Garzon,Industrial Riego Autoconsumo y Alumbrado Publico,81
-2016,41306,Gigante,Industrial Riego Autoconsumo y Alumbrado Publico,23
-2016,41319,Guadalupe,Industrial Riego Autoconsumo y Alumbrado Publico,15
-2016,41349,Hobo,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2016,41357,Iquira,Industrial Riego Autoconsumo y Alumbrado Publico,23
-2016,41359,Isnos,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2016,41378,La Argentina,Industrial Riego Autoconsumo y Alumbrado Publico,13
-2016,41396,La Plata,Industrial Riego Autoconsumo y Alumbrado Publico,79
-2016,41483,Nataga,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2016,41503,Oporapa,Industrial Riego Autoconsumo y Alumbrado Publico,4
-2016,41518,Paicol,Industrial Riego Autoconsumo y Alumbrado Publico,6
-2016,41524,Palermo,Industrial Riego Autoconsumo y Alumbrado Publico,114
-2016,41530,Palestina,Industrial Riego Autoconsumo y Alumbrado Publico,3
-2016,41548,Pital,Industrial Riego Autoconsumo y Alumbrado Publico,19
-2016,41551,Pitalito,Industrial Riego Autoconsumo y Alumbrado Publico,108
-2016,41615,Rivera,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2016,41660,Saladoblanco,Industrial Riego Autoconsumo y Alumbrado Publico,0
-2016,41668,San Agustin,Industrial Riego Autoconsumo y Alumbrado Publico,14
-2016,41676,Santa Maria,Industrial Riego Autoconsumo y Alumbrado Publico,4
-2016,41770,Suaza,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2016,41791,Tarqui,Industrial Riego Autoconsumo y Alumbrado Publico,14
-2016,41799,Tello,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2016,41801,Teruel,Industrial Riego Autoconsumo y Alumbrado Publico,7
-2016,41797,Tesalia,Industrial Riego Autoconsumo y Alumbrado Publico,30
-2016,41807,Timana,Industrial Riego Autoconsumo y Alumbrado Publico,16
-2016,41872,Villavieja,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2016,41885,Yaguara,Industrial Riego Autoconsumo y Alumbrado Publico,19
-2015,41001,Neiva,Industrial Riego Autoconsumo y Alumbrado Publico,511
-2015,41006,Acevedo,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2015,41013,Agrado,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2015,41016,Aipe,Industrial Riego Autoconsumo y Alumbrado Publico,65
-2015,41020,Algeciras,Industrial Riego Autoconsumo y Alumbrado Publico,31
-2015,41026,Altamira,Industrial Riego Autoconsumo y Alumbrado Publico,19
-2015,41078,Baraya,Industrial Riego Autoconsumo y Alumbrado Publico,14
-2015,41132,Campoalegre,Industrial Riego Autoconsumo y Alumbrado Publico,52
-2015,41206,Colombia,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2015,41244,Elias,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2015,41298,Garzon,Industrial Riego Autoconsumo y Alumbrado Publico,6
-2015,41306,Gigante,Industrial Riego Autoconsumo y Alumbrado Publico,135
-2015,41319,Guadalupe,Industrial Riego Autoconsumo y Alumbrado Publico,36
-2015,41349,Hobo,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2015,41357,Iquira,Industrial Riego Autoconsumo y Alumbrado Publico,20
-2015,41359,Isnos,Industrial Riego Autoconsumo y Alumbrado Publico,35
-2015,41378,La Argentina,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2015,41396,La Plata,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2015,41483,Nataga,Industrial Riego Autoconsumo y Alumbrado Publico,104
-2015,41503,Oporapa,Industrial Riego Autoconsumo y Alumbrado Publico,11
-2015,41518,Paicol,Industrial Riego Autoconsumo y Alumbrado Publico,5
-2015,41524,Palermo,Industrial Riego Autoconsumo y Alumbrado Publico,15
-2015,41530,Palestina,Industrial Riego Autoconsumo y Alumbrado Publico,179
-2015,41548,Pital,Industrial Riego Autoconsumo y Alumbrado Publico,5
-2015,41551,Pitalito,Industrial Riego Autoconsumo y Alumbrado Publico,147
-2015,41615,Rivera,Industrial Riego Autoconsumo y Alumbrado Publico,92
-2015,41660,Saladoblanco,Industrial Riego Autoconsumo y Alumbrado Publico,2
-2015,41668,San Agustin,Industrial Riego Autoconsumo y Alumbrado Publico,13
-2015,41676,Santa Maria,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2015,41770,Suaza,Industrial Riego Autoconsumo y Alumbrado Publico,21
-2015,41791,Tarqui,Industrial Riego Autoconsumo y Alumbrado Publico,40
-2015,41799,Tello,Industrial Riego Autoconsumo y Alumbrado Publico,23
-2015,41801,Teruel,Industrial Riego Autoconsumo y Alumbrado Publico,15
-2015,41797,Tesalia,Industrial Riego Autoconsumo y Alumbrado Publico,42
-2015,41807,Timana,Industrial Riego Autoconsumo y Alumbrado Publico,22
-2015,41872,Villavieja,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2015,41885,Yaguara,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2014,41001, NEIVA,Industrial Riego Autoconsumo y Alumbrado Publico,477
-2014,41006, ACEVEDO,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2014,41013, AGRADO,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2014,41016, AIPE,Industrial Riego Autoconsumo y Alumbrado Publico,53
-2014,41020, ALGECIRAS,Industrial Riego Autoconsumo y Alumbrado Publico,30
-2014,41026, ALTAMIRA,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2014,41078, BARAYA,Industrial Riego Autoconsumo y Alumbrado Publico,14
-2014,41132, CAMPOALEGRE,Industrial Riego Autoconsumo y Alumbrado Publico,47
-2014,41206, COLOMBIA,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2014,41244,Elias,Industrial Riego Autoconsumo y Alumbrado Publico,6
-2014,41298,Garzon,Industrial Riego Autoconsumo y Alumbrado Publico,128
-2014,41306, GIGANTE,Industrial Riego Autoconsumo y Alumbrado Publico,36
-2014,41319, GUADALUPE,Industrial Riego Autoconsumo y Alumbrado Publico,28
-2014,41349, HOBO,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2014,41357, IQUIRA,Industrial Riego Autoconsumo y Alumbrado Publico,34
-2014,41359, ISNOS,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2014,41378, LA ARGENTINA,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2014,41396, LA PLATA,Industrial Riego Autoconsumo y Alumbrado Publico,101
-2014,41483,Nataga,Industrial Riego Autoconsumo y Alumbrado Publico,12
-2014,41503, OPORAPA,Industrial Riego Autoconsumo y Alumbrado Publico,6
-2014,41518, PAICOL,Industrial Riego Autoconsumo y Alumbrado Publico,15
-2014,41524, PALERMO,Industrial Riego Autoconsumo y Alumbrado Publico,158
-2014,41530, PALESTINA,Industrial Riego Autoconsumo y Alumbrado Publico,5
-2014,41548,Pital,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2014,41551, PITALITO,Industrial Riego Autoconsumo y Alumbrado Publico,105
-2014,41615, RIVERA,Industrial Riego Autoconsumo y Alumbrado Publico,77
-2014,41660,Saladoblanco,Industrial Riego Autoconsumo y Alumbrado Publico,3
-2014,41668,San Agustin,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2014,41676,Santa Maria,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2014,41770, SUAZA,Industrial Riego Autoconsumo y Alumbrado Publico,20
-2014,41791, TARQUI,Industrial Riego Autoconsumo y Alumbrado Publico,37
-2014,41799, TELLO,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2014,41801, TERUEL,Industrial Riego Autoconsumo y Alumbrado Publico,15
-2014,41797, TESALIA,Industrial Riego Autoconsumo y Alumbrado Publico,38
-2014,41807,Timana,Industrial Riego Autoconsumo y Alumbrado Publico,16
-2014,41872, VILLAVIEJA,Industrial Riego Autoconsumo y Alumbrado Publico,23
-2014,41885,Yaguara,Industrial Riego Autoconsumo y Alumbrado Publico,28
-2013,41001, NEIVA,Industrial Riego Autoconsumo y Alumbrado Publico,443
-2013,41006, ACEVEDO,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2013,41013, AGRADO,Industrial Riego Autoconsumo y Alumbrado Publico,25
-2013,41016, AIPE,Industrial Riego Autoconsumo y Alumbrado Publico,58
-2013,41020, ALGECIRAS,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2013,41026, ALTAMIRA,Industrial Riego Autoconsumo y Alumbrado Publico,19
-2013,41078, BARAYA,Industrial Riego Autoconsumo y Alumbrado Publico,14
-2013,41132, CAMPOALEGRE,Industrial Riego Autoconsumo y Alumbrado Publico,46
-2013,41206, COLOMBIA,Industrial Riego Autoconsumo y Alumbrado Publico,11
-2013,41244, EL PITAL,Industrial Riego Autoconsumo y Alumbrado Publico,29
-2013,41298,Elias,Industrial Riego Autoconsumo y Alumbrado Publico,6
-2013,41306,Garzon,Industrial Riego Autoconsumo y Alumbrado Publico,122
-2013,41319, GIGANTE,Industrial Riego Autoconsumo y Alumbrado Publico,37
-2013,41349, GUADALUPE,Industrial Riego Autoconsumo y Alumbrado Publico,27
-2013,41357, HOBO,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2013,41359, IQUIRA,Industrial Riego Autoconsumo y Alumbrado Publico,34
-2013,41378, ISNOS,Industrial Riego Autoconsumo y Alumbrado Publico,8
-2013,41396, LA ARGENTINA,Industrial Riego Autoconsumo y Alumbrado Publico,18
-2013,41483, LA PLATA,Industrial Riego Autoconsumo y Alumbrado Publico,103
-2013,41503,Nataga,Industrial Riego Autoconsumo y Alumbrado Publico,12
-2013,41518, OPORAPA,Industrial Riego Autoconsumo y Alumbrado Publico,6
-2013,41524, PAICOL,Industrial Riego Autoconsumo y Alumbrado Publico,14
-2013,41530, PALERMO,Industrial Riego Autoconsumo y Alumbrado Publico,154
-2013,41548, PALESTINA,Industrial Riego Autoconsumo y Alumbrado Publico,10
-2013,41551, PITALITO,Industrial Riego Autoconsumo y Alumbrado Publico,102
-2013,41615, RIVERA,Industrial Riego Autoconsumo y Alumbrado Publico,77
-2013,41660,Saladoblanco,Industrial Riego Autoconsumo y Alumbrado Publico,3
-2013,41668,San Agustin,Industrial Riego Autoconsumo y Alumbrado Publico,9
-2013,41676,Santa Maria,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2013,41770, SUAZA,Industrial Riego Autoconsumo y Alumbrado Publico,17
-2013,41791, TARQUI,Industrial Riego Autoconsumo y Alumbrado Publico,37
-2013,41799, TELLO,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2013,41801, TERUEL,Industrial Riego Autoconsumo y Alumbrado Publico,15
-2013,41797, TESALIA,Industrial Riego Autoconsumo y Alumbrado Publico,36
-2013,41807,Timana,Industrial Riego Autoconsumo y Alumbrado Publico,17
-2013,41872, VILLAVIEJA,Industrial Riego Autoconsumo y Alumbrado Publico,24
-2013,41885,Yaguara,Industrial Riego Autoconsumo y Alumbrado Publico,28
-2018,41001,Neiva,Areas Comunes Provisionales Bombeo y Especial,1061
-2018,41006,Acevedo,Areas Comunes Provisionales Bombeo y Especial,45
-2018,41013,Agrado,Areas Comunes Provisionales Bombeo y Especial,12
-2018,41016,Aipe,Areas Comunes Provisionales Bombeo y Especial,25
-2018,41020,Algeciras,Areas Comunes Provisionales Bombeo y Especial,21
-2018,41026,Altamira,Areas Comunes Provisionales Bombeo y Especial,2
-2018,41078,Baraya,Areas Comunes Provisionales Bombeo y Especial,4
-2018,41132,Campoalegre,Areas Comunes Provisionales Bombeo y Especial,24
-2018,41206,Colombia,Areas Comunes Provisionales Bombeo y Especial,7
-2018,41244,Elias,Areas Comunes Provisionales Bombeo y Especial,8
-2018,41298,Garzon,Areas Comunes Provisionales Bombeo y Especial,74
-2018,41306,Gigante,Areas Comunes Provisionales Bombeo y Especial,28
-2018,41319,Guadalupe,Areas Comunes Provisionales Bombeo y Especial,9
-2018,41349,Hobo,Areas Comunes Provisionales Bombeo y Especial,7
-2018,41357,Iquira,Areas Comunes Provisionales Bombeo y Especial,20
-2018,41359,Isnos,Areas Comunes Provisionales Bombeo y Especial,52
-2018,41378,La Argentina,Areas Comunes Provisionales Bombeo y Especial,11
-2018,41396,La Plata,Areas Comunes Provisionales Bombeo y Especial,55
-2018,41483,Nataga,Areas Comunes Provisionales Bombeo y Especial,6
-2018,41503,Oporapa,Areas Comunes Provisionales Bombeo y Especial,14
-2018,41518,Paicol,Areas Comunes Provisionales Bombeo y Especial,10
-2018,41524,Palermo,Areas Comunes Provisionales Bombeo y Especial,88
-2018,41530,Palestina,Areas Comunes Provisionales Bombeo y Especial,48
-2018,41548,Pital,Areas Comunes Provisionales Bombeo y Especial,16
-2018,41551,Pitalito,Areas Comunes Provisionales Bombeo y Especial,254
-2018,41615,Rivera,Areas Comunes Provisionales Bombeo y Especial,75
-2018,41660,Saladoblanco,Areas Comunes Provisionales Bombeo y Especial,18
-2018,41668,San Agustin,Areas Comunes Provisionales Bombeo y Especial,72
-2018,41676,Santa Maria,Areas Comunes Provisionales Bombeo y Especial,13
-2018,41770,Suaza,Areas Comunes Provisionales Bombeo y Especial,8
-2018,41791,Tarqui,Areas Comunes Provisionales Bombeo y Especial,16
-2018,41799,Tello,Areas Comunes Provisionales Bombeo y Especial,18
-2018,41801,Teruel,Areas Comunes Provisionales Bombeo y Especial,5
-2018,41797,Tesalia,Areas Comunes Provisionales Bombeo y Especial,10
-2018,41807,Timana,Areas Comunes Provisionales Bombeo y Especial,37
-2018,41872,Villavieja,Areas Comunes Provisionales Bombeo y Especial,21
-2018,41885,Yaguara,Areas Comunes Provisionales Bombeo y Especial,24
-2017,41001,Neiva,Areas Comunes Provisionales Bombeo y Especial,1035
-2017,41006,Acevedo,Areas Comunes Provisionales Bombeo y Especial,44
-2017,41013,Agrado,Areas Comunes Provisionales Bombeo y Especial,12
-2017,41016,Aipe,Areas Comunes Provisionales Bombeo y Especial,22
-2017,41020,Algeciras,Areas Comunes Provisionales Bombeo y Especial,21
-2017,41026,Altamira,Areas Comunes Provisionales Bombeo y Especial,2
-2017,41078,Baraya,Areas Comunes Provisionales Bombeo y Especial,2
-2017,41132,Campoalegre,Areas Comunes Provisionales Bombeo y Especial,19
-2017,41206,Colombia,Areas Comunes Provisionales Bombeo y Especial,7
-2017,41548,El Pital,Areas Comunes Provisionales Bombeo y Especial,16
-2017,41244,Elias,Areas Comunes Provisionales Bombeo y Especial,9
-2017,41298,Garzon,Areas Comunes Provisionales Bombeo y Especial,69
-2017,41306,Gigante,Areas Comunes Provisionales Bombeo y Especial,28
-2017,41319,Guadalupe,Areas Comunes Provisionales Bombeo y Especial,10
-2017,41349,Hobo,Areas Comunes Provisionales Bombeo y Especial,8
-2017,41357,Iquira,Areas Comunes Provisionales Bombeo y Especial,18
-2017,41359,Isnos,Areas Comunes Provisionales Bombeo y Especial,53
-2017,41378,La Argentina,Areas Comunes Provisionales Bombeo y Especial,10
-2017,41396,La Plata,Areas Comunes Provisionales Bombeo y Especial,57
-2017,41483,Nataga,Areas Comunes Provisionales Bombeo y Especial,6
-2017,41503,Oporapa,Areas Comunes Provisionales Bombeo y Especial,13
-2017,41518,Paicol,Areas Comunes Provisionales Bombeo y Especial,10
-2017,41524,Palermo,Areas Comunes Provisionales Bombeo y Especial,83
-2017,41530,Palestina,Areas Comunes Provisionales Bombeo y Especial,47
-2017,41551,Pitalito,Areas Comunes Provisionales Bombeo y Especial,255
-2017,41615,Rivera,Areas Comunes Provisionales Bombeo y Especial,68
-2017,41660,Saladoblanco,Areas Comunes Provisionales Bombeo y Especial,18
-2017,41668,San Agustin,Areas Comunes Provisionales Bombeo y Especial,73
-2017,41676,Santa Maria,Areas Comunes Provisionales Bombeo y Especial,14
-2017,41770,Suaza,Areas Comunes Provisionales Bombeo y Especial,8
-2017,41791,Tarqui,Areas Comunes Provisionales Bombeo y Especial,16
-2017,41799,Tello,Areas Comunes Provisionales Bombeo y Especial,17
-2017,41801,Teruel,Areas Comunes Provisionales Bombeo y Especial,4
-2017,41797,Tesalia,Areas Comunes Provisionales Bombeo y Especial,9
-2017,41807,Timana,Areas Comunes Provisionales Bombeo y Especial,38
-2017,41872,Villavieja,Areas Comunes Provisionales Bombeo y Especial,20
-2017,41885,Yaguara,Areas Comunes Provisionales Bombeo y Especial,24
-2016,41001,Neiva,Areas Comunes Provisionales Bombeo y Especial,744
-2016,41006,Acevedo,Areas Comunes Provisionales Bombeo y Especial,43
-2016,41013,Agrado,Areas Comunes Provisionales Bombeo y Especial,12
-2016,41016,Aipe,Areas Comunes Provisionales Bombeo y Especial,21
-2016,41020,Algeciras,Areas Comunes Provisionales Bombeo y Especial,21
-2016,41026,Altamira,Areas Comunes Provisionales Bombeo y Especial,3
-2016,41078,Baraya,Areas Comunes Provisionales Bombeo y Especial,3
-2016,41132,Campoalegre,Areas Comunes Provisionales Bombeo y Especial,21
-2016,41206,Colombia,Areas Comunes Provisionales Bombeo y Especial,8
-2016,41244,Elias,Areas Comunes Provisionales Bombeo y Especial,5
-2016,41298,Garzon,Areas Comunes Provisionales Bombeo y Especial,70
-2016,41306,Gigante,Areas Comunes Provisionales Bombeo y Especial,27
-2016,41319,Guadalupe,Areas Comunes Provisionales Bombeo y Especial,10
-2016,41349,Hobo,Areas Comunes Provisionales Bombeo y Especial,8
-2016,41357,Iquira,Areas Comunes Provisionales Bombeo y Especial,17
-2016,41359,Isnos,Areas Comunes Provisionales Bombeo y Especial,49
-2016,41378,La Argentina,Areas Comunes Provisionales Bombeo y Especial,10
-2016,41396,La Plata,Areas Comunes Provisionales Bombeo y Especial,57
-2016,41483,Nataga,Areas Comunes Provisionales Bombeo y Especial,6
-2016,41503,Oporapa,Areas Comunes Provisionales Bombeo y Especial,13
-2016,41518,Paicol,Areas Comunes Provisionales Bombeo y Especial,9
-2016,41524,Palermo,Areas Comunes Provisionales Bombeo y Especial,58
-2016,41530,Palestina,Areas Comunes Provisionales Bombeo y Especial,46
-2016,41548,Pital,Areas Comunes Provisionales Bombeo y Especial,15
-2016,41551,Pitalito,Areas Comunes Provisionales Bombeo y Especial,226
-2016,41615,Rivera,Areas Comunes Provisionales Bombeo y Especial,44
-2016,41660,Saladoblanco,Areas Comunes Provisionales Bombeo y Especial,18
-2016,41668,San Agustin,Areas Comunes Provisionales Bombeo y Especial,71
-2016,41676,Santa Maria,Areas Comunes Provisionales Bombeo y Especial,14
-2016,41770,Suaza,Areas Comunes Provisionales Bombeo y Especial,8
-2016,41791,Tarqui,Areas Comunes Provisionales Bombeo y Especial,14
-2016,41799,Tello,Areas Comunes Provisionales Bombeo y Especial,16
-2016,41801,Teruel,Areas Comunes Provisionales Bombeo y Especial,4
-2016,41797,Tesalia,Areas Comunes Provisionales Bombeo y Especial,9
-2016,41807,Timana,Areas Comunes Provisionales Bombeo y Especial,34
-2016,41872,Villavieja,Areas Comunes Provisionales Bombeo y Especial,18
-2016,41885,Yaguara,Areas Comunes Provisionales Bombeo y Especial,23
-2015,41001,Neiva,Areas Comunes Provisionales Bombeo y Especial,140
-2015,41006,Acevedo,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41013,Agrado,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41016,Aipe,Areas Comunes Provisionales Bombeo y Especial,9
-2015,41020,Algeciras,Areas Comunes Provisionales Bombeo y Especial,3
-2015,41026,Altamira,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41078,Baraya,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41132,Campoalegre,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41206,Colombia,Areas Comunes Provisionales Bombeo y Especial,3
-2015,41244,Elias,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41298,Garzon,Areas Comunes Provisionales Bombeo y Especial,3
-2015,41306,Gigante,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41319,Guadalupe,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41349,Hobo,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41357,Iquira,Areas Comunes Provisionales Bombeo y Especial,3
-2015,41359,Isnos,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41378,La Argentina,Areas Comunes Provisionales Bombeo y Especial,3
-2015,41396,La Plata,Areas Comunes Provisionales Bombeo y Especial,1
-2015,41483,Nataga,Areas Comunes Provisionales Bombeo y Especial,1
-2015,41503,Oporapa,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41518,Paicol,Areas Comunes Provisionales Bombeo y Especial,1
-2015,41524,Palermo,Areas Comunes Provisionales Bombeo y Especial,1
-2015,41530,Palestina,Areas Comunes Provisionales Bombeo y Especial,22
-2015,41548,Pital,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41551,Pitalito,Areas Comunes Provisionales Bombeo y Especial,23
-2015,41615,Rivera,Areas Comunes Provisionales Bombeo y Especial,12
-2015,41660,Saladoblanco,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41668,San Agustin,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41676,Santa Maria,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41770,Suaza,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41791,Tarqui,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41799,Tello,Areas Comunes Provisionales Bombeo y Especial,3
-2015,41801,Teruel,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41797,Tesalia,Areas Comunes Provisionales Bombeo y Especial,0
-2015,41807,Timana,Areas Comunes Provisionales Bombeo y Especial,2
-2015,41872,Villavieja,Areas Comunes Provisionales Bombeo y Especial,10
-2015,41885,Yaguara,Areas Comunes Provisionales Bombeo y Especial,4
-2014,41001, NEIVA,Areas Comunes Provisionales Bombeo y Especial,652
-2014,41006, ACEVEDO,Areas Comunes Provisionales Bombeo y Especial,33
-2014,41013, AGRADO,Areas Comunes Provisionales Bombeo y Especial,12
-2014,41016, AIPE,Areas Comunes Provisionales Bombeo y Especial,22
-2014,41020, ALGECIRAS,Areas Comunes Provisionales Bombeo y Especial,21
-2014,41026, ALTAMIRA,Areas Comunes Provisionales Bombeo y Especial,3
-2014,41078, BARAYA,Areas Comunes Provisionales Bombeo y Especial,2
-2014,41132, CAMPOALEGRE,Areas Comunes Provisionales Bombeo y Especial,16
-2014,41206, COLOMBIA,Areas Comunes Provisionales Bombeo y Especial,8
-2014,41244,Elias,Areas Comunes Provisionales Bombeo y Especial,7
-2014,41298,Garzon,Areas Comunes Provisionales Bombeo y Especial,71
-2014,41306, GIGANTE,Areas Comunes Provisionales Bombeo y Especial,25
-2014,41319, GUADALUPE,Areas Comunes Provisionales Bombeo y Especial,9
-2014,41349, HOBO,Areas Comunes Provisionales Bombeo y Especial,10
-2014,41357, IQUIRA,Areas Comunes Provisionales Bombeo y Especial,17
-2014,41359, ISNOS,Areas Comunes Provisionales Bombeo y Especial,45
-2014,41378, LA ARGENTINA,Areas Comunes Provisionales Bombeo y Especial,9
-2014,41396, LA PLATA,Areas Comunes Provisionales Bombeo y Especial,54
-2014,41483,Nataga,Areas Comunes Provisionales Bombeo y Especial,6
-2014,41503, OPORAPA,Areas Comunes Provisionales Bombeo y Especial,11
-2014,41518, PAICOL,Areas Comunes Provisionales Bombeo y Especial,6
-2014,41524, PALERMO,Areas Comunes Provisionales Bombeo y Especial,36
-2014,41530, PALESTINA,Areas Comunes Provisionales Bombeo y Especial,46
-2014,41548,Pital,Areas Comunes Provisionales Bombeo y Especial,15
-2014,41551, PITALITO,Areas Comunes Provisionales Bombeo y Especial,194
-2014,41615, RIVERA,Areas Comunes Provisionales Bombeo y Especial,36
-2014,41660,Saladoblanco,Areas Comunes Provisionales Bombeo y Especial,17
-2014,41668,San Agustin,Areas Comunes Provisionales Bombeo y Especial,64
-2014,41676,Santa Maria,Areas Comunes Provisionales Bombeo y Especial,12
-2014,41770, SUAZA,Areas Comunes Provisionales Bombeo y Especial,6
-2014,41791, TARQUI,Areas Comunes Provisionales Bombeo y Especial,13
-2014,41799, TELLO,Areas Comunes Provisionales Bombeo y Especial,17
-2014,41801, TERUEL,Areas Comunes Provisionales Bombeo y Especial,4
-2014,41797, TESALIA,Areas Comunes Provisionales Bombeo y Especial,8
-2014,41807,Timana,Areas Comunes Provisionales Bombeo y Especial,40
-2014,41872, VILLAVIEJA,Areas Comunes Provisionales Bombeo y Especial,20
-2014,41885,Yaguara,Areas Comunes Provisionales Bombeo y Especial,23
-2013,41001, NEIVA,Areas Comunes Provisionales Bombeo y Especial,627
-2013,41006, ACEVEDO,Areas Comunes Provisionales Bombeo y Especial,32
-2013,41013, AGRADO,Areas Comunes Provisionales Bombeo y Especial,12
-2013,41016, AIPE,Areas Comunes Provisionales Bombeo y Especial,23
-2013,41020, ALGECIRAS,Areas Comunes Provisionales Bombeo y Especial,18
-2013,41026, ALTAMIRA,Areas Comunes Provisionales Bombeo y Especial,3
-2013,41078, BARAYA,Areas Comunes Provisionales Bombeo y Especial,3
-2013,41132, CAMPOALEGRE,Areas Comunes Provisionales Bombeo y Especial,17
-2013,41206, COLOMBIA,Areas Comunes Provisionales Bombeo y Especial,8
-2013,41244, EL PITAL,Areas Comunes Provisionales Bombeo y Especial,13
-2013,41298,Elias,Areas Comunes Provisionales Bombeo y Especial,4
-2013,41306,Garzon,Areas Comunes Provisionales Bombeo y Especial,69
-2013,41319, GIGANTE,Areas Comunes Provisionales Bombeo y Especial,25
-2013,41349, GUADALUPE,Areas Comunes Provisionales Bombeo y Especial,8
-2013,41357, HOBO,Areas Comunes Provisionales Bombeo y Especial,8
-2013,41359, IQUIRA,Areas Comunes Provisionales Bombeo y Especial,15
-2013,41378, ISNOS,Areas Comunes Provisionales Bombeo y Especial,44
-2013,41396, LA ARGENTINA,Areas Comunes Provisionales Bombeo y Especial,9
-2013,41483, LA PLATA,Areas Comunes Provisionales Bombeo y Especial,52
-2013,41503,Nataga,Areas Comunes Provisionales Bombeo y Especial,6
-2013,41518, OPORAPA,Areas Comunes Provisionales Bombeo y Especial,10
-2013,41524, PAICOL,Areas Comunes Provisionales Bombeo y Especial,6
-2013,41530, PALERMO,Areas Comunes Provisionales Bombeo y Especial,40
-2013,41548, PALESTINA,Areas Comunes Provisionales Bombeo y Especial,39
-2013,41551, PITALITO,Areas Comunes Provisionales Bombeo y Especial,162
-2013,41615, RIVERA,Areas Comunes Provisionales Bombeo y Especial,29
-2013,41660,Saladoblanco,Areas Comunes Provisionales Bombeo y Especial,14
-2013,41668,San Agustin,Areas Comunes Provisionales Bombeo y Especial,64
-2013,41676,Santa Maria,Areas Comunes Provisionales Bombeo y Especial,11
-2013,41770, SUAZA,Areas Comunes Provisionales Bombeo y Especial,6
-2013,41791, TARQUI,Areas Comunes Provisionales Bombeo y Especial,12
-2013,41799, TELLO,Areas Comunes Provisionales Bombeo y Especial,17
-2013,41801, TERUEL,Areas Comunes Provisionales Bombeo y Especial,4
-2013,41797, TESALIA,Areas Comunes Provisionales Bombeo y Especial,8
-2013,41807,Timana,Areas Comunes Provisionales Bombeo y Especial,32
-2013,41872, VILLAVIEJA,Areas Comunes Provisionales Bombeo y Especial,20
-2013,41885,Yaguara,Areas Comunes Provisionales Bombeo y Especial,19
+2017,41885,Yaguará,Oficial,39
+2018,41001,Neiva,Oficial,456
+2018,41006,Acevedo,Oficial,115
+2018,41013,Agrado,Oficial,74
+2018,41016,Aipe,Oficial,87
+2018,41020,Algeciras,Oficial,100
+2018,41026,Altamira,Oficial,28
+2018,41078,Baraya,Oficial,64
+2018,41132,Campoalegre,Oficial,85
+2018,41206,Colombia,Oficial,80
+2018,41244,Elías,Oficial,31
+2018,41298,Garzón,Oficial,171
+2018,41306,Gigante,Oficial,103
+2018,41319,Guadalupe,Oficial,84
+2018,41349,Hobo,Oficial,20
+2018,41357,Iquira,Oficial,66
+2018,41359,Isnos,Oficial,85
+2018,41378,La Argentina,Oficial,54
+2018,41396,La Plata,Oficial,253
+2018,41483,Nátaga,Oficial,78
+2018,41503,Oporapa,Oficial,54
+2018,41518,Paicol,Oficial,57
+2018,41524,Palermo,Oficial,120
+2018,41530,Palestina,Oficial,58
+2018,41548,PITAL,Oficial,75
+2018,41551,Pitalito,Oficial,257
+2018,41615,Rivera,Oficial,56
+2018,41660,Saladoblanco,Oficial,66
+2018,41668,San Agustín,Oficial,127
+2018,41676,Santa María,Oficial,67
+2018,41770,Suaza,Oficial,93
+2018,41791,Tarqui,Oficial,81
+2018,41799,Tello,Oficial,76
+2018,41801,Teruel,Oficial,49
+2018,41797,Tesalia,Oficial,59
+2018,41807,Timaná,Oficial,66
+2018,41872,Villavieja,Oficial,46
+2018,41885,Yaguará,Oficial,45
+2013,41001, NEIVA,"Industrial, Riego, Autoconsumo y Alumbrado Público",443
+2013,41006, ACEVEDO,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2013,41013, AGRADO,"Industrial, Riego, Autoconsumo y Alumbrado Público",25
+2013,41016, AIPE,"Industrial, Riego, Autoconsumo y Alumbrado Público",58
+2013,41020, ALGECIRAS,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2013,41026, ALTAMIRA,"Industrial, Riego, Autoconsumo y Alumbrado Público",19
+2013,41078, BARAYA,"Industrial, Riego, Autoconsumo y Alumbrado Público",14
+2013,41132, CAMPOALEGRE,"Industrial, Riego, Autoconsumo y Alumbrado Público",46
+2013,41206, COLOMBIA,"Industrial, Riego, Autoconsumo y Alumbrado Público",11
+2013,41244, ELIAS,"Industrial, Riego, Autoconsumo y Alumbrado Público",6
+2013,41298, GARZON,"Industrial, Riego, Autoconsumo y Alumbrado Público",122
+2013,41306, GIGANTE,"Industrial, Riego, Autoconsumo y Alumbrado Público",37
+2013,41319, GUADALUPE,"Industrial, Riego, Autoconsumo y Alumbrado Público",27
+2013,41349, HOBO,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2013,41357, IQUIRA,"Industrial, Riego, Autoconsumo y Alumbrado Público",34
+2013,41359, ISNOS,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2013,41378, LA ARGENTINA,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2013,41396, LA PLATA,"Industrial, Riego, Autoconsumo y Alumbrado Público",103
+2013,41483, NATAGA,"Industrial, Riego, Autoconsumo y Alumbrado Público",12
+2013,41503, OPORAPA,"Industrial, Riego, Autoconsumo y Alumbrado Público",6
+2013,41518, PAICOL,"Industrial, Riego, Autoconsumo y Alumbrado Público",14
+2013,41524, PALERMO,"Industrial, Riego, Autoconsumo y Alumbrado Público",154
+2013,41530, PALESTINA,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2013,41548, PITAL,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2013,41551, PITALITO,"Industrial, Riego, Autoconsumo y Alumbrado Público",102
+2013,41615, RIVERA,"Industrial, Riego, Autoconsumo y Alumbrado Público",77
+2013,41660, SALADO BLANCO,"Industrial, Riego, Autoconsumo y Alumbrado Público",3
+2013,41668, SAN AGUSTIN,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2013,41676, SANTAMARIA,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2013,41770, SUAZA,"Industrial, Riego, Autoconsumo y Alumbrado Público",17
+2013,41791, TARQUI,"Industrial, Riego, Autoconsumo y Alumbrado Público",37
+2013,41799, TELLO,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2013,41801, TERUEL,"Industrial, Riego, Autoconsumo y Alumbrado Público",15
+2013,41797, TESALIA,"Industrial, Riego, Autoconsumo y Alumbrado Público",36
+2013,41807, TIMANA,"Industrial, Riego, Autoconsumo y Alumbrado Público",17
+2013,41872, VILLAVIEJA,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2013,41885, YAGUARA,"Industrial, Riego, Autoconsumo y Alumbrado Público",28
+2014,41001, NEIVA,"Industrial, Riego, Autoconsumo y Alumbrado Público",477
+2014,41006, ACEVEDO,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2014,41013, AGRADO,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2014,41016, AIPE,"Industrial, Riego, Autoconsumo y Alumbrado Público",53
+2014,41020, ALGECIRAS,"Industrial, Riego, Autoconsumo y Alumbrado Público",30
+2014,41026, ALTAMIRA,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2014,41078, BARAYA,"Industrial, Riego, Autoconsumo y Alumbrado Público",14
+2014,41132, CAMPOALEGRE,"Industrial, Riego, Autoconsumo y Alumbrado Público",47
+2014,41206, COLOMBIA,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2014,41244, ELIAS,"Industrial, Riego, Autoconsumo y Alumbrado Público",6
+2014,41298, GARZON,"Industrial, Riego, Autoconsumo y Alumbrado Público",128
+2014,41306, GIGANTE,"Industrial, Riego, Autoconsumo y Alumbrado Público",36
+2014,41319, GUADALUPE,"Industrial, Riego, Autoconsumo y Alumbrado Público",28
+2014,41349, HOBO,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2014,41357, IQUIRA,"Industrial, Riego, Autoconsumo y Alumbrado Público",34
+2014,41359, ISNOS,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2014,41378, LA ARGENTINA,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2014,41396, LA PLATA,"Industrial, Riego, Autoconsumo y Alumbrado Público",101
+2014,41483, NATAGA,"Industrial, Riego, Autoconsumo y Alumbrado Público",12
+2014,41503, OPORAPA,"Industrial, Riego, Autoconsumo y Alumbrado Público",6
+2014,41518, PAICOL,"Industrial, Riego, Autoconsumo y Alumbrado Público",15
+2014,41524, PALERMO,"Industrial, Riego, Autoconsumo y Alumbrado Público",158
+2014,41530, PALESTINA,"Industrial, Riego, Autoconsumo y Alumbrado Público",5
+2014,41548,PITAL,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2014,41551, PITALITO,"Industrial, Riego, Autoconsumo y Alumbrado Público",105
+2014,41615, RIVERA,"Industrial, Riego, Autoconsumo y Alumbrado Público",77
+2014,41660, SALADO BLANCO,"Industrial, Riego, Autoconsumo y Alumbrado Público",3
+2014,41668, SAN AGUSTIN,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2014,41676, SANTAMARIA,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2014,41770, SUAZA,"Industrial, Riego, Autoconsumo y Alumbrado Público",20
+2014,41791, TARQUI,"Industrial, Riego, Autoconsumo y Alumbrado Público",37
+2014,41799, TELLO,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2014,41801, TERUEL,"Industrial, Riego, Autoconsumo y Alumbrado Público",15
+2014,41797, TESALIA,"Industrial, Riego, Autoconsumo y Alumbrado Público",38
+2014,41807, TIMANA,"Industrial, Riego, Autoconsumo y Alumbrado Público",16
+2014,41872, VILLAVIEJA,"Industrial, Riego, Autoconsumo y Alumbrado Público",23
+2014,41885, YAGUARA,"Industrial, Riego, Autoconsumo y Alumbrado Público",28
+2015,41001,Neiva,"Industrial, Riego, Autoconsumo y Alumbrado Público",511
+2015,41006,Acevedo,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2015,41013,Agrado,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2015,41016,Aipe,"Industrial, Riego, Autoconsumo y Alumbrado Público",65
+2015,41020,Algeciras,"Industrial, Riego, Autoconsumo y Alumbrado Público",31
+2015,41026,Altamira,"Industrial, Riego, Autoconsumo y Alumbrado Público",19
+2015,41078,Baraya,"Industrial, Riego, Autoconsumo y Alumbrado Público",14
+2015,41132,Campoalegre,"Industrial, Riego, Autoconsumo y Alumbrado Público",52
+2015,41206,Colombia,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2015,41244,Elías,"Industrial, Riego, Autoconsumo y Alumbrado Público",6
+2015,41298,Garzón,"Industrial, Riego, Autoconsumo y Alumbrado Público",135
+2015,41306,Gigante,"Industrial, Riego, Autoconsumo y Alumbrado Público",36
+2015,41319,Guadalupe,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2015,41349,Hobo,"Industrial, Riego, Autoconsumo y Alumbrado Público",20
+2015,41357,Iquira,"Industrial, Riego, Autoconsumo y Alumbrado Público",35
+2015,41359,Isnos,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2015,41378,La Argentina,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2015,41396,La Plata,"Industrial, Riego, Autoconsumo y Alumbrado Público",104
+2015,41483,Nátaga,"Industrial, Riego, Autoconsumo y Alumbrado Público",11
+2015,41503,Oporapa,"Industrial, Riego, Autoconsumo y Alumbrado Público",5
+2015,41518,Paicol,"Industrial, Riego, Autoconsumo y Alumbrado Público",15
+2015,41524,Palermo,"Industrial, Riego, Autoconsumo y Alumbrado Público",179
+2015,41530,Palestina,"Industrial, Riego, Autoconsumo y Alumbrado Público",5
+2015,41548,PITAL,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2015,41551,Pitalito,"Industrial, Riego, Autoconsumo y Alumbrado Público",147
+2015,41615,Rivera,"Industrial, Riego, Autoconsumo y Alumbrado Público",92
+2015,41660,Saladoblanco,"Industrial, Riego, Autoconsumo y Alumbrado Público",2
+2015,41668,San Agustín,"Industrial, Riego, Autoconsumo y Alumbrado Público",13
+2015,41676,Santa María,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2015,41770,Suaza,"Industrial, Riego, Autoconsumo y Alumbrado Público",21
+2015,41791,Tarqui,"Industrial, Riego, Autoconsumo y Alumbrado Público",40
+2015,41799,Tello,"Industrial, Riego, Autoconsumo y Alumbrado Público",23
+2015,41801,Teruel,"Industrial, Riego, Autoconsumo y Alumbrado Público",15
+2015,41797,Tesalia,"Industrial, Riego, Autoconsumo y Alumbrado Público",42
+2015,41807,Timaná,"Industrial, Riego, Autoconsumo y Alumbrado Público",22
+2015,41872,Villavieja,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2015,41885,Yaguará,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2016,41001,Neiva,"Industrial, Riego, Autoconsumo y Alumbrado Público",264
+2016,41006,Acevedo,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2016,41013,Agrado,"Industrial, Riego, Autoconsumo y Alumbrado Público",12
+2016,41016,Aipe,"Industrial, Riego, Autoconsumo y Alumbrado Público",41
+2016,41020,Algeciras,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2016,41026,Altamira,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2016,41078,Baraya,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2016,41132,Campoalegre,"Industrial, Riego, Autoconsumo y Alumbrado Público",34
+2016,41206,Colombia,"Industrial, Riego, Autoconsumo y Alumbrado Público",4
+2016,41244,Elías,"Industrial, Riego, Autoconsumo y Alumbrado Público",1
+2016,41298,Garzón,"Industrial, Riego, Autoconsumo y Alumbrado Público",81
+2016,41306,Gigante,"Industrial, Riego, Autoconsumo y Alumbrado Público",23
+2016,41319,Guadalupe,"Industrial, Riego, Autoconsumo y Alumbrado Público",15
+2016,41349,Hobo,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2016,41357,Iquira,"Industrial, Riego, Autoconsumo y Alumbrado Público",23
+2016,41359,Isnos,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2016,41378,La Argentina,"Industrial, Riego, Autoconsumo y Alumbrado Público",13
+2016,41396,La Plata,"Industrial, Riego, Autoconsumo y Alumbrado Público",79
+2016,41483,Nátaga,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2016,41503,Oporapa,"Industrial, Riego, Autoconsumo y Alumbrado Público",4
+2016,41518,Paicol,"Industrial, Riego, Autoconsumo y Alumbrado Público",6
+2016,41524,Palermo,"Industrial, Riego, Autoconsumo y Alumbrado Público",114
+2016,41530,Palestina,"Industrial, Riego, Autoconsumo y Alumbrado Público",3
+2016,41548,PITAL,"Industrial, Riego, Autoconsumo y Alumbrado Público",19
+2016,41551,Pitalito,"Industrial, Riego, Autoconsumo y Alumbrado Público",108
+2016,41615,Rivera,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2016,41660,Saladoblanco,"Industrial, Riego, Autoconsumo y Alumbrado Público",0
+2016,41668,San Agustín,"Industrial, Riego, Autoconsumo y Alumbrado Público",14
+2016,41676,Santa María,"Industrial, Riego, Autoconsumo y Alumbrado Público",4
+2016,41770,Suaza,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2016,41791,Tarqui,"Industrial, Riego, Autoconsumo y Alumbrado Público",14
+2016,41799,Tello,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2016,41801,Teruel,"Industrial, Riego, Autoconsumo y Alumbrado Público",7
+2016,41797,Tesalia,"Industrial, Riego, Autoconsumo y Alumbrado Público",30
+2016,41807,Timaná,"Industrial, Riego, Autoconsumo y Alumbrado Público",16
+2016,41872,Villavieja,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2016,41885,Yaguará,"Industrial, Riego, Autoconsumo y Alumbrado Público",19
+2017,41001,Neiva,"Industrial, Riego, Autoconsumo y Alumbrado Público",244
+2017,41006,Acevedo,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2017,41013,Agrado,"Industrial, Riego, Autoconsumo y Alumbrado Público",11
+2017,41016,Aipe,"Industrial, Riego, Autoconsumo y Alumbrado Público",34
+2017,41020,Algeciras,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2017,41026,Altamira,"Industrial, Riego, Autoconsumo y Alumbrado Público",16
+2017,41078,Baraya,"Industrial, Riego, Autoconsumo y Alumbrado Público",11
+2017,41132,Campoalegre,"Industrial, Riego, Autoconsumo y Alumbrado Público",43
+2017,41206,Colombia,"Industrial, Riego, Autoconsumo y Alumbrado Público",5
+2017,41548,El Pital,"Industrial, Riego, Autoconsumo y Alumbrado Público",19
+2017,41244,Elías,"Industrial, Riego, Autoconsumo y Alumbrado Público",1
+2017,41298,Garzón,"Industrial, Riego, Autoconsumo y Alumbrado Público",83
+2017,41306,Gigante,"Industrial, Riego, Autoconsumo y Alumbrado Público",25
+2017,41319,Guadalupe,"Industrial, Riego, Autoconsumo y Alumbrado Público",15
+2017,41349,Hobo,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2017,41357,Iquira,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2017,41359,Isnos,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2017,41378,La Argentina,"Industrial, Riego, Autoconsumo y Alumbrado Público",13
+2017,41396,La Plata,"Industrial, Riego, Autoconsumo y Alumbrado Público",81
+2017,41483,Nátaga,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2017,41503,Oporapa,"Industrial, Riego, Autoconsumo y Alumbrado Público",4
+2017,41518,Paicol,"Industrial, Riego, Autoconsumo y Alumbrado Público",7
+2017,41524,Palermo,"Industrial, Riego, Autoconsumo y Alumbrado Público",125
+2017,41530,Palestina,"Industrial, Riego, Autoconsumo y Alumbrado Público",3
+2017,41551,Pitalito,"Industrial, Riego, Autoconsumo y Alumbrado Público",107
+2017,41615,Rivera,"Industrial, Riego, Autoconsumo y Alumbrado Público",30
+2017,41660,Saladoblanco,"Industrial, Riego, Autoconsumo y Alumbrado Público",1
+2017,41668,San Agustín,"Industrial, Riego, Autoconsumo y Alumbrado Público",14
+2017,41676,Santa María,"Industrial, Riego, Autoconsumo y Alumbrado Público",4
+2017,41770,Suaza,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2017,41791,Tarqui,"Industrial, Riego, Autoconsumo y Alumbrado Público",16
+2017,41799,Tello,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2017,41801,Teruel,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2017,41797,Tesalia,"Industrial, Riego, Autoconsumo y Alumbrado Público",29
+2017,41807,Timaná,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2017,41872,Villavieja,"Industrial, Riego, Autoconsumo y Alumbrado Público",20
+2017,41885,Yaguará,"Industrial, Riego, Autoconsumo y Alumbrado Público",16
+2018,41001,Neiva,"Industrial, Riego, Autoconsumo y Alumbrado Público",234
+2018,41006,Acevedo,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2018,41013,Agrado,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2018,41016,Aipe,"Industrial, Riego, Autoconsumo y Alumbrado Público",34
+2018,41020,Algeciras,"Industrial, Riego, Autoconsumo y Alumbrado Público",8
+2018,41026,Altamira,"Industrial, Riego, Autoconsumo y Alumbrado Público",17
+2018,41078,Baraya,"Industrial, Riego, Autoconsumo y Alumbrado Público",11
+2018,41132,Campoalegre,"Industrial, Riego, Autoconsumo y Alumbrado Público",40
+2018,41206,Colombia,"Industrial, Riego, Autoconsumo y Alumbrado Público",5
+2018,41244,Elías,"Industrial, Riego, Autoconsumo y Alumbrado Público",1
+2018,41298,Garzón,"Industrial, Riego, Autoconsumo y Alumbrado Público",81
+2018,41306,Gigante,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2018,41319,Guadalupe,"Industrial, Riego, Autoconsumo y Alumbrado Público",16
+2018,41349,Hobo,"Industrial, Riego, Autoconsumo y Alumbrado Público",11
+2018,41357,Iquira,"Industrial, Riego, Autoconsumo y Alumbrado Público",24
+2018,41359,Isnos,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2018,41378,La Argentina,"Industrial, Riego, Autoconsumo y Alumbrado Público",13
+2018,41396,La Plata,"Industrial, Riego, Autoconsumo y Alumbrado Público",80
+2018,41483,Nátaga,"Industrial, Riego, Autoconsumo y Alumbrado Público",7
+2018,41503,Oporapa,"Industrial, Riego, Autoconsumo y Alumbrado Público",3
+2018,41518,Paicol,"Industrial, Riego, Autoconsumo y Alumbrado Público",6
+2018,41524,Palermo,"Industrial, Riego, Autoconsumo y Alumbrado Público",124
+2018,41530,Palestina,"Industrial, Riego, Autoconsumo y Alumbrado Público",4
+2018,41548,PITAL,"Industrial, Riego, Autoconsumo y Alumbrado Público",19
+2018,41551,Pitalito,"Industrial, Riego, Autoconsumo y Alumbrado Público",100
+2018,41615,Rivera,"Industrial, Riego, Autoconsumo y Alumbrado Público",27
+2018,41660,Saladoblanco,"Industrial, Riego, Autoconsumo y Alumbrado Público",1
+2018,41668,San Agustín,"Industrial, Riego, Autoconsumo y Alumbrado Público",11
+2018,41676,Santa María,"Industrial, Riego, Autoconsumo y Alumbrado Público",4
+2018,41770,Suaza,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2018,41791,Tarqui,"Industrial, Riego, Autoconsumo y Alumbrado Público",18
+2018,41799,Tello,"Industrial, Riego, Autoconsumo y Alumbrado Público",9
+2018,41801,Teruel,"Industrial, Riego, Autoconsumo y Alumbrado Público",10
+2018,41797,Tesalia,"Industrial, Riego, Autoconsumo y Alumbrado Público",30
+2018,41807,Timaná,"Industrial, Riego, Autoconsumo y Alumbrado Público",13
+2018,41872,Villavieja,"Industrial, Riego, Autoconsumo y Alumbrado Público",19
+2018,41885,Yaguará,"Industrial, Riego, Autoconsumo y Alumbrado Público",17
+2013,41001, NEIVA,"Areas Comunes, Provisionales, Bombeo y Especial",627
+2013,41006, ACEVEDO,"Areas Comunes, Provisionales, Bombeo y Especial",32
+2013,41013, AGRADO,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2013,41016, AIPE,"Areas Comunes, Provisionales, Bombeo y Especial",23
+2013,41020, ALGECIRAS,"Areas Comunes, Provisionales, Bombeo y Especial",18
+2013,41026, ALTAMIRA,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2013,41078, BARAYA,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2013,41132, CAMPOALEGRE,"Areas Comunes, Provisionales, Bombeo y Especial",17
+2013,41206, COLOMBIA,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2013,41244, ELIAS,"Areas Comunes, Provisionales, Bombeo y Especial",4
+2013,41298, GARZON,"Areas Comunes, Provisionales, Bombeo y Especial",69
+2013,41306, GIGANTE,"Areas Comunes, Provisionales, Bombeo y Especial",25
+2013,41319, GUADALUPE,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2013,41349, HOBO,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2013,41357, IQUIRA,"Areas Comunes, Provisionales, Bombeo y Especial",15
+2013,41359, ISNOS,"Areas Comunes, Provisionales, Bombeo y Especial",44
+2013,41378, LA ARGENTINA,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2013,41396, LA PLATA,"Areas Comunes, Provisionales, Bombeo y Especial",52
+2013,41483, NATAGA,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2013,41503, OPORAPA,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2013,41518, PAICOL,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2013,41524, PALERMO,"Areas Comunes, Provisionales, Bombeo y Especial",40
+2013,41530, PALESTINA,"Areas Comunes, Provisionales, Bombeo y Especial",39
+2013,41548, PITAL,"Areas Comunes, Provisionales, Bombeo y Especial",13
+2013,41551, PITALITO,"Areas Comunes, Provisionales, Bombeo y Especial",162
+2013,41615, RIVERA,"Areas Comunes, Provisionales, Bombeo y Especial",29
+2013,41660, SALADO BLANCO,"Areas Comunes, Provisionales, Bombeo y Especial",14
+2013,41668, SAN AGUSTIN,"Areas Comunes, Provisionales, Bombeo y Especial",64
+2013,41676, SANTAMARIA,"Areas Comunes, Provisionales, Bombeo y Especial",11
+2013,41770, SUAZA,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2013,41791, TARQUI,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2013,41799, TELLO,"Areas Comunes, Provisionales, Bombeo y Especial",17
+2013,41801, TERUEL,"Areas Comunes, Provisionales, Bombeo y Especial",4
+2013,41797, TESALIA,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2013,41807, TIMANA,"Areas Comunes, Provisionales, Bombeo y Especial",32
+2013,41872, VILLAVIEJA,"Areas Comunes, Provisionales, Bombeo y Especial",20
+2013,41885, YAGUARA,"Areas Comunes, Provisionales, Bombeo y Especial",19
+2014,41001, NEIVA,"Areas Comunes, Provisionales, Bombeo y Especial",652
+2014,41006, ACEVEDO,"Areas Comunes, Provisionales, Bombeo y Especial",33
+2014,41013, AGRADO,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2014,41016, AIPE,"Areas Comunes, Provisionales, Bombeo y Especial",22
+2014,41020, ALGECIRAS,"Areas Comunes, Provisionales, Bombeo y Especial",21
+2014,41026, ALTAMIRA,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2014,41078, BARAYA,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2014,41132, CAMPOALEGRE,"Areas Comunes, Provisionales, Bombeo y Especial",16
+2014,41206, COLOMBIA,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2014,41244, ELIAS,"Areas Comunes, Provisionales, Bombeo y Especial",7
+2014,41298, GARZON,"Areas Comunes, Provisionales, Bombeo y Especial",71
+2014,41306, GIGANTE,"Areas Comunes, Provisionales, Bombeo y Especial",25
+2014,41319, GUADALUPE,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2014,41349, HOBO,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2014,41357, IQUIRA,"Areas Comunes, Provisionales, Bombeo y Especial",17
+2014,41359, ISNOS,"Areas Comunes, Provisionales, Bombeo y Especial",45
+2014,41378, LA ARGENTINA,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2014,41396, LA PLATA,"Areas Comunes, Provisionales, Bombeo y Especial",54
+2014,41483, NATAGA,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2014,41503, OPORAPA,"Areas Comunes, Provisionales, Bombeo y Especial",11
+2014,41518, PAICOL,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2014,41524, PALERMO,"Areas Comunes, Provisionales, Bombeo y Especial",36
+2014,41530, PALESTINA,"Areas Comunes, Provisionales, Bombeo y Especial",46
+2014,41548,PITAL,"Areas Comunes, Provisionales, Bombeo y Especial",15
+2014,41551, PITALITO,"Areas Comunes, Provisionales, Bombeo y Especial",194
+2014,41615, RIVERA,"Areas Comunes, Provisionales, Bombeo y Especial",36
+2014,41660, SALADO BLANCO,"Areas Comunes, Provisionales, Bombeo y Especial",17
+2014,41668, SAN AGUSTIN,"Areas Comunes, Provisionales, Bombeo y Especial",64
+2014,41676, SANTAMARIA,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2014,41770, SUAZA,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2014,41791, TARQUI,"Areas Comunes, Provisionales, Bombeo y Especial",13
+2014,41799, TELLO,"Areas Comunes, Provisionales, Bombeo y Especial",17
+2014,41801, TERUEL,"Areas Comunes, Provisionales, Bombeo y Especial",4
+2014,41797, TESALIA,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2014,41807, TIMANA,"Areas Comunes, Provisionales, Bombeo y Especial",40
+2014,41872, VILLAVIEJA,"Areas Comunes, Provisionales, Bombeo y Especial",20
+2014,41885, YAGUARA,"Areas Comunes, Provisionales, Bombeo y Especial",23
+2015,41001,Neiva,"Areas Comunes, Provisionales, Bombeo y Especial",140
+2015,41006,Acevedo,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41013,Agrado,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41016,Aipe,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2015,41020,Algeciras,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2015,41026,Altamira,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41078,Baraya,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41132,Campoalegre,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41206,Colombia,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2015,41244,Elías,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2015,41298,Garzón,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41306,Gigante,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41319,Guadalupe,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41349,Hobo,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2015,41357,Iquira,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41359,Isnos,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2015,41378,La Argentina,"Areas Comunes, Provisionales, Bombeo y Especial",1
+2015,41396,La Plata,"Areas Comunes, Provisionales, Bombeo y Especial",1
+2015,41483,Nátaga,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41503,Oporapa,"Areas Comunes, Provisionales, Bombeo y Especial",1
+2015,41518,Paicol,"Areas Comunes, Provisionales, Bombeo y Especial",1
+2015,41524,Palermo,"Areas Comunes, Provisionales, Bombeo y Especial",22
+2015,41530,Palestina,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41548,PITAL,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41551,Pitalito,"Areas Comunes, Provisionales, Bombeo y Especial",23
+2015,41615,Rivera,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2015,41660,Saladoblanco,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41668,San Agustín,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41676,Santa María,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41770,Suaza,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41791,Tarqui,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41799,Tello,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2015,41801,Teruel,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41797,Tesalia,"Areas Comunes, Provisionales, Bombeo y Especial",0
+2015,41807,Timaná,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2015,41872,Villavieja,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2015,41885,Yaguará,"Areas Comunes, Provisionales, Bombeo y Especial",4
+2016,41001,Neiva,"Areas Comunes, Provisionales, Bombeo y Especial",744
+2016,41006,Acevedo,"Areas Comunes, Provisionales, Bombeo y Especial",43
+2016,41013,Agrado,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2016,41016,Aipe,"Areas Comunes, Provisionales, Bombeo y Especial",21
+2016,41020,Algeciras,"Areas Comunes, Provisionales, Bombeo y Especial",21
+2016,41026,Altamira,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2016,41078,Baraya,"Areas Comunes, Provisionales, Bombeo y Especial",3
+2016,41132,Campoalegre,"Areas Comunes, Provisionales, Bombeo y Especial",21
+2016,41206,Colombia,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2016,41244,Elías,"Areas Comunes, Provisionales, Bombeo y Especial",5
+2016,41298,Garzón,"Areas Comunes, Provisionales, Bombeo y Especial",70
+2016,41306,Gigante,"Areas Comunes, Provisionales, Bombeo y Especial",27
+2016,41319,Guadalupe,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2016,41349,Hobo,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2016,41357,Iquira,"Areas Comunes, Provisionales, Bombeo y Especial",17
+2016,41359,Isnos,"Areas Comunes, Provisionales, Bombeo y Especial",49
+2016,41378,La Argentina,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2016,41396,La Plata,"Areas Comunes, Provisionales, Bombeo y Especial",57
+2016,41483,Nátaga,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2016,41503,Oporapa,"Areas Comunes, Provisionales, Bombeo y Especial",13
+2016,41518,Paicol,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2016,41524,Palermo,"Areas Comunes, Provisionales, Bombeo y Especial",58
+2016,41530,Palestina,"Areas Comunes, Provisionales, Bombeo y Especial",46
+2016,41548,PITAL,"Areas Comunes, Provisionales, Bombeo y Especial",15
+2016,41551,Pitalito,"Areas Comunes, Provisionales, Bombeo y Especial",226
+2016,41615,Rivera,"Areas Comunes, Provisionales, Bombeo y Especial",44
+2016,41660,Saladoblanco,"Areas Comunes, Provisionales, Bombeo y Especial",18
+2016,41668,San Agustín,"Areas Comunes, Provisionales, Bombeo y Especial",71
+2016,41676,Santa María,"Areas Comunes, Provisionales, Bombeo y Especial",14
+2016,41770,Suaza,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2016,41791,Tarqui,"Areas Comunes, Provisionales, Bombeo y Especial",14
+2016,41799,Tello,"Areas Comunes, Provisionales, Bombeo y Especial",16
+2016,41801,Teruel,"Areas Comunes, Provisionales, Bombeo y Especial",4
+2016,41797,Tesalia,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2016,41807,Timaná,"Areas Comunes, Provisionales, Bombeo y Especial",34
+2016,41872,Villavieja,"Areas Comunes, Provisionales, Bombeo y Especial",18
+2016,41885,Yaguará,"Areas Comunes, Provisionales, Bombeo y Especial",23
+2017,41001,Neiva,"Areas Comunes, Provisionales, Bombeo y Especial",1035
+2017,41006,Acevedo,"Areas Comunes, Provisionales, Bombeo y Especial",44
+2017,41013,Agrado,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2017,41016,Aipe,"Areas Comunes, Provisionales, Bombeo y Especial",22
+2017,41020,Algeciras,"Areas Comunes, Provisionales, Bombeo y Especial",21
+2017,41026,Altamira,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2017,41078,Baraya,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2017,41132,Campoalegre,"Areas Comunes, Provisionales, Bombeo y Especial",19
+2017,41206,Colombia,"Areas Comunes, Provisionales, Bombeo y Especial",7
+2017,41548,El Pital,"Areas Comunes, Provisionales, Bombeo y Especial",16
+2017,41244,Elías,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2017,41298,Garzón,"Areas Comunes, Provisionales, Bombeo y Especial",69
+2017,41306,Gigante,"Areas Comunes, Provisionales, Bombeo y Especial",28
+2017,41319,Guadalupe,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2017,41349,Hobo,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2017,41357,Iquira,"Areas Comunes, Provisionales, Bombeo y Especial",18
+2017,41359,Isnos,"Areas Comunes, Provisionales, Bombeo y Especial",53
+2017,41378,La Argentina,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2017,41396,La Plata,"Areas Comunes, Provisionales, Bombeo y Especial",57
+2017,41483,Nátaga,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2017,41503,Oporapa,"Areas Comunes, Provisionales, Bombeo y Especial",13
+2017,41518,Paicol,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2017,41524,Palermo,"Areas Comunes, Provisionales, Bombeo y Especial",83
+2017,41530,Palestina,"Areas Comunes, Provisionales, Bombeo y Especial",47
+2017,41551,Pitalito,"Areas Comunes, Provisionales, Bombeo y Especial",255
+2017,41615,Rivera,"Areas Comunes, Provisionales, Bombeo y Especial",68
+2017,41660,Saladoblanco,"Areas Comunes, Provisionales, Bombeo y Especial",18
+2017,41668,San Agustín,"Areas Comunes, Provisionales, Bombeo y Especial",73
+2017,41676,Santa María,"Areas Comunes, Provisionales, Bombeo y Especial",14
+2017,41770,Suaza,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2017,41791,Tarqui,"Areas Comunes, Provisionales, Bombeo y Especial",16
+2017,41799,Tello,"Areas Comunes, Provisionales, Bombeo y Especial",17
+2017,41801,Teruel,"Areas Comunes, Provisionales, Bombeo y Especial",4
+2017,41797,Tesalia,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2017,41807,Timaná,"Areas Comunes, Provisionales, Bombeo y Especial",38
+2017,41872,Villavieja,"Areas Comunes, Provisionales, Bombeo y Especial",20
+2017,41885,Yaguará,"Areas Comunes, Provisionales, Bombeo y Especial",24
+2018,41001,Neiva,"Areas Comunes, Provisionales, Bombeo y Especial",1061
+2018,41006,Acevedo,"Areas Comunes, Provisionales, Bombeo y Especial",45
+2018,41013,Agrado,"Areas Comunes, Provisionales, Bombeo y Especial",12
+2018,41016,Aipe,"Areas Comunes, Provisionales, Bombeo y Especial",25
+2018,41020,Algeciras,"Areas Comunes, Provisionales, Bombeo y Especial",21
+2018,41026,Altamira,"Areas Comunes, Provisionales, Bombeo y Especial",2
+2018,41078,Baraya,"Areas Comunes, Provisionales, Bombeo y Especial",4
+2018,41132,Campoalegre,"Areas Comunes, Provisionales, Bombeo y Especial",24
+2018,41206,Colombia,"Areas Comunes, Provisionales, Bombeo y Especial",7
+2018,41244,Elías,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2018,41298,Garzón,"Areas Comunes, Provisionales, Bombeo y Especial",74
+2018,41306,Gigante,"Areas Comunes, Provisionales, Bombeo y Especial",28
+2018,41319,Guadalupe,"Areas Comunes, Provisionales, Bombeo y Especial",9
+2018,41349,Hobo,"Areas Comunes, Provisionales, Bombeo y Especial",7
+2018,41357,Iquira,"Areas Comunes, Provisionales, Bombeo y Especial",20
+2018,41359,Isnos,"Areas Comunes, Provisionales, Bombeo y Especial",52
+2018,41378,La Argentina,"Areas Comunes, Provisionales, Bombeo y Especial",11
+2018,41396,La Plata,"Areas Comunes, Provisionales, Bombeo y Especial",55
+2018,41483,Nátaga,"Areas Comunes, Provisionales, Bombeo y Especial",6
+2018,41503,Oporapa,"Areas Comunes, Provisionales, Bombeo y Especial",14
+2018,41518,Paicol,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2018,41524,Palermo,"Areas Comunes, Provisionales, Bombeo y Especial",88
+2018,41530,Palestina,"Areas Comunes, Provisionales, Bombeo y Especial",48
+2018,41548,PITAL,"Areas Comunes, Provisionales, Bombeo y Especial",16
+2018,41551,Pitalito,"Areas Comunes, Provisionales, Bombeo y Especial",254
+2018,41615,Rivera,"Areas Comunes, Provisionales, Bombeo y Especial",75
+2018,41660,Saladoblanco,"Areas Comunes, Provisionales, Bombeo y Especial",18
+2018,41668,San Agustín,"Areas Comunes, Provisionales, Bombeo y Especial",72
+2018,41676,Santa María,"Areas Comunes, Provisionales, Bombeo y Especial",13
+2018,41770,Suaza,"Areas Comunes, Provisionales, Bombeo y Especial",8
+2018,41791,Tarqui,"Areas Comunes, Provisionales, Bombeo y Especial",16
+2018,41799,Tello,"Areas Comunes, Provisionales, Bombeo y Especial",18
+2018,41801,Teruel,"Areas Comunes, Provisionales, Bombeo y Especial",5
+2018,41797,Tesalia,"Areas Comunes, Provisionales, Bombeo y Especial",10
+2018,41807,Timaná,"Areas Comunes, Provisionales, Bombeo y Especial",37
+2018,41872,Villavieja,"Areas Comunes, Provisionales, Bombeo y Especial",21
+2018,41885,Yaguará,"Areas Comunes, Provisionales, Bombeo y Especial",24
